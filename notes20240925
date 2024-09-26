@@ -1,0 +1,69 @@
+##############################
+## EDGAR project
+##############################
+
+Related papers I have written on the topic (see my google scholar page for references):
+1. Geographic dispersion and stock returns
+2. Crawling EDGAR
+
+You may want to browse through either, but we will be doing things slightly differently. The second one may be more useful.
+
+Main steps on this project:
+1. Download the index files from EDGAR.
+2. Download all 10-K statements from EDGAR, and save appropriately. We have some choices here, I usually go with the txt file that contains the full filing.
+3. Remove html tags, classify the different documents in a 10K.
+4. Read the US state names in the main body of the filing. Note I may ask you to do something a bit more nuanced, like reading state names in sections 1, 2, 6 or 7 within the 10-K (that's what we did in the "Geographic dispersion and stock returns" paper).
+
+####################################
+## Step 1: downloading index files
+####################################
+
+Root html place for index files:
+https://www.sec.gov/Archives/edgar/full-index/
+
+Sample quarter:
+https://www.sec.gov/Archives/edgar/full-index/2003/QTR1/master.gz
+
+You need to crawl them all, and paste them as a csv (whatever data format you choose).
+
+Two algorithms to write:
+1. Crawl the files (easy!?)
+2. Read the master files and paste together the 10-K filings. Note: there are different types of 10-K statements, you should crawl all of them.
+
+The final output from this exercise is a csv (data frame) that has the following fields:
+CIK
+Company Name
+Form Type (all 10-K versions)
+Date Filed
+Filename (this is the url that we will use later for crawling)
+
+##########################################
+## Step 2: downloading all 10-K statments
+##########################################
+
+From the previous file, all you have to do is download the 10-K entries. Any crawling package will do, but note there are some rules
+https://www.sec.gov/search-filings/edgar-search-assistance/accessing-edgar-data
+
+I typically do a subdirectory tree where the first layer is the first three digits of the CIK, and the next layer uses the seven digits of the CIK. This works well, but use other structures if you wish. Recall that directories are files in the operating system, so you do not want to have more than 1000 files in a given directory (rough but safe rule of thumb).
+
+The main challenge on this stage is checking that there were no issues downloading the files. I suggest you start doing one quarter, and then write a routine that checks the files you wanted to download are there.
+
+############################################################
+## Step 3: remove html tags, get documents within a 10-K
+############################################################
+
+Each 10-K statement will have:
+1. A header section (these are tagged as SEC-HEADER or IMS-HEADER [?]), all standarized with a ton of useful information (that I will ask you to scrape eventually, that step is easy).
+2. N different documents: a main one (the filing itself), and then a sequence of supplementary materials. Each of these documents starts and ends with a html DOCUMENT tag.
+
+So for this step, you should first separate the header and the N different documents.
+
+Then, for each document, you should strip the html tags, so as to just have the text of the filings themselves. This is non-trivial, do some research! (I will give you some pointers)
+
+############################################################
+## Step 4: count state names (main document, subsections)
+############################################################
+
+One you have the main document, and the html tags removed, counting the state names should be easy.
+
+Dealing with the subsections is a bit more tricky, but not crazy impossible (main challenge is to deal with exceptions...).
