@@ -69,7 +69,10 @@ def go():
             print(f'Now downloading 10-Ks for: {year}, {qtr}')
             file_url = r"https://www.sec.gov/Archives/edgar/full-index/{}/{}/master.idx".format(year, qtr)
             content = requests.get(file_url, headers=headers).content.decode("latin-1")
-            print(f'{content}')
+            #print a preview of the master file to make it obvious when we exceed the rate request
+            print(f'{content[:250]}')
+
+            #for each line of the master file download and save the document if it's a 10-K
             for line in content.splitlines():
                 if "10-K" in line:
                     elements = line.split('|')
@@ -101,8 +104,8 @@ def go():
 
                     with open(f'{dir_path}/{file_name}', 'w') as f:
                         f.write(cleaned_file)
-            time.sleep(30)
 
+    #output the failed downloads as a csv
     df = pd.DataFrame(error_data)
     df.to_csv("error_output.csv", index=False)
 
