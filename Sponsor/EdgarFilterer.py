@@ -38,7 +38,7 @@ def go():
     # Add parameters
     parser.add_argument('--startyear', type=int, required=True, help='The start year (INCLUSIVE)')
     parser.add_argument('--endyear', type=int, required=False, help='The end year (EXCLUSIVE)')
-    parser.add_argument('--basedir', type=int, require=False, help='Base directory for saving the files. Defaults to .')
+    parser.add_argument('--basedir', type=int, required=False, help='Base directory for saving the files. Defaults to .')
 
     # Parse the arguments
     args = parser.parse_args()
