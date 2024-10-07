@@ -27,14 +27,14 @@ def go():
     # Traverse through directory and subdirectories
     for root, dirs, files in os.walk(scratch_dir):
         for file in files:
-            if file.endswith('.rtf'):
+            if file.endswith('.txt'):
                 file_path = os.path.join(root, file)
                 file_size = os.path.getsize(file_path)  # Get the file size
                 file_data.append({
                     'Name of document': file,
-                    'Path to file': file_path,
+                    'Path to file': file_path.lstrip('./'), # Takes off the ../../
                     'File size': file_size
                 })
     df = pd.DataFrame(file_data)
-    df.to_csv(f"{start_year}_{end_year}_master.csv", index=False)
+    df.to_csv(f"{scratch_dir}/{start_year}_{end_year}_master.csv", index=False)
 go()
