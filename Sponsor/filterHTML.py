@@ -1,4 +1,5 @@
 import os
+import re
 import argparse
 import csv
 import requests
@@ -10,7 +11,7 @@ def extract_documents_and_save(soup, output_dir):
 
     # Iterate through each <DOCUMENT> tag and save its content
     for i, document in enumerate(document_tags):
-        document_content = document.get_text(strip=True)
+        document_content = re.sub(r'[^\x20-\x7E]', '', document.get_text(strip=True))
         
         # Construct the output filename
         file_name = f'document{i + 1}.txt'  # Names like document1.txt, document2.txt, etc.
@@ -33,7 +34,7 @@ def process_file(file_path, output_dir):
     try:
         with open(file_path, 'r', encoding='utf-8') as infile:
             content = infile.read()
-            soup = BeautifulSoup(content, 'html.parser')
+            soup = BeautifulSoup(content, 'html5lib')
             extract_documents_and_save(soup, output_dir)
     except FileNotFoundError:
         print(f"Error: The file {file_path} was not found.")
