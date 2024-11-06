@@ -8,9 +8,9 @@ def pad_cik(cik_str):
     """Pad a CIK number to 10 digits by adding leading zeros."""
     return str(cik_str).zfill(10)
 
-def get_first_five(full_cik):
-    """Get the first 5 digits of the padded CIK for the new directory structure."""
-    return full_cik[:5]
+def get_first_six(full_cik):
+    """Get the first 6 digits of the padded CIK for the new directory structure."""
+    return full_cik[:6]
 
 def should_process_directory(dir_name, start_range, end_range):
     """Check if the directory name falls within the specified range."""
@@ -25,7 +25,7 @@ def restructure_directories(source_base, dest_base, start_range, end_range):
     Restructure the CIK directories from:
     source_base/first_3/partial_cik/contents
     to:
-    dest_base/first_5/full_cik/contents
+    dest_base/first_6/full_cik/contents
     
     Only process directories between start_range and end_range (inclusive)
     """
@@ -65,11 +65,11 @@ def restructure_directories(source_base, dest_base, start_range, end_range):
             # Pad the CIK to 10 digits
             full_cik = pad_cik(partial_cik)
             
-            # Get the first 5 digits for the new structure
-            first_5 = get_first_five(full_cik)
+            # Get the first 6 digits for the new structure
+            first_6 = get_first_six(full_cik)
             
             # Create the new directory path
-            new_dir = dest_base / first_5 / full_cik
+            new_dir = dest_base / first_6 / full_cik
             
             # Create the new directory structure
             new_dir.mkdir(parents=True, exist_ok=True)
@@ -113,10 +113,8 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser(description='Restructure CIK directories within a specified range.')
     parser.add_argument('--start', type=int, required=True, help='Start of directory range (inclusive)')
     parser.add_argument('--end', type=int, required=True, help='End of directory range (inclusive)')
-    parser.add_argument('--source', type=str, default="../../scratch/alpine/nimi2356/raw_data",
-                      help='Source directory path')
-    parser.add_argument('--dest', type=str, default="../../scratch/alpine/nimi2356/new_raw_data",
-                      help='Destination directory path')
+    parser.add_argument('--source', type=str, default="/scratch/alpine/nimi2356/raw_data", help='Source directory path')
+    parser.add_argument('--dest', type=str, default="/scratch/alpine/nimi2356/new_raw_data", help='Destination directory path')
     
     args = parser.parse_args()
     
