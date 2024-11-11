@@ -1,0 +1,931 @@
+Entity,Type,Line Number,Start Position,End Position,File
+"K
+UNITED",GPE,1,16,24,document1.txt
+SECURITIES AND EXCHANGE COMMISSION,ORG,2,32,66,document1.txt
+Washington,GPE,3,67,77,document1.txt
+METHODE ELECTRONICS,ORG,10,257,276,document1.txt
+Delaware,GPE,12,338,346,document1.txt
+State,ORG,14,359,364,document1.txt
+IRS Employer,ORG,15,391,403,document1.txt
+West Wilson,LOC,18,460,471,document1.txt
+Chicago,GPE,19,479,486,document1.txt
+Illinois,GPE,19,488,496,document1.txt
+Address of Principal Executive Offices,ORG,21,509,547,document1.txt
+Par Value,ORG,29,770,779,document1.txt
+"New York Stock Exchange
+Securities",ORG,30,780,814,document1.txt
+the Securities Exchange Act,ORG,42,1273,1300,document1.txt
+Interactive Data File,ORG,46,1639,1660,document1.txt
+the New York Stock Exchange,ORG,65,2928,2955,document1.txt
+Selected Financial Data,ORG,98,3667,3690,document1.txt
+Management’s Discussion and Analysis of Financial Condition and Results of Operations,ORG,101,3702,3787,document1.txt
+Supplementary Data,ORG,107,3895,3913,document1.txt
+Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters,ORG,120,4073,4167,document1.txt
+Independence,PERSON,123,4241,4253,document1.txt
+Financial Statement Schedules,ORG,130,4338,4367,document1.txt
+"Business
+Methode Electronics",ORG,134,4405,4433,document1.txt
+Illinois,GPE,135,4471,4479,document1.txt
+Delaware,GPE,135,4514,4522,document1.txt
+Methode,ORG,135,4586,4593,document1.txt
+Methode Electronics,ORG,135,4600,4619,document1.txt
+China,GPE,136,4765,4770,document1.txt
+Egypt,GPE,136,4773,4778,document1.txt
+Germany,GPE,136,4780,4787,document1.txt
+India,GPE,136,4789,4794,document1.txt
+Lebanon,GPE,136,4796,4803,document1.txt
+Malta,GPE,136,4805,4810,document1.txt
+Mexico,GPE,136,4812,4818,document1.txt
+Philippines,GPE,136,4824,4835,document1.txt
+Singapore,GPE,136,4837,4846,document1.txt
+Switzerland,GPE,136,4848,4859,document1.txt
+the United Kingdom,GPE,136,4861,4879,document1.txt
+the United States,GPE,136,4884,4901,document1.txt
+Power Products,ORG,139,5636,5650,document1.txt
+Original Equipment Manufacturers,ORG,140,5771,5803,document1.txt
+Availability of Materials,ORG,186,8684,8709,document1.txt
+numerous United States,GPE,189,9695,9717,document1.txt
+the United States,GPE,189,10137,10154,document1.txt
+Ford Motor Company,ORG,193,10679,10697,document1.txt
+Ford,ORG,193,10700,10704,document1.txt
+General Motors Corporation,ORG,193,10711,10737,document1.txt
+GM,ORG,193,10740,10742,document1.txt
+Competitive Conditions,ORG,196,11132,11154,document1.txt
+Research and Development,ORG,198,11554,11578,document1.txt
+Malta,GPE,203,12731,12736,document1.txt
+Mexico,GPE,203,12741,12747,document1.txt
+Segment Information and Foreign Sales,ORG,204,12979,13016,document1.txt
+the Securities Exchange Act,ORG,207,13244,13271,document1.txt
+the Securities and Exchange Commission,ORG,207,13366,13404,document1.txt
+SEC,ORG,207,13406,13409,document1.txt
+SEC,ORG,207,13486,13489,document1.txt
+NE,GPE,207,13507,13509,document1.txt
+Washington,GPE,207,13511,13521,document1.txt
+SEC,ORG,207,13553,13556,document1.txt
+SEC,ORG,207,13593,13596,document1.txt
+Methode,ORG,207,13734,13741,document1.txt
+SEC,ORG,210,14239,14242,document1.txt
+the Audit Committee,ORG,210,14360,14379,document1.txt
+Compensation Committee,ORG,210,14381,14403,document1.txt
+Governance Committee and Technology Committee,ORG,210,14420,14465,document1.txt
+Methode Electronics,ORG,210,14551,14570,document1.txt
+West Wilson Avenue,LOC,210,14583,14601,document1.txt
+Chicago,GPE,210,14603,14610,document1.txt
+Investor Relations Department,ORG,210,14639,14668,document1.txt
+the New York Stock Exchange,ORG,212,14857,14884,document1.txt
+NYSE,ORG,212,14887,14891,document1.txt
+NYSE,ORG,212,14915,14919,document1.txt
+Donald W. Duda,PERSON,212,14975,14989,document1.txt
+Duda,PERSON,212,15011,15015,document1.txt
+the Company of the,ORG,212,15050,15068,document1.txt
+NYSE,ORG,212,15069,15073,document1.txt
+SEC,ORG,213,15187,15190,document1.txt
+Ford,ORG,217,17127,17131,document1.txt
+GM,ORG,217,17136,17138,document1.txt
+Ford,ORG,217,17684,17688,document1.txt
+GM,ORG,217,17692,17694,document1.txt
+Ford,ORG,217,17875,17879,document1.txt
+GM,ORG,217,17883,17885,document1.txt
+Europe,LOC,228,21350,21356,document1.txt
+U.S.,GPE,228,21423,21427,document1.txt
+the European Economic Community,ORG,228,21458,21489,document1.txt
+the European Central Bank,ORG,228,21593,21618,document1.txt
+Greece,GPE,228,21720,21726,document1.txt
+Italy,GPE,228,21728,21733,document1.txt
+Spain,GPE,228,21738,21743,document1.txt
+numerous United States,GPE,242,27407,27429,document1.txt
+the United States,GPE,242,27849,27866,document1.txt
+GM,ORG,249,29957,29959,document1.txt
+Monterrey,GPE,249,30039,30048,document1.txt
+Mexico,GPE,249,30050,30056,document1.txt
+GM,ORG,249,30107,30109,document1.txt
+U.S.,GPE,250,30596,30600,document1.txt
+U.S.,GPE,251,30825,30829,document1.txt
+U.S.,GPE,251,30939,30943,document1.txt
+U.S.,GPE,251,31258,31262,document1.txt
+U.S.,GPE,251,31301,31305,document1.txt
+U.S.,GPE,252,31455,31459,document1.txt
+U.S.,GPE,253,31581,31585,document1.txt
+Europe,LOC,253,31694,31700,document1.txt
+China,GPE,253,31705,31710,document1.txt
+U.S.,GPE,253,31763,31767,document1.txt
+U.S.,GPE,253,31969,31973,document1.txt
+U.S.,GPE,260,34324,34328,document1.txt
+Eetrex,ORG,263,34710,34716,document1.txt
+Advanced Molding,ORG,263,34721,34737,document1.txt
+Decoration,ORG,263,34742,34752,document1.txt
+Eetrex,ORG,264,34892,34898,document1.txt
+Eetrex,ORG,264,35394,35400,document1.txt
+Nypro Monterrey,PERSON,265,35596,35611,document1.txt
+S. de R.L.,PERSON,265,35613,35623,document1.txt
+"Nypro, Inc.",ORG,265,35629,35640,document1.txt
+Advanced Molding and Decoration,ORG,265,35736,35767,document1.txt
+S.A. de C.V.,ORG,265,35769,35781,document1.txt
+AMD,ORG,265,35783,35786,document1.txt
+AMD,ORG,265,35921,35924,document1.txt
+Item,PERSON,281,37283,37287,document1.txt
+"Automotive Segment:
+Carthage",ORG,297,37648,37676,document1.txt
+Illinois,GPE,298,37678,37686,document1.txt
+Monterrey,GPE,302,37715,37724,document1.txt
+Mexico,GPE,302,37726,37732,document1.txt
+Malta,GPE,306,37771,37776,document1.txt
+Shanghai,GPE,310,37806,37814,document1.txt
+China,GPE,310,37816,37821,document1.txt
+McAllen,GPE,314,37850,37857,document1.txt
+Texas,GPE,314,37859,37864,document1.txt
+Zhenjiang,GPE,318,37891,37900,document1.txt
+China,GPE,318,37902,37907,document1.txt
+Southfield,GPE,322,37936,37946,document1.txt
+Michigan,GPE,322,37948,37956,document1.txt
+Bangalore,GPE,326,38006,38015,document1.txt
+India,GPE,326,38017,38022,document1.txt
+Gau-Algesheim,PERSON,330,38063,38076,document1.txt
+Germany,GPE,330,38078,38085,document1.txt
+Burnley,ORG,334,38135,38142,document1.txt
+Sin El Fil,LOC,338,38191,38201,document1.txt
+Lebanon,GPE,338,38203,38210,document1.txt
+Shanghai,GPE,343,38272,38280,document1.txt
+China,GPE,343,38282,38287,document1.txt
+Chicago,GPE,347,38316,38323,document1.txt
+Illinois,GPE,347,38325,38333,document1.txt
+Malta,GPE,351,38370,38375,document1.txt
+Oklahoma City,GPE,355,38404,38417,document1.txt
+Oklahoma,GPE,355,38419,38427,document1.txt
+Richardson,GPE,359,38470,38480,document1.txt
+Texas,GPE,359,38482,38487,document1.txt
+Laguna,GPE,363,38516,38522,document1.txt
+Philippines,GPE,363,38524,38535,document1.txt
+Wheaton,ORG,367,38564,38571,document1.txt
+Illinois,GPE,367,38573,38581,document1.txt
+San Jose,GPE,371,38610,38618,document1.txt
+California,GPE,371,38620,38630,document1.txt
+Singapore,GPE,375,38661,38670,document1.txt
+"Administrative
+Leased",ORG,376,38681,38702,document1.txt
+Illinois,GPE,380,38750,38758,document1.txt
+Mriehel,ORG,384,38786,38793,document1.txt
+Malta,GPE,384,38795,38800,document1.txt
+Shanghai,GPE,388,38829,38837,document1.txt
+China,GPE,388,38839,38844,document1.txt
+Boulder,GPE,392,38873,38880,document1.txt
+Colorado,GPE,392,38882,38890,document1.txt
+"Prototype and Design Center
+Leased",ORG,393,38891,38925,document1.txt
+San Jose,GPE,396,38932,38940,document1.txt
+California,GPE,396,38942,38952,document1.txt
+Palatine,GPE,401,39009,39017,document1.txt
+"Illinois
+Test Laboratory
+Owned",ORG,401,39019,39049,document1.txt
+Hunt Valley,GPE,405,39057,39068,document1.txt
+Maryland,GPE,405,39070,39078,document1.txt
+Chicago,GPE,409,39108,39115,document1.txt
+Illinois,GPE,409,39117,39125,document1.txt
+Methode,ORG,417,39500,39507,document1.txt
+Delphi Automotive Systems LLC,ORG,417,39512,39541,document1.txt
+Delphi,ORG,417,39544,39550,document1.txt
+Methode,ORG,417,39603,39610,document1.txt
+Delphi,ORG,417,39632,39638,document1.txt
+Delphi,ORG,417,39684,39690,document1.txt
+Delphi,ORG,417,39788,39794,document1.txt
+Delphi,ORG,417,39899,39905,document1.txt
+DPH Holdings Corp.,ORG,418,40089,40107,document1.txt
+Delphi Corporation,ORG,418,40164,40182,document1.txt
+Delphi,ORG,418,40215,40221,document1.txt
+Delphi,ORG,418,40344,40350,document1.txt
+Delphi,ORG,418,40406,40412,document1.txt
+Delphi,ORG,418,40469,40475,document1.txt
+the United States Bankruptcy Court,ORG,418,40649,40683,document1.txt
+the Southern District,LOC,418,40688,40709,document1.txt
+New York,GPE,418,40713,40721,document1.txt
+Delphi Corporation,ORG,418,40733,40751,document1.txt
+Methode Electronics,ORG,418,40763,40782,document1.txt
+Complaint,ORG,418,40865,40874,document1.txt
+Delphi,ORG,418,41012,41018,document1.txt
+Delphi,ORG,418,41132,41138,document1.txt
+Company,ORG,418,41203,41210,document1.txt
+Complaint,ORG,418,41263,41272,document1.txt
+The Bankruptcy Court,ORG,418,41420,41440,document1.txt
+Complaint,ORG,418,41473,41482,document1.txt
+Complaint,ORG,418,41547,41556,document1.txt
+Delphi,ORG,418,41585,41591,document1.txt
+The Court overruled,ORG,418,41632,41651,document1.txt
+Donald W. Duda,PERSON,425,42292,42306,document1.txt
+Duda,PERSON,427,42429,42433,document1.txt
+Duda,PERSON,427,42503,42507,document1.txt
+Amphenol Corporation,ORG,427,42517,42537,document1.txt
+Fiber Optic Products Division,ORG,427,42577,42606,document1.txt
+Douglas A. Koman,PERSON,428,42619,42635,document1.txt
+Corporate Finance,ORG,430,42706,42723,document1.txt
+Koman,PERSON,430,42770,42775,document1.txt
+Koman,PERSON,430,42855,42860,document1.txt
+Illinois Central Corporation,ORG,430,42870,42898,document1.txt
+Controller,ORG,430,42915,42925,document1.txt
+Treasurer,PERSON,430,42941,42950,document1.txt
+Thomas D. Reynolds,PERSON,431,42963,42981,document1.txt
+Company,ORG,433,43017,43024,document1.txt
+Worldwide Automotive Operations,ORG,433,43065,43096,document1.txt
+North American Automotive Operations,ORG,433,43161,43197,document1.txt
+Reynolds,PERSON,433,43253,43261,document1.txt
+Donnelly Corporation,ORG,433,43271,43291,document1.txt
+Operations,ORG,433,43334,43344,document1.txt
+Transnational Business Unit,ORG,433,43376,43403,document1.txt
+Timothy R. Glandon,PERSON,434,43423,43441,document1.txt
+Glandon,GPE,436,43554,43561,document1.txt
+Automotive Safety Technologies,ORG,436,43585,43615,document1.txt
+Glandon,GPE,436,43647,43654,document1.txt
+American Components,ORG,436,43699,43718,document1.txt
+Joseph,PERSON,437,43744,43750,document1.txt
+E. Khoury,PERSON,437,43752,43761,document1.txt
+European Automotive,ORG,439,43801,43820,document1.txt
+Khoury,PERSON,439,43868,43874,document1.txt
+Methode Electronics International,ORG,439,43898,43931,document1.txt
+GMBH,ORG,439,43933,43937,document1.txt
+Theodore P. Kill,PERSON,440,43950,43966,document1.txt
+Worldwide Automotive Sales,ORG,442,43986,44012,document1.txt
+Kill and Associates,ORG,442,44086,44105,document1.txt
+Kill and Bolton Associates,ORG,442,44170,44196,document1.txt
+Ronald L.G. Tsoumas,PERSON,443,44216,44235,document1.txt
+the Board of Directors,ORG,446,44408,44430,document1.txt
+the New York Stock Exchange,ORG,453,44743,44770,document1.txt
+the Board of Directors,ORG,500,45246,45268,document1.txt
+Equity Securities,ORG,535,46249,46266,document1.txt
+"the Company and Affiliated Purchasers
+Period
+Total
+Number of
+Shares
+Purchased",ORG,535,46270,46347,document1.txt
+"Programs
+Maximum Number",ORG,548,46453,46476,document1.txt
+Consolidated Financial Statements,ORG,576,47176,47209,document1.txt
+Company,ORG,576,47480,47487,document1.txt
+Methode Electronics,ORG,625,48487,48506,document1.txt
+"Methode Electronics, Inc.",ORG,646,48735,48760,document1.txt
+"Methode Electronics, Inc.",ORG,666,48971,48996,document1.txt
+Delphi,ORG,742,49553,49559,document1.txt
+Delphi,ORG,743,49780,49786,document1.txt
+Delphi,ORG,744,50016,50022,document1.txt
+China,GPE,751,50997,51002,document1.txt
+Egypt,GPE,751,51005,51010,document1.txt
+Germany,GPE,751,51012,51019,document1.txt
+India,GPE,751,51021,51026,document1.txt
+Lebanon,GPE,751,51028,51035,document1.txt
+Malta,GPE,751,51037,51042,document1.txt
+Mexico,GPE,751,51044,51050,document1.txt
+Philippines,GPE,751,51056,51067,document1.txt
+Singapore,GPE,751,51069,51078,document1.txt
+Switzerland,GPE,751,51080,51091,document1.txt
+the United Kingdom,GPE,751,51093,51111,document1.txt
+the United States,GPE,751,51116,51133,document1.txt
+Power Products,ORG,751,51367,51381,document1.txt
+Recent Transactions,ORG,753,51809,51828,document1.txt
+Eetrex Incorporated,ORG,754,51902,51921,document1.txt
+Eetrex,ORG,754,52047,52053,document1.txt
+Eetrex,ORG,754,52056,52062,document1.txt
+Boulder,GPE,754,52077,52084,document1.txt
+Colorado,GPE,754,52086,52094,document1.txt
+Nypro Monterrey,PERSON,756,52309,52324,document1.txt
+S. de R.L.,PERSON,756,52326,52336,document1.txt
+Nypro Monterrey,PERSON,756,52338,52353,document1.txt
+Nypro Inc.,ORG,756,52360,52370,document1.txt
+Advanced Molding and Decoration,ORG,756,52464,52495,document1.txt
+S.A. de C.V.,ORG,756,52497,52509,document1.txt
+AMD,ORG,756,52511,52514,document1.txt
+Monterrey,PERSON,756,52558,52567,document1.txt
+AMD,ORG,756,52592,52595,document1.txt
+AMD,ORG,756,52731,52734,document1.txt
+Nypro Monterrey,PERSON,756,52861,52876,document1.txt
+"N/M
+Net",ORG,842,53768,53775,document1.txt
+Methode Electronics,ORG,843,53799,53818,document1.txt
+Methode Electronics,ORG,908,54352,54371,document1.txt
+Consolidated,ORG,914,54403,54415,document1.txt
+Consolidated,ORG,982,55369,55381,document1.txt
+Consolidated,ORG,994,55522,55534,document1.txt
+The Power Products,ORG,1005,56088,56106,document1.txt
+Malta,GPE,1009,56390,56395,document1.txt
+U.S.,GPE,1009,56556,56560,document1.txt
+Power Products,ORG,1009,56568,56582,document1.txt
+Gross,PERSON,1023,56751,56756,document1.txt
+Gross,PERSON,1031,56860,56865,document1.txt
+Blue Angel LLC,ORG,1049,57717,57731,document1.txt
+Delphi,ORG,1049,57748,57754,document1.txt
+Eetrex,ORG,1055,58009,58015,document1.txt
+AMD,ORG,1055,58020,58023,document1.txt
+Delphi,ORG,1059,58164,58170,document1.txt
+AMD,ORG,1059,58244,58247,document1.txt
+Malta,GPE,1059,58340,58345,document1.txt
+Amortization,PERSON,1069,58519,58531,document1.txt
+AMD,ORG,1109,59378,59381,document1.txt
+Singapore,GPE,1109,59600,59609,document1.txt
+U.S.,GPE,1109,59762,59766,document1.txt
+Malta,GPE,1125,60263,60268,document1.txt
+Methode Electronics,ORG,1129,61379,61398,document1.txt
+Methode Electronics,ORG,1130,61432,61451,document1.txt
+Malta,GPE,1140,61895,61900,document1.txt
+Blue Angel,ORG,1140,62095,62105,document1.txt
+"Automotive Segment Results
+Below",ORG,1142,62204,62236,document1.txt
+North America,LOC,1232,62997,63010,document1.txt
+Europe,LOC,1232,63012,63018,document1.txt
+Asia,LOC,1232,63023,63027,document1.txt
+North America,LOC,1232,63085,63098,document1.txt
+Ford Center Console Program,ORG,1232,63143,63170,document1.txt
+AMD,ORG,1232,63234,63237,document1.txt
+Asia,LOC,1232,63293,63297,document1.txt
+Europe,LOC,1232,63404,63410,document1.txt
+Malta,GPE,1262,64770,64775,document1.txt
+Gross,PERSON,1284,65082,65087,document1.txt
+Blue Angel LLC,ORG,1310,65955,65969,document1.txt
+Delphi,ORG,1310,65986,65992,document1.txt
+AMD,ORG,1312,66106,66109,document1.txt
+Delphi,ORG,1318,66481,66487,document1.txt
+AMD,ORG,1318,66561,66564,document1.txt
+Operations,ORG,1327,66708,66718,document1.txt
+North America,LOC,1434,67977,67990,document1.txt
+Europe,LOC,1434,68161,68167,document1.txt
+Asia,LOC,1436,68403,68407,document1.txt
+Gross,PERSON,1473,69166,69171,document1.txt
+Operations,ORG,1504,69940,69950,document1.txt
+"Power Products Segment Results
+Below",ORG,1518,70230,70266,document1.txt
+North America,LOC,1609,71033,71046,document1.txt
+Asia,LOC,1609,71062,71066,document1.txt
+Europe,LOC,1609,71128,71134,document1.txt
+North America,LOC,1631,71719,71732,document1.txt
+U.S.,GPE,1635,72001,72005,document1.txt
+Gross,PERSON,1649,72180,72185,document1.txt
+North America,LOC,1657,72484,72497,document1.txt
+North America,LOC,1672,72847,72860,document1.txt
+Eetrex,ORG,1672,72923,72929,document1.txt
+"N/M
+Selling",ORG,1910,76459,76470,document1.txt
+"N/M
+Net",ORG,1948,76775,76782,document1.txt
+"N/M
+Net",ORG,1955,76855,76862,document1.txt
+Methode Electronics,ORG,1956,76886,76905,document1.txt
+Methode Electronics,ORG,2026,77469,77488,document1.txt
+Consolidated,ORG,2032,77520,77532,document1.txt
+Consolidated,ORG,2036,78804,78816,document1.txt
+Consolidated,ORG,2036,78954,78966,document1.txt
+Malta,GPE,2036,79205,79210,document1.txt
+U.S.,GPE,2036,79303,79307,document1.txt
+Delphi,ORG,2036,79859,79865,document1.txt
+Gross,PERSON,2038,80041,80046,document1.txt
+Gross,PERSON,2038,80156,80161,document1.txt
+Delphi,ORG,2038,80223,80229,document1.txt
+Amortization,PERSON,2042,81020,81032,document1.txt
+Blue Angel LLC,ORG,2044,81445,81459,document1.txt
+Delphi,ORG,2044,81489,81495,document1.txt
+Delphi,ORG,2044,81722,81728,document1.txt
+Interest Expense,ORG,2045,82154,82170,document1.txt
+Eetrex,ORG,2048,82997,83003,document1.txt
+Singapore,GPE,2048,83423,83432,document1.txt
+U.S.,GPE,2048,83585,83589,document1.txt
+Methode Electronics,ORG,2055,85211,85230,document1.txt
+Methode Electronics,ORG,2056,85264,85283,document1.txt
+"Automotive Segment Results
+Below",ORG,2059,85997,86029,document1.txt
+"N/M
+Selling",ORG,2095,86322,86333,document1.txt
+North America,LOC,2146,86720,86733,document1.txt
+North America Automotive,LOC,2147,86796,86820,document1.txt
+Ford,ORG,2150,86877,86881,document1.txt
+Reynosa,GPE,2150,86905,86912,document1.txt
+Mexico,GPE,2150,86914,86920,document1.txt
+Delphi,ORG,2153,86953,86959,document1.txt
+Shanghai,GPE,2156,87032,87040,document1.txt
+China,GPE,2156,87042,87047,document1.txt
+Ford,ORG,2161,87079,87083,document1.txt
+Asia,LOC,2167,87344,87348,document1.txt
+Europe,LOC,2167,87394,87400,document1.txt
+North America,LOC,2167,87453,87466,document1.txt
+Asia,LOC,2167,87562,87566,document1.txt
+North America,LOC,2167,87675,87688,document1.txt
+Delphi Corporation,ORG,2167,87713,87731,document1.txt
+North America,LOC,2167,87904,87917,document1.txt
+U.S.,GPE,2167,87986,87990,document1.txt
+Shanghai,GPE,2167,88019,88027,document1.txt
+China,GPE,2167,88029,88034,document1.txt
+Ford,ORG,2167,88148,88152,document1.txt
+Reynosa,GPE,2167,88176,88183,document1.txt
+Mexico,GPE,2167,88185,88191,document1.txt
+North America,LOC,2167,88314,88327,document1.txt
+Ford Center Console Program,ORG,2167,88444,88471,document1.txt
+Malta,GPE,2170,89458,89463,document1.txt
+Delphi,ORG,2170,89961,89967,document1.txt
+Asia,LOC,2170,90064,90068,document1.txt
+North America,LOC,2170,90199,90212,document1.txt
+Delphi,ORG,2170,90397,90403,document1.txt
+Gross,PERSON,2172,90717,90722,document1.txt
+Delphi,ORG,2172,90830,90836,document1.txt
+Asia,LOC,2172,91074,91078,document1.txt
+Blue Angel LLC,ORG,2176,91686,91700,document1.txt
+Delphi,ORG,2176,91730,91736,document1.txt
+Delphi,ORG,2176,91820,91826,document1.txt
+North America,LOC,2178,92707,92720,document1.txt
+"N/M
+Selling",ORG,2216,93131,93142,document1.txt
+North America,LOC,2269,93682,93695,document1.txt
+Europe,LOC,2269,93700,93706,document1.txt
+Asia,LOC,2269,93753,93757,document1.txt
+North America,LOC,2269,93824,93837,document1.txt
+Europe,LOC,2269,93938,93944,document1.txt
+Asia,LOC,2269,94022,94026,document1.txt
+Gross,PERSON,2273,95021,95026,document1.txt
+"Power Products Segment Results
+Below",ORG,2281,96365,96401,document1.txt
+"N/M
+Selling",ORG,2317,96688,96699,document1.txt
+North America,LOC,2369,97269,97282,document1.txt
+Asia,LOC,2369,97299,97303,document1.txt
+Asia,LOC,2369,97322,97326,document1.txt
+North America,LOC,2369,97387,97400,document1.txt
+Europe,LOC,2369,97560,97566,document1.txt
+U.S.,GPE,2371,98142,98146,document1.txt
+Gross,PERSON,2373,98520,98525,document1.txt
+Eetrex,ORG,2373,98761,98767,document1.txt
+Eetrex,ORG,2378,99532,99538,document1.txt
+Eetrex,ORG,2380,100048,100054,document1.txt
+Gross,PERSON,2463,101583,101588,document1.txt
+Operations,ORG,2466,102088,102098,document1.txt
+"Financial Condition, Liquidity and Capital Resources",ORG,2469,102346,102398,document1.txt
+U.S.,GPE,2470,102623,102627,document1.txt
+U.S.,GPE,2470,102737,102741,document1.txt
+U.S.,GPE,2470,102856,102860,document1.txt
+U.S.,GPE,2470,103075,103079,document1.txt
+GM,ORG,2471,103250,103252,document1.txt
+Monterrey,GPE,2471,103321,103330,document1.txt
+Mexico,GPE,2471,103332,103338,document1.txt
+Bank of America,ORG,2472,103833,103848,document1.txt
+N.A.,GPE,2472,103850,103854,document1.txt
+The Amended and,ORG,2472,104353,104368,document1.txt
+U.S.,GPE,2472,104427,104431,document1.txt
+Operating Activities,ORG,2511,105358,105378,document1.txt
+Operating Activities,ORG,2513,106396,106416,document1.txt
+Europe,LOC,2518,108137,108143,document1.txt
+China,GPE,2518,108145,108150,document1.txt
+U.S.,GPE,2518,108162,108166,document1.txt
+Advanced Molding and Decoration,ORG,2518,108209,108240,document1.txt
+Eetrex,ORG,2518,108328,108334,document1.txt
+Eetrex,ORG,2520,108919,108925,document1.txt
+Financing Activities,ORG,2521,109140,109160,document1.txt
+Company,ORG,2522,109404,109411,document1.txt
+Financing Activities,ORG,2523,109754,109774,document1.txt
+Contractual Obligations,ORG,2525,110181,110204,document1.txt
+Critical Accounting Policies,ORG,2580,110800,110828,document1.txt
+"Estimates
+Management",ORG,2580,110833,110853,document1.txt
+the United States,GPE,2581,111070,111087,document1.txt
+FASB ASC Topic,ORG,2590,114283,114297,document1.txt
+FASB,ORG,2592,114594,114598,document1.txt
+ASC Topic,ORG,2592,114599,114608,document1.txt
+Goodwill,ORG,2592,114615,114623,document1.txt
+Item,PERSON,2596,117289,117293,document1.txt
+Power Products,ORG,2597,117453,117467,document1.txt
+Consolidated Financial Statements,ORG,2601,118871,118904,document1.txt
+Malta,GPE,2601,119563,119568,document1.txt
+Company,ORG,2603,120620,120627,document1.txt
+Item,PERSON,2604,120927,120931,document1.txt
+U.S.,GPE,2605,121120,121124,document1.txt
+U.S.,GPE,2609,121483,121487,document1.txt
+U.S.,GPE,2609,121596,121600,document1.txt
+Singapore,GPE,2609,121727,121736,document1.txt
+Supplementary Data,ORG,2617,122405,122423,document1.txt
+Financial Statements,ORG,2618,122452,122472,document1.txt
+Financial Statement Schedule,ORG,2618,122477,122505,document1.txt
+Schedule,ORG,2618,122538,122546,document1.txt
+"Item 9A. Controls and Procedures
+Evaluation of Disclosure Controls and Procedures",ORG,2619,122585,122666,document1.txt
+the Securities Exchange Act,ORG,2621,122997,123024,document1.txt
+the Securities and Exchange Commission’s,ORG,2621,123317,123357,document1.txt
+Management’s Report on Internal Control,ORG,2622,123603,123642,document1.txt
+Internal Control —,ORG,2624,124146,124164,document1.txt
+the Committee of Sponsoring Organizations of the Treadway Commission,ORG,2625,124196,124264,document1.txt
+COSO,ORG,2625,124266,124270,document1.txt
+U.S.,GPE,2625,124531,124535,document1.txt
+the Audit Committee,ORG,2628,124786,124805,document1.txt
+Ernst and Young LLP,ORG,2628,124859,124878,document1.txt
+F-2,ORG,2628,124996,124999,document1.txt
+Internal Control,ORG,2629,125047,125063,document1.txt
+"Inherent Limitations on Effectiveness of Controls
+Our",ORG,2631,125445,125498,document1.txt
+Regulation S-K.  Information,ORG,2637,127731,127759,document1.txt
+Audit Committee,ORG,2637,127850,127865,document1.txt
+Beneficial Ownership Reporting Compliance,ORG,2637,127917,127958,document1.txt
+“Audit Committee Matters,ORG,2637,127964,127988,document1.txt
+Compensation Committee Report,ORG,2640,129010,129039,document1.txt
+"Beneficial Owners and Management and Related Stockholder Matters
+Information",ORG,2641,129279,129355,document1.txt
+Independence,PERSON,2643,129640,129652,document1.txt
+the Securities Exchange Act,ORG,2662,130837,130864,document1.txt
+thereunto,ORG,2662,130984,130993,document1.txt
+METHODE ELECTRONICS,ORG,2663,131011,131030,document1.txt
+"DOUGLAS A. KOMAN
+Douglas A. Koman",PERSON,2666,131058,131091,document1.txt
+Principal Accounting,ORG,2669,131117,131137,document1.txt
+the Securities Exchange Act,ORG,2673,131217,131244,document1.txt
+WARREN L. BATTS,PERSON,2677,131444,131460,document1.txt
+"Warren L. Batts
+/s",PERSON,2680,131496,131514,document1.txt
+CHRISTOPHER J. HORNUNG,PERSON,2681,131517,131539,document1.txt
+Christopher J. Hornung,PERSON,2684,131581,131603,document1.txt
+"DONALD W. DUDA
+Chief",PERSON,2685,131608,131628,document1.txt
+Donald W. Duda,PERSON,2688,131683,131697,document1.txt
+Principal Executive,ORG,2689,131699,131718,document1.txt
+"DOUGLAS A. KOMAN
+Chief",PERSON,2690,131733,131755,document1.txt
+"Douglas A. Koman
+/s / WALTER J. ASPATORE",PERSON,2693,131788,131828,document1.txt
+Walter J. Aspatore,PERSON,2697,131852,131870,document1.txt
+J. EDWARD COLGATE,PERSON,2698,131875,131893,document1.txt
+J. Edward Colgate,PERSON,2701,131916,131933,document1.txt
+DARREN M. DAWSON,PERSON,2702,131938,131954,document1.txt
+Darren M. Dawson,PERSON,2705,131978,131994,document1.txt
+STEPHEN F. GATES,PERSON,2706,132000,132017,document1.txt
+Stephen F. Gates,PERSON,2709,132040,132056,document1.txt
+ISABELLE C. GOOSSEN,PERSON,2710,132062,132082,document1.txt
+"Isabelle C. Goossen
+/s",PERSON,2713,132105,132127,document1.txt
+PAUL G. SHELTON,PERSON,2714,132130,132145,document1.txt
+Paul G. Shelton,PERSON,2717,132169,132184,document1.txt
+LAWRENCE B. SKATOFF,PERSON,2718,132190,132209,document1.txt
+Lawrence B. Skatoff,PERSON,2721,132233,132252,document1.txt
+METHODE ELECTRONICS,ORG,2723,132256,132275,document1.txt
+Methode Electronics,ORG,2728,132409,132428,document1.txt
+Independent Registered Public Accounting Firm,ORG,2729,132486,132532,document1.txt
+Internal Control,ORG,2731,132595,132611,document1.txt
+"F-3
+Consolidated Statements of Operations",ORG,2734,132705,132746,document1.txt
+"Financial Statement Schedule
+Schedule II — Valuation and Qualifying Accounts",ORG,2746,133193,133270,document1.txt
+the Securities and Exchange Commission,ORG,2749,133366,133404,document1.txt
+Board of Directors,ORG,2752,133565,133583,document1.txt
+Methode Electronics,ORG,2753,133601,133620,document1.txt
+Methode Electronics,ORG,2754,133691,133710,document1.txt
+Company,ORG,2754,134128,134135,document1.txt
+the Public Company Accounting Oversight Board,ORG,2755,134319,134364,document1.txt
+United States,GPE,2755,134366,134379,document1.txt
+Methode Electronics,ORG,2756,135061,135080,document1.txt
+U.S.,GPE,2756,135302,135306,document1.txt
+the Public Company Accounting Oversight Board,ORG,2757,135628,135673,document1.txt
+United States,GPE,2757,135675,135688,document1.txt
+Methode Electronics,ORG,2757,135691,135710,document1.txt
+Internal Control —,ORG,2757,135832,135850,document1.txt
+Integrated Framework,ORG,2757,135851,135871,document1.txt
+the Committee of Sponsoring Organizations of the Treadway Commission,ORG,2757,135882,135950,document1.txt
+"LLP
+Chicago",ORG,2758,136046,136057,document1.txt
+Illinois,GPE,2759,136059,136067,document1.txt
+Board of Directors,ORG,2763,136142,136160,document1.txt
+Methode Electronics,ORG,2764,136178,136197,document1.txt
+Methode Electronics,ORG,2765,136220,136239,document1.txt
+Internal Control—,ORG,2765,136361,136378,document1.txt
+Integrated Framework,ORG,2765,136378,136398,document1.txt
+the Committee of Sponsoring Organizations of the Treadway Commission,ORG,2765,136409,136477,document1.txt
+COSO,ORG,2765,136483,136487,document1.txt
+Methode Electronics,ORG,2765,136499,136518,document1.txt
+Management's Report on Internal Control Over Financial Reporting,ORG,2765,136756,136820,document1.txt
+the Public Company Accounting Oversight Board,ORG,2766,137005,137050,document1.txt
+United States,GPE,2766,137052,137065,document1.txt
+Methode Electronics,ORG,2769,139151,139170,document1.txt
+COSO,ORG,2769,139319,139323,document1.txt
+the Public Company Accounting Oversight Board,ORG,2770,139392,139437,document1.txt
+United States,GPE,2770,139439,139452,document1.txt
+Methode Electronics,ORG,2770,139490,139509,document1.txt
+"LLP
+Chicago",ORG,2771,139853,139864,document1.txt
+Illinois,GPE,2772,139866,139874,document1.txt
+"F-2
+METHODE ELECTRONICS",ORG,2774,139889,139912,document1.txt
+Treasury,ORG,2901,141640,141648,document1.txt
+METHODE ELECTRONICS,ORG,2909,141766,141785,document1.txt
+"F-3
+METHODE ELECTRONICS",ORG,2924,141989,142012,document1.txt
+METHODE ELECTRONICS,ORG,3002,142941,142960,document1.txt
+"F-4
+METHODE ELECTRONICS",ORG,3062,143405,143428,document1.txt
+Methode,ORG,3092,143863,143870,document1.txt
+"F-5
+METHODE ELECTRONICS",ORG,3100,143956,143979,document1.txt
+"Non-Controlling Interest
+Total Shareholders Equity
+Balance",ORG,3124,144327,144385,document1.txt
+Treasury,ORG,3214,144941,144949,document1.txt
+Hetronic Asia,ORG,3226,145069,145082,document1.txt
+Hetronic Asia,GPE,3236,145134,145147,document1.txt
+Treasury,ORG,3355,145794,145802,document1.txt
+Eetrex,ORG,3390,146019,146025,document1.txt
+Eetrex,ORG,3496,146645,146651,document1.txt
+Eetrex,ORG,3507,146718,146724,document1.txt
+"F-6
+METHODE ELECTRONICS",ORG,3574,147122,147145,document1.txt
+"F-7
+METHODE ELECTRONICS, INC.",ORG,3750,149144,149173,document1.txt
+CONSOLIDATED FINANCIAL,ORG,3752,149200,149222,document1.txt
+Methode Electronics,ORG,3757,149428,149447,document1.txt
+Methode,ORG,3757,149546,149553,document1.txt
+Methode Electronics,ORG,3757,149561,149580,document1.txt
+Subsidiaries,ORG,3757,149595,149607,document1.txt
+Financial Reporting Periods,ORG,3758,149609,149636,document1.txt
+Plant and Equipment,ORG,3766,150959,150978,document1.txt
+ii,PERSON,3771,151823,151825,document1.txt
+U.S.,GPE,3775,152971,152975,document1.txt
+Long-Lived Assets,ORG,3776,153526,153543,document1.txt
+"F-8
+METHODE ELECTRONICS, INC.",ORG,3778,153894,153923,document1.txt
+CONSOLIDATED FINANCIAL,ORG,3780,153950,153972,document1.txt
+FASB ASC Topic,ORG,3784,154377,154391,document1.txt
+FASB,ORG,3786,154688,154692,document1.txt
+ASC Topic,ORG,3786,154693,154702,document1.txt
+Goodwill,ORG,3786,154709,154717,document1.txt
+Research and Development Costs,ORG,3789,157278,157308,document1.txt
+the United States,GPE,3794,157844,157861,document1.txt
+Fair Value,ORG,3795,158052,158062,document1.txt
+the Financial Accounting Standards Board,ORG,3798,158372,158412,document1.txt
+FASB,ORG,3798,158415,158419,document1.txt
+Accounting Standards Update,ORG,3798,158429,158456,document1.txt
+U.S.,GPE,3798,158559,158563,document1.txt
+International Financial Reporting Standards,ORG,3798,158619,158662,document1.txt
+IFRS,ORG,3798,158666,158670,document1.txt
+U.S.,GPE,3798,158752,158756,document1.txt
+IFRS,ORG,3798,158766,158770,document1.txt
+U.S.,GPE,3798,158865,158869,document1.txt
+ASU 2011-04,ORG,3798,158962,158973,document1.txt
+"F-9
+METHODE ELECTRONICS, INC.",ORG,3799,159053,159082,document1.txt
+CONSOLIDATED FINANCIAL,ORG,3801,159109,159131,document1.txt
+FASB,ORG,3804,159375,159379,document1.txt
+ASU No.,ORG,3804,159387,159394,document1.txt
+ASU No.,GPE,3804,159824,159831,document1.txt
+FASB,ORG,3805,159921,159925,document1.txt
+ASU,GPE,3805,159934,159937,document1.txt
+the FASB Emerging Issues Task Force,ORG,3805,160030,160065,document1.txt
+FASB Accounting Standards Codification,ORG,3805,160081,160119,document1.txt
+ASC,ORG,3805,160122,160125,document1.txt
+FASB,ORG,3805,160614,160618,document1.txt
+FASB,ORG,3806,160947,160951,document1.txt
+ASC,ORG,3806,160992,160995,document1.txt
+Business Combinations,ORG,3806,161006,161027,document1.txt
+ASC,ORG,3807,161114,161117,document1.txt
+FASB,ORG,3809,162225,162229,document1.txt
+ASU 2011-08,ORG,3809,162237,162248,document1.txt
+ASU,GPE,3809,162888,162891,document1.txt
+CONSOLIDATED FINANCIAL,ORG,3815,163497,163519,document1.txt
+Eetrex Incorporated,ORG,3902,164307,164326,document1.txt
+Eetrex,ORG,3902,164385,164391,document1.txt
+Boulder,GPE,3902,164406,164413,document1.txt
+Colorado,GPE,3902,164415,164423,document1.txt
+Eetrex,ORG,3902,164795,164801,document1.txt
+ASC 480,ORG,3902,165172,165179,document1.txt
+Eetrex,ORG,3902,165676,165682,document1.txt
+Power Products,ORG,3902,165709,165723,document1.txt
+Nypro Monterrey,PERSON,3904,166115,166130,document1.txt
+S. de R.L.,PERSON,3904,166132,166142,document1.txt
+Nypro Monterrey,PERSON,3904,166144,166159,document1.txt
+Nypro Inc.,ORG,3904,166166,166176,document1.txt
+Advanced Molding and Decoration,ORG,3904,166264,166295,document1.txt
+S.A. de C.V.,ORG,3904,166297,166309,document1.txt
+AMD,ORG,3904,166311,166314,document1.txt
+Monterrey,PERSON,3904,166358,166367,document1.txt
+AMD,ORG,3904,166392,166395,document1.txt
+AMD,ORG,3904,166531,166534,document1.txt
+Nypro Monterrey,PERSON,3904,166661,166676,document1.txt
+"METHODE ELECTRONICS, INC.",ORG,3906,166732,166757,document1.txt
+CONSOLIDATED FINANCIAL,ORG,3907,166784,166806,document1.txt
+AMD,ORG,3909,167332,167335,document1.txt
+Eetrex,ORG,3911,167749,167755,document1.txt
+Eetrex,ORG,3911,167939,167945,document1.txt
+Eetrex,ORG,3912,168276,168282,document1.txt
+the Czech Republic,GPE,3914,168941,168959,document1.txt
+ASC,ORG,3915,169710,169713,document1.txt
+Power Products,ORG,3919,169940,169954,document1.txt
+CONSOLIDATED FINANCIAL,ORG,3923,171202,171224,document1.txt
+Eetrex,ORG,3925,171380,171386,document1.txt
+Cableco Technologies Corporation,ORG,3926,171515,171547,document1.txt
+"F-13
+METHODE ELECTRONICS, INC.",ORG,4040,173381,173411,document1.txt
+CONSOLIDATED FINANCIAL,ORG,4042,173438,173460,document1.txt
+treasury,ORG,4060,174149,174157,document1.txt
+the Internal Revenue Code of,ORG,4075,174972,175000,document1.txt
+the Compensation Committee,ORG,4077,175371,175397,document1.txt
+CONSOLIDATED FINANCIAL,ORG,4080,175718,175740,document1.txt
+Wtd,PERSON,4085,176002,176005,document1.txt
+Avg,PERSON,4085,176007,176010,document1.txt
+Company,ORG,4143,176670,176677,document1.txt
+the U.S. Treasury,ORG,4173,177649,177666,document1.txt
+CONSOLIDATED FINANCIAL,ORG,4176,178046,178068,document1.txt
+Compensation Committee,ORG,4181,178243,178265,document1.txt
+Company,ORG,4181,178488,178495,document1.txt
+the Compensation Committee,ORG,4182,179275,179301,document1.txt
+Company,ORG,4182,179401,179408,document1.txt
+Compensation Committee,ORG,4183,179982,180004,document1.txt
+RSA Tandem Cash Awards,PERSON,4187,181380,181402,document1.txt
+RSA,ORG,4187,181617,181620,document1.txt
+Restricted Stock Awards,ORG,4188,181858,181881,document1.txt
+Company,ORG,4188,182009,182016,document1.txt
+Company,ORG,4188,182198,182205,document1.txt
+Company,ORG,4188,182266,182273,document1.txt
+Restricted Stock Units,ORG,4189,182350,182372,document1.txt
+Control (Stock Options,ORG,4190,182541,182563,document1.txt
+CONSOLIDATED FINANCIAL,ORG,4193,182727,182749,document1.txt
+RSA,ORG,4195,182849,182852,document1.txt
+RSU,ORG,4195,182857,182860,document1.txt
+RSU,ORG,4197,182933,182936,document1.txt
+Target Unearned Compensation Expense,ORG,4230,183306,183342,document1.txt
+Vesting Period,ORG,4233,183381,183395,document1.txt
+RSA,ORG,4238,183446,183449,document1.txt
+RSU,ORG,4247,183518,183521,document1.txt
+treasury,ORG,4258,183860,183868,document1.txt
+the Board of Directors,ORG,4259,184315,184337,document1.txt
+Compensation Committee,ORG,4261,184540,184562,document1.txt
+the Compensation Committee,ORG,4262,184909,184935,document1.txt
+the Compensation Committee,ORG,4263,185217,185243,document1.txt
+the Compensation Committee,ORG,4263,185474,185500,document1.txt
+"METHODE ELECTRONICS, INC.",ORG,4265,185678,185703,document1.txt
+CONSOLIDATED FINANCIAL,ORG,4266,185730,185752,document1.txt
+Wtd,PERSON,4273,186011,186014,document1.txt
+CONSOLIDATED FINANCIAL,ORG,4365,186764,186786,document1.txt
+Company,ORG,4408,187881,187888,document1.txt
+RSU,ORG,4408,188184,188187,document1.txt
+the Compensation Committee,ORG,4409,188555,188581,document1.txt
+RSA,ORG,4411,189368,189371,document1.txt
+"F-19
+METHODE ELECTRONICS, INC.",ORG,4445,189656,189686,document1.txt
+CONSOLIDATED FINANCIAL,ORG,4447,189713,189735,document1.txt
+Wtd,PERSON,4456,190377,190380,document1.txt
+Wtd,PERSON,4460,190409,190412,document1.txt
+Wtd,PERSON,4525,190847,190850,document1.txt
+"METHODE ELECTRONICS, INC.",ORG,4542,190959,190984,document1.txt
+CONSOLIDATED FINANCIAL,ORG,4543,191011,191033,document1.txt
+RSA,ORG,4546,191184,191187,document1.txt
+RSU,ORG,4546,191194,191197,document1.txt
+Compensation Expense,ORG,4548,191658,191679,document1.txt
+U.S.,GPE,4602,192097,192101,document1.txt
+"METHODE ELECTRONICS, INC.",ORG,4606,192317,192342,document1.txt
+CONSOLIDATED FINANCIAL,ORG,4607,192369,192391,document1.txt
+Company,ORG,4696,193539,193546,document1.txt
+Company,ORG,4696,193739,193746,document1.txt
+Company,ORG,4696,193779,193786,document1.txt
+ASC,ORG,4701,194163,194166,document1.txt
+U.S.,GPE,4701,194383,194387,document1.txt
+CONSOLIDATED FINANCIAL,ORG,4705,195205,195227,document1.txt
+NOL,ORG,4709,195665,195668,document1.txt
+Malta,GPE,4711,196200,196205,document1.txt
+U.S.,GPE,4712,196730,196734,document1.txt
+"F-23
+METHODE ELECTRONICS, INC.",ORG,4803,197718,197748,document1.txt
+CONSOLIDATED FINANCIAL,ORG,4805,197775,197797,document1.txt
+FTC,ORG,4862,198486,198489,document1.txt
+U.S.,GPE,4950,199178,199182,document1.txt
+"METHODE ELECTRONICS, INC.",ORG,5001,200613,200638,document1.txt
+CONSOLIDATED FINANCIAL,ORG,5002,200665,200687,document1.txt
+U.S.,GPE,5005,201191,201195,document1.txt
+Methode,ORG,5011,201783,201790,document1.txt
+Methode,ORG,5012,201845,201852,document1.txt
+Methode,ORG,5012,202063,202070,document1.txt
+"Methode Electronics, Inc.",ORG,5033,202603,202628,document1.txt
+CONSOLIDATED FINANCIAL,ORG,5100,203776,203798,document1.txt
+Delphi Related Litigation,ORG,5113,206766,206791,document1.txt
+Methode,ORG,5114,206814,206821,document1.txt
+Delphi Automotive Systems LLC,ORG,5114,206826,206855,document1.txt
+Delphi,ORG,5114,206858,206864,document1.txt
+Methode,ORG,5114,206917,206924,document1.txt
+Delphi,ORG,5114,206946,206952,document1.txt
+Delphi,ORG,5114,206998,207004,document1.txt
+Delphi,ORG,5114,207102,207108,document1.txt
+Delphi,ORG,5114,207213,207219,document1.txt
+DPH Holdings Corp.,ORG,5115,207403,207421,document1.txt
+Delphi Corporation,ORG,5115,207478,207496,document1.txt
+Delphi,ORG,5115,207529,207535,document1.txt
+Delphi,ORG,5115,207658,207664,document1.txt
+Delphi,ORG,5115,207720,207726,document1.txt
+Delphi,ORG,5115,207783,207789,document1.txt
+the United States Bankruptcy Court,ORG,5115,207963,207997,document1.txt
+the Southern District,LOC,5115,208002,208023,document1.txt
+New York,GPE,5115,208027,208035,document1.txt
+Delphi Corporation,ORG,5115,208047,208065,document1.txt
+Methode Electronics,ORG,5115,208077,208096,document1.txt
+Complaint,ORG,5115,208179,208188,document1.txt
+Delphi,ORG,5115,208326,208332,document1.txt
+Delphi,ORG,5115,208446,208452,document1.txt
+Company,ORG,5115,208517,208524,document1.txt
+Complaint,ORG,5115,208577,208586,document1.txt
+"F-26
+METHODE ELECTRONICS, INC.",ORG,5116,208719,208749,document1.txt
+CONSOLIDATED FINANCIAL,ORG,5118,208776,208798,document1.txt
+The Bankruptcy Court,ORG,5120,208878,208898,document1.txt
+Complaint,ORG,5120,208931,208940,document1.txt
+Complaint,ORG,5120,209005,209014,document1.txt
+Delphi,ORG,5120,209043,209049,document1.txt
+The Court overruled,ORG,5120,209090,209109,document1.txt
+"Material Customers
+Sales",ORG,5121,209629,209653,document1.txt
+Bank of America,ORG,5125,210560,210575,document1.txt
+N.A.,GPE,5125,210577,210581,document1.txt
+The Amended and,ORG,5125,211077,211092,document1.txt
+U.S.,GPE,5125,211151,211155,document1.txt
+"METHODE ELECTRONICS, INC.",ORG,5127,211786,211811,document1.txt
+CONSOLIDATED FINANCIAL,ORG,5128,211838,211860,document1.txt
+Segment Information and,ORG,5130,211930,211953,document1.txt
+ASC,ORG,5132,212485,212488,document1.txt
+the Chief Operating Decision Maker,ORG,5132,212942,212976,document1.txt
+CODM,ORG,5132,212979,212983,document1.txt
+CODM,ORG,5132,213030,213034,document1.txt
+ASC,ORG,5132,213050,213053,document1.txt
+Company,ORG,5132,213070,213077,document1.txt
+Power Products,ORG,5133,213258,213272,document1.txt
+Original Equipment Manufacturers,ORG,5134,213392,213424,document1.txt
+CONSOLIDATED FINANCIAL,ORG,5141,215531,215553,document1.txt
+"METHODE ELECTRONICS, INC.",ORG,5392,217279,217304,document1.txt
+CONSOLIDATED FINANCIAL,ORG,5393,217331,217353,document1.txt
+CONSOLIDATED FINANCIAL,ORG,5539,218415,218437,document1.txt
+North America,LOC,5550,218831,218844,document1.txt
+Asia Pacific,LOC,5557,218875,218887,document1.txt
+Europe,LOC,5561,218911,218917,document1.txt
+North America,LOC,5572,219007,219020,document1.txt
+Asia Pacific,LOC,5582,219057,219069,document1.txt
+Europe,LOC,5586,219091,219097,document1.txt
+North America,LOC,5603,219228,219241,document1.txt
+Asia Pacific,LOC,5610,219269,219281,document1.txt
+Europe,LOC,5614,219300,219306,document1.txt
+"METHODE ELECTRONICS, INC.",ORG,5639,219872,219897,document1.txt
+CONSOLIDATED FINANCIAL,ORG,5640,219924,219946,document1.txt
+CONSOLIDATED FINANCIAL,ORG,5784,223332,223354,document1.txt
+Methode Electronics,ORG,5808,223793,223812,document1.txt
+"Methode Electronics, Inc.",ORG,5853,224238,224263,document1.txt
+Delphi,ORG,5924,224815,224821,document1.txt
+Delphi,ORG,5926,225067,225073,document1.txt
+Delphi,ORG,5926,225421,225427,document1.txt
+METHODE ELECTRONICS,ORG,5930,225583,225602,document1.txt
+COL,ORG,5932,225641,225644,document1.txt
+COL,ORG,5933,225648,225651,document1.txt
+COL,ORG,5934,225655,225658,document1.txt
+"C
+COL",ORG,5934,225660,225665,document1.txt
+"D.
+COL",ORG,5935,225667,225673,document1.txt
+U.S.,GPE,6027,226864,226868,document1.txt
+Certificate of Incorporation of Registrant,ORG,6036,227068,227110,document1.txt
+Methode Electronics,ORG,6045,227404,227423,document1.txt
+Mellon Investor Services,ORG,6045,227434,227458,document1.txt
+the Certificate of Designation of Series A Junior Participating Preferred Stock of Methode Electronics,ORG,6045,227501,227603,document1.txt
+Right Certificate,ORG,6045,227645,227662,document1.txt
+Methode Electronics,ORG,6048,227748,227767,document1.txt
+Methode Electronics,ORG,6051,227800,227819,document1.txt
+Control Agreement,ORG,6054,227863,227880,document1.txt
+Methode Electronics,ORG,6054,227913,227932,document1.txt
+Donald W. Duda,PERSON,6054,227943,227957,document1.txt
+Control Agreement,ORG,6057,227979,227996,document1.txt
+Methode Electronics,ORG,6057,228029,228048,document1.txt
+Douglas A. Koman,PERSON,6057,228059,228075,document1.txt
+Control Agreement,ORG,6060,228097,228114,document1.txt
+Methode Electronics,ORG,6060,228147,228166,document1.txt
+Thomas D. Reynolds,PERSON,6060,228177,228195,document1.txt
+Control Agreement,ORG,6063,228217,228234,document1.txt
+Methode Electronics,ORG,6063,228268,228287,document1.txt
+Theodore P. Kill,PERSON,6063,228298,228314,document1.txt
+Control Agreement,ORG,6066,228336,228353,document1.txt
+Methode Electronics,ORG,6066,228387,228406,document1.txt
+Timothy R. Glandon,PERSON,6066,228417,228435,document1.txt
+Methode Electronics,ORG,6069,228466,228485,document1.txt
+Restated Restricted Stock,ORG,6072,228565,228590,document1.txt
+Award Agreement,PERSON,6072,228596,228611,document1.txt
+Methode Electronics,ORG,6072,228686,228705,document1.txt
+Donald W. Duda,PERSON,6072,228716,228730,document1.txt
+Restated Restricted Stock,ORG,6075,228754,228779,document1.txt
+Award Agreement,PERSON,6075,228785,228800,document1.txt
+Methode Electronics,ORG,6075,228871,228890,document1.txt
+Donald W. Duda,PERSON,6075,228901,228915,document1.txt
+Restated Restricted Stock,ORG,6078,228939,228964,document1.txt
+Award Agreement,PERSON,6078,228970,228985,document1.txt
+Methode Electronics,ORG,6078,229060,229079,document1.txt
+Donald W. Duda,PERSON,6078,229090,229104,document1.txt
+Restated Restricted Stock,ORG,6081,229128,229153,document1.txt
+Award Agreement,PERSON,6081,229159,229174,document1.txt
+Methode Electronics,ORG,6081,229250,229269,document1.txt
+Donald W. Duda,PERSON,6081,229280,229294,document1.txt
+Methode Electronics,ORG,6084,229306,229325,document1.txt
+RSA Award Agreement,PERSON,6087,229374,229393,document1.txt
+Control Agreement,ORG,6090,229416,229433,document1.txt
+Methode Electronics,ORG,6090,229462,229481,document1.txt
+Ronald L. G. Tsoumas,PERSON,6090,229492,229512,document1.txt
+Control Agreement,ORG,6093,229556,229573,document1.txt
+"Methode Electronics, Inc.",ORG,6096,229586,229611,document1.txt
+"Methode Electronics, Inc. 2010 Stock Plan",ORG,6099,229649,229690,document1.txt
+Methode Electronics,ORG,6102,229738,229757,document1.txt
+Non-Qualified Stock Option,ORG,6102,229764,229790,document1.txt
+Methode Electronics,ORG,6105,229859,229878,document1.txt
+Performance Based Restricted Stock,ORG,6105,229885,229919,document1.txt
+"Methode Electronics, Inc.",ORG,6108,229988,230013,document1.txt
+Methode Electronics,ORG,6111,230104,230123,document1.txt
+Methode Electronics,ORG,6114,230220,230239,document1.txt
+"Methode Electronics, Inc.",ORG,6117,230325,230350,document1.txt
+Control Agreement,ORG,6117,230382,230399,document1.txt
+"Methode Electronics, Inc.",ORG,6120,230485,230510,document1.txt
+"the Borrower, Bank of America N.A.",ORG,6120,230514,230548,document1.txt
+Administrative Agent,ORG,6120,230553,230573,document1.txt
