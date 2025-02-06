@@ -1,32 +1,52 @@
+import csv
 import re
-import pandas as pd
-def html_filter(text):
-    text_pass_time = re.sub(
-        r'\[\[TIME\.START\]\]\s*(.*?)\s*\[\[TIME\.END\]\]',
-        r'\n\1\n',
-        text
+
+def clean_text(text):
+    # remove any ">>"
+    text = text.replace(">>", "")
+    
+    # remove everything starting from the "TOPICS:" 
+    if "TOPICS:" in text:
+        text = text.split("TOPICS:")[0]
+    
+    text = re.sub(
+        r'\[\[TITLE\.[^]]+\]\](.*?)((</)?\[\[TITLE\.[^]]+\]\])',
+        r'\1',
+        text,
+        flags=re.DOTALL
     )
+    
+    text = re.sub(
+        r'\[\[TIME\.[^]]+\]\](.*?)\[\[TIME\.[^]]+\]\]',
+        lambda m: "\n" + m.group(1).strip(),
+        text,
+        flags=re.DOTALL
+    )
+    
+    return text
 
-    text_pass_talk =  re.sub(r'\s*>>\s*', '\n', text_pass_time)
-
-
-    cleaned_text = "\n".join(line.strip() for line in text_pass_talk.splitlines() if line.strip())
-    return cleaned_text
+def process_csv(input_csv, output_csv):
+    with open(input_csv, newline='', encoding='utf-8') as infile, \
+         open(output_csv, 'w', newline='', encoding='utf-8') as outfile:
+        
+        reader = csv.reader(infile)
+        writer = csv.writer(outfile)
+        
+        for row in reader:
+            if len(row) < 3:
+                continue
+            
+            # clean just the second and third row
+            row[1] = clean_text(row[1])
+            row[2] = clean_text(row[2])
+            
+            # get the first three columns
+            writer.writerow(row[:3])
+    
+    print(f"Processing complete. Cleaned CSV saved as '{output_csv}'.")
 
 if __name__ == '__main__':
-
-    input_csv = "" #input csv
-    output_csv = "cleaned_text.csv" #output
-
-    df = pd.read_csv(input_csv)
-
-    if "column containing articles" not in df.columns:
-        raise ValueError("CSV file missing text column")
+    input_csv = input("Enter the path to the input CSV file: ").strip()
+    output_csv = input("Enter the path to the output CSV file: ").strip()
     
-    df["cleaned_text"] = df['column containing articles'].apply(html_filter)
-
-    df.to_csv(output_csv, index=False)
-
-    print(f"Cleaned text has been saved to {output_csv}")
-
-    
+    process_csv(input_csv, output_csv)
