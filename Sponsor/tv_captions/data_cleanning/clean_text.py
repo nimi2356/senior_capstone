@@ -1,13 +1,23 @@
 import csv
+import sys
+import unicodedata
 import re
 
+csv.field_size_limit(sys.maxsize)
 def clean_text(text):
+     
+    #normalize Unicode characters
+    text = unicodedata.normalize("NFKC", text)
     # remove any ">>"
     text = text.replace(">>", "")
     
     # remove everything starting from the "TOPICS:" 
     if "TOPICS:" in text:
         text = text.split("TOPICS:")[0]
+    
+    text = re.sub(r'<\/?em>', '', text)
+
+    text = re.sub(r'[\u266a-\u266f]', '', text)
     
     text = re.sub(
         r'\[\[TITLE\.[^]]+\]\](.*?)((</)?\[\[TITLE\.[^]]+\]\])',
@@ -45,8 +55,13 @@ def process_csv(input_csv, output_csv):
     
     print(f"Processing complete. Cleaned CSV saved as '{output_csv}'.")
 
+
 if __name__ == '__main__':
-    input_csv = input("Enter the path to the input CSV file: ").strip()
-    output_csv = input("Enter the path to the output CSV file: ").strip()
-    
+    if len(sys.argv) != 3:
+        print("Usage: python clean_text.py <input_csv> <output_csv>")
+        sys.exit(1)
+
+    input_csv = sys.argv[1]
+    output_csv = sys.argv[2]
+
     process_csv(input_csv, output_csv)

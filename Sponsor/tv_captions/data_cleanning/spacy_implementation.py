@@ -1,60 +1,55 @@
 import pandas as pd
 import spacy
 import json
+import sys
 
 if __name__ == '__main__':
-    input_csv = "cleaned_text.csv"   # created by clean_text.py
-    output_csv = "spacy_output.csv"    #  spaCy output
+    if len(sys.argv) != 3:
+        print("Usage: python spacy_processing.py <input_csv> <output_csv>")
+        sys.exit(1)
+
+    input_csv = sys.argv[1]
+    output_csv = sys.argv[2]
 
     df = pd.read_csv(input_csv)
 
-    # check for the 'cleaned_text' column.
-    if "cleaned_text" not in df.columns:
-        raise ValueError("CSV file missing 'cleaned_text' column")
+    # Ensure at least three columns exist
+    if len(df.columns) < 3:
+        raise ValueError("CSV file must have at least three columns")
 
+    # Load spaCy model
     nlp = spacy.load("en_core_web_sm")
 
     spacy_results = []
 
-    for article_id, row in df.iterrows():
-        cleaned_text = row["cleaned_text"]
-        lines = cleaned_text.split("\n")
-        for line_number, line in enumerate(lines, start=1):
-            doc = nlp(line)
+    for _, row in df.iterrows():
+        col1 = row.iloc[0]  # First column (kept unchanged)
+        col2 = row.iloc[1]  # Second column (kept unchanged)
+        text_to_process = row.iloc[2]  # Third column (processed with spaCy)
 
-            # extract sentences detected by spaCy.
-            sentences = [sent.text for sent in doc.sents]
+        text_cleaned = text_to_process.replace("\n", " ")
+        
+        doc = nlp(str(text_cleaned))  # Ensure text is string
 
-            # Extract token-level details.
-            tokens = []
-            for token in doc:
-                tokens.append({
-                    "text": token.text,
-                    "lemma": token.lemma_,
-                    "pos": token.pos_,
-                    "tag": token.tag_,
-                    "dep": token.dep_,
-                    "head": token.head.text
-                })
+        # Extract named entities
+        entities = [
+            {
+                "text": ent.text,
+                "label": ent.label_,
+                "start_char": ent.start_char,
+                "end_char": ent.end_char
+            }
+            for ent in doc.ents
+            if "\n" not in ent.text and ent.text != "\u266a" and ent.label != "TIME"
+        ]
 
-            entities = []
-            for ent in doc.ents:
-                entities.append({
-                    "text": ent.text,
-                    "label": ent.label_,
-                    "start_char": ent.start_char,
-                    "end_char": ent.end_char
-                })
+        spacy_results.append({
+            "col1": col1,
+            "col2": col2,
+            "entities": json.dumps(entities)
+        })
 
-            spacy_results.append({
-                "article_id": article_id,
-                "line_number": line_number,
-                "text": line,
-                "sentences": json.dumps(sentences),  
-                "tokens": json.dumps(tokens),         
-                "entities": json.dumps(entities)       
-            })
-
+    # Save results to CSV
     spacy_df = pd.DataFrame(spacy_results)
     spacy_df.to_csv(output_csv, index=False)
 
