@@ -1,3 +1,161 @@
-Current Issues
------------
-- Certain Name formats are still misclassifed or not complete caught
+Name Entity Issues
+-------------------------
+Condensed Balance Sheet ... -> because of the weird format results in things like numbers being misclassified where 7;228 is an organization
+Solution : Spacy Pipeline functions like merging subtokens such that something like:
+
+'Materials and supplies 157;816 142;092 126;793 61;114 1 298;452 1218;414 47;803'
+
+Does NOT get broken apart
+
+'<TOPIC> <NUM>;<NUM>....<NUM>;<NUM> <TOPIC>' --> try to use this to pinpoint errors the idea is because Topic is classified as ___, whatever it lists
+should be ___
+
+Another idea is to simply change it relative to one another (which i think this was diego was trying to get at)
+
+
+
+
+Structure occures genereally after 'Comparative Balance Sheet' -> looking into Company X balance sheet
+
+
+
+
+
+
+Naming Convention: Suprisingly spaCY recognizes that names like 'R. G. Babbage' 
+
+
+J. H. Post -> Organization (as 'Post' can be inferencd as a postal office with J. H. as abbreviations)
+
+Though it is clear that it isn't as this was found under a list of officers.
+
+
+Potential --> A distinct pattern is the use of ':' that gives context to anything after up until some point
+With the explain in the thing, having <TOPIC> : t1, t2 , t3... Being able to identify what TOPIC is allows for
+everything under TOPIC to be classified appropriately. So I guess we want parse out these lists. And I imagine
+spaCY is good enough to understand this pattern given that it did suprisingly well when it came with understanding
+'R. G. Babbage'. 
+
+
+
+
+
+
+
+
+Issues :
+
+3;057 5;664 Contingent ORG 1
+765;861 698;995 726;361 ORG 1
+3;232;761 Capital Stock ORG 1
+
+Some words are broken up -> Potentially an issue from Moody irl -> csv
+
+
+
+Create tokenizers
+
+
+Deliverables
+----------------------
+- Parsing Prototype Scripts
+- Run on bigger files
+- Compare prior and then tell Diego
+
+
+
+/projects/diga9728/Moodys/20250129/Panel.All.Text.20240515.csv
+
+
+
+1920,1," ALABAMA FUEL & IRON COMPANY","ALABAMA FUEL & IRON COMPANY History: Incorporated under laws of Alabama; April 15; 1908; successor to the Alabama Fuel & Steel Co.; Prop- erty consists of coal and iron lands in Jefferson; St. Clair; Shelby; Tuscaloosa; Bibb; DeKalb and Franklin Counties; Ala. Mines located at Acton; on the line of the L. & N. R.R.; Margaret and Acmar; on the Central of Georgia; brown ore mine located at Russellville; Ala.; on Northern Ala. Ry. In June; 1910; purchased the property and holdings of the Russell- ville Iron Ore & Metal Co.; of Russellville; Ala. Management: OFFICERS: J. M. Overton; Pres.; Nashville; Tenn.; H. T. De Bardeleben; Vice-Pres.; C. F. De Bar- deleben; Vice-Pres. and Gen. Mgr.; W. W. Fulghum; See. and Treas.; Birmingham; Ala.; C. Cooper; Asst. Sec.; Nashville; Tenn. DIRECTORS: J. M. Overton; Wm. Nelson; W. C. Dibrell; R. C. Plater; J. P. Williams; H. E. Colton; J. T. B; Murray; Nashville; Tenn.; H. T. De Bardeleben; C. F. De Bardeleben; Leroy P. Percy; W. W. Fulghum; C. J. Perry; Birmingham; Ala.; Eustace A. Hail; Nashville; Tenn.; V. E. Macy; New York. ANNUAL MEETING: First Tuesday in March. OFFICE: Birmingham; Ala. Comparative Income Account; Years Ended Dec. 31 1919 1918 1917 1916 1915 1914 Gross revenues $2;374;776 $2;120;092 $2;120;092 $1;199;876 $1;044;249 $1;187;954 Operating expenses 2;374;776 2;120;092 1;544;077 978;457 896;426 1;009;519 Taxes accrued and insurance 37;823 34;245 29;031 32;017 23;511 29;591 Depreciation 186;527 158;628 208;992 51;820 58;066 73;939 (. Reserves for taxes; etc. 151;692 120;000 74;000 24;000 24;000 24;000 Net operating revenues $333;609 $325;629 $263;992 $113;582 $42;245 $50;903 Other income 75;671 83;721 100;737 108;906 102;577 112;725 Total net income $409;280 $409;350 $364;729 $222;488 $144;822 $163;629 Dividends paid 279;704 279;704 209;685 139;600 139;600 139;600 Final surplus $129;576 $129;646 $155;044 $82;888 $5;222 $24;029 Earned on stock 11.71% 11.71% 10.42% 6.38% 4.14% 4.7% Note: Earned on stock is based on amount outstanding at close of each fiscal year. Comparative Condensed Balance Sheet; as of Dec. 31 ASSETS: 1919 1918 1917 1916 1915 1914 Real estate; plant; etc. $4;446;790 $4;483;156 $4;267;134 $4;274;017 $3;942;051 $4;027;201 Treasury stock 3;700 3;700 3;700 3;700 3;700 Bills and accounts receivable 281.208 246;931 205;684 208;006 Materials and supplies 157;816 142;092 126;793 61;114 1 298;452 1218;414 47;803 Other assets 11;179 9;344 7;228 6;295 6;984 Liberty bonds; etc. 195;688 194;853 91;079 Cash 390;240 191;473 162;049 89;783 46;599 Total $5;486;621 $5;271;548 $4;863;667 $4;642;915 $4;240;503 $4;350;701 LIABILITIES: Capital stock $3;50;000 $3;500;000 88;500;000 ;0;500;000 $3;496;300 $3;500;000 Bills and accounts payable 106;788 16;545 144;362 381;098 212;735 (not due) 18;544 16;111 20;292 1 272;688 1 19;666 Payrolls (not due) 29;125 18;289 23;577 24;379 Royalties 19;344 18;761 Coupon and accrued interest 1;418 1;922 3;852 1;179 Reserves 122;371 122;370 477;589 162;643 80;167 127;335 Dividends payable Jan. 1 122;371 122;370 69;924 78;748 34;900 Other liabilities 18;368 13;158 Surplus 886;171 756;595 626;948 471;903 441;348 436;125 Total $5;486;621 $5;271;548 $4;863;667 $4;642;915 $4;240;503 $4;350;701 Comment: During the year 1918 the company fully maintained its earning power and reported approximately the same surplus available for dividends as in the previous year. The financial statement of the company reflects a stable situation and the investment standing of the stock issue has therefore been fully maintained. During the past two years the company has been paying extra dividends of 2% in addition to the regular 6% rate. 125 126 MOODYS ANALYSES OF INVESTMENTS Table B. -Stock Records and Ratings (Based on Five Year Income Results; Etc.) 4 . BASIS FOR RATING Rate of Amount Average Dividend Factor of Net NAME or Issue Dividend Outstanding Income Require- Safety Rating Available ment Equity Salability 1. Ala. Fuel & Iron stock.. See text 13;496;300 3310;133 1209.778 33% Large Fair Baa. Note: Average income available on stock issues is the average surplus; after deducting all charges; for last five years shown in income account. Dividend requirement is the requirement at the regular rate of 6%; on the present amount outstanding. For key to ratings; see pages 11 to 18. REFERENCE NOTE ON STOCK ISSUE: Authorized; $3;500;000; outstanding; $3;496;300; par $100. Registrar: Nashville Trust Co. Stock transferred at com- panys office; Nashville; Tenn. Dividends of 1% each were paid in December; 1908; June 20 and Dec. 20; 1909; and quarterly from April 1; 1910; to April; 1917; June and Oct.; 1917; 11/2% each; Jan.; 1918; 2 %; April; 1918; to Jan.; 1920; 11/2% quarterly; 2% extra each paid Jan.; 1919; and Jan.; 1920."
+1920,2," THE ALLIANCE REALTY COMPANY","THE ALLIANCE REALTY COMPANY History: Incorporated June 6; 1899; in New York; to deal in New York City real estate and improve the same. Holds a controlling interest in the Broad Exchange Company (which see); which company erected and owns a large office build- ing on the southeast corner of Broad Street and Exchange Place; New York. Management: OFFICERS: Walter T. Rosen; Pres.; H. S. Black; Vice-Pres.; C. G. Dailey; Vice-Pres.; Howard W. Smith; Sec. and Treas. DIRECTORS: R. G. Babbage; Alwyn Ball; Jr.; H. S. Black; E. M. Bulkley; W. A. Chesebrough; C. G. Dailey; D. B. Freedman; Benj. Mordecai; Laurence McGuire; J. H. Post; E. C. Potter; W. T. Rosen; Moritz Rosen- thal; H. W. Smith; P. Starrett; New York; C. F. Adams; 2nd; Boston. ANNUAL MEETING: Third Thursday in February. OFFICE: 115 Broadway; New York. Comparative Condensed Balance Sheet; as of Dec. 31 ASSETS: 1919 1918 1917 1916 1915 1914 New York City real estate... $495;572 $401;025 $370;835 $334;504 $519;772 $421;838 Bonds and mortgages 303;250 282;086 428;000 395;107 445;293 535;533 Stocks and bonds 2;392;589 2;368;637 2;280;215 2;378;893 2;094;334 2;102;894 Bills and accts. rec. 55;058 2;708 25;315 33;100 68;200 35;807 Cash at banks 77;639 40;799 28;549 70;893 63;431 103;933 Accrued int. and dividends . . 27;440 21;308 80;146 26;126 26;866 32;754 Deferred assets 3;011 Furniture and fixtures 1 1 1 1 1 1 Total $3;354;560 $3;116;564 $3;163;061 $3;238;624 $3;217;897 $3;232;761 LIABILITIES: Capital stocx paid in $2;000;000 $2;000;000 $2;000;000 $2;000;000 $2;000;000 $2;000;000 Accrued interest payable 21;077 8;821 8;843 9;486 7;420 7;274 Reserve for dividend 30;000 30;000 30;000 30;000 80;000 30;000 Sundry accounts 2;625 28;751 47;860 66;376 52;205 46;658 Suspense account 3;057 3;057 5;664 Contingent reserve 349;997 349;997 349;997 400;000 400;000 Surplus and undivided profits 765;861 698;995 726;361 729;705 725;215 1;143;165 Total $3;354;560 $3;116;564 $3;163;061 $3;238;624 $3;217;897 $3;232;761 Capital Stock: Authorized; $3;000;000; outstanding; $2;000;000; par $100. No bonds. The United States Realty Improvement Company owns $403;300 of the stock. Stock transferred at companys office. Registrar: Guaranty Trust Co.; New York. Dividends have been paid as follows: 1902 to 1905; inclusive; 6% per annum; 1906; 7% %; 1907; 1908 and 1909; 8% each; 1910; 8% and 6% extra; 1911; 1912; 1913 and 1914; 8% each. In Jan.; 1915; quarterly dividend re- duced to 11/2%; making 6% per annum; which rate is now being paid. Payments quarterly; January 15; at companys office. See rating below. Provisional Ratings: As this company does not furnish an income account or other statistics which are essential for the rating of its securities in our standardized form; we insert ratings of a provisional character which are based on the known facts and on such special data as we have been able to obtain. For full explanation; see Key to Ratings; pages 11 to 18. 1. Alliance Realty Co.; capital stock (par $100) Rating; p. A."
+
+Margaret and Acmar (actual) vs Margaret & Acmar (wish) --> '&' kinda like officalizes it to be an organization 
+Words are broken apart (e.g. 'Prop- erty', )
+
+
+
+olivia.brower@colorado.edu
+
+
+Expand test set (decade?)
+Keep fixing parser 
+
+
+
+
+
+
+
+Update
+------------
+- Parser fixed named abbreviations (Following this idea of : '<TOPIC>: <T1>;<T2>....<TN>; <TOPIC>')
+- Parser struggles a bit recognizing organizations/companies (e.g. 'Anna and Max' vs 'Anna & Max')
+- Tweaking scripts in respect to actually running it on the csv file
+
+Issues
+------------
+- Jobs isn't being queued
+
+In Progress
+-------------
+- Tweaking parser
+- Trying to fix job scripts to see if it has anything to do with jobs not being queued properly
+- Directory Tree Structure
+    Example:
+    years.moody
+        1920
+
+            ids.all.seq
+            1 - 100:
+
+                term.4
+                Company A name
+                    name entities for Company A at its respect years.moody, ids.all.seq, term.4
+
+                Company B name
+                    name entities for Company A at its respect years.moody, ids.all.seq, term.4
+
+                ...
+            ...
+        1921
+        ...
+        
+
+
+conda info --envs
+source /curc/sw/anaconda3/latest
+conda activate myenv
+
+
+
+// scratch idea for running on curc
+bash file:
+    #!/bin/bash
+    #SBATCH --output=/scratch/alpine/rera8642/spacy_sh/slurm_outputs/%x_%j.out
+    #SBATCH --time=23:59:00
+    #SBATCH --partition=amilan
+    #SBACTH --account=ucb305_asc2
+    #SBATCH --qos=normal
+    #SBATCH --nodes=1
+    #SBATCH --ntasks-per-node=20  # up to 64
+
+
+    date    
+    ml slurm/alpine
+
+    source /curc/sw/anaconda3/latest (activate myenv stuff)
+    conda activate myenv
+
+
+    run python final.py /projects/diga9728/Moodys/20250129/Panel.All.Text.20240515.csv (output.csv in the same directory as final.py)
+
+
+
+
+//    run python entity_visualization.py output.csv(in the same directory as entity_visualization.py as well) PERSON (type of entity to visualize)
+
+
+
+sacctmgr show assoc where user=mafi7060 format=account,user,maxjobs // checks max jobs
