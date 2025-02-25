@@ -4,7 +4,7 @@ import glob
 import pandas as pd
 
 def process_network(network_dir, network_name, output_dir):
-    """Processes all CSVs for a given network and extracts the top 50 ORG counts."""
+    """Processes all CSVs for a given network and extracts the top 50 NORP counts."""
     csv_files = glob.glob(os.path.join(network_dir, "*.csv"))
     all_top50 = []
 
@@ -14,13 +14,13 @@ def process_network(network_dir, network_name, output_dir):
         
         # Extract year from filename
         try:
-            year = parts[2]  # Assuming the pattern "cleaned_<Network>.Text.<Year>.ORG_counts.csv"
+            year = parts[2]  # Assuming the pattern "cleaned_<Network>.Text.<Year>.NORP_counts.csv"
         except IndexError:
             year = "UNKNOWN"
         
         # Read CSV and standardize column names
         df = pd.read_csv(csv_file)
-        df.columns = ["ORG", "Count"]
+        df.columns = ["NORP", "Count"]
         
         # Select top 50 entities
         df_top50 = df.nlargest(50, "Count").copy()
@@ -38,7 +38,7 @@ def main():
         print(f"Usage: {sys.argv[0]} <input_root_dir> <output_dir>")
         sys.exit(1)
         
-    input_root_dir = sys.argv[1]  # e.g., "extracted_org_counts"
+    input_root_dir = sys.argv[1]  # e.g., "extracted_norp_counts"
     output_dir = sys.argv[2]  # Where to save the results
     os.makedirs(output_dir, exist_ok=True)
 
