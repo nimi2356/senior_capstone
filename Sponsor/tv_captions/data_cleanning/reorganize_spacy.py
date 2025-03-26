@@ -11,16 +11,6 @@ def reorganize_and_expand_entities(
     years=range(2012, 2025),
     channels=("Bloomberg", "CNBC", "CNN", "FBC", "FoxNews", "MSNBC")
 ):
-    """
-    Walk through each yearly directory of CSVs in source_root,
-    parse the 'entity' JSON column, and reorganize results
-    into target_root with subdirectories per channel.
-
-    For each row in the input CSV, it expands the 'entity' list
-    so that each entity becomes its own row. All the original
-    columns from the CSV are duplicated for each entity, plus
-    text/label/start_char/end_char columns for each entity.
-    """
     print(f"\nSource root: {source_root}")
     print(f"Target root: {target_root}")
     print(f"Year range: {list(years)}\n")
@@ -46,7 +36,6 @@ def reorganize_and_expand_entities(
             source_path = os.path.join(year_dir, csv_file)
             print(f"  Found CSV: {source_path}")
 
-            # Read the CSV
             try:
                 df = pd.read_csv(source_path)
             except Exception as e:
@@ -57,29 +46,25 @@ def reorganize_and_expand_entities(
                 print(f"    [WARNING] No 'entity' column in {source_path}. Skipping.\n")
                 continue
             
-            # Expand the 'entity' column
             expanded_rows = []
             
             for idx, row in df.iterrows():
                 entity_str = row["entities"]
-                
-                # If entity_str isn't a string, skip
+    
                 if not isinstance(entity_str, str):
                     continue
-                
-                # Attempt to parse JSON
+            
                 try:
                     entities = json.loads(entity_str)
                 except json.JSONDecodeError:
-                    # If we can't parse, skip
+                 
                     continue
                 
-                # If we can parse, create a new row for each entity
+                
                 if isinstance(entities, list):
                     for ent in entities:
-                        new_row = row.to_dict()  # copy original row data
-                        # Remove or keep the original "entity" column as needed
-                        # new_row.pop("entity", None)  # if you want to drop it
+                        new_row = row.to_dict()
+                       
                         
                         new_row["text"] = ent.get("text", "")
                         new_row["label"] = ent.get("label", "")
@@ -88,7 +73,7 @@ def reorganize_and_expand_entities(
                         
                         expanded_rows.append(new_row)
                 else:
-                    # If 'entities' is not a list, skip
+                    
                     continue
             
             if not expanded_rows:
@@ -98,7 +83,8 @@ def reorganize_and_expand_entities(
             expanded_df = pd.DataFrame(expanded_rows)
             if "entities" in expanded_df.columns:
                 expanded_df.drop(columns=["entities"], inplace=True)
-            # Guess the channel from the file name
+          
+
             matched_channel = None
             filename_lower = csv_file.lower()
             for ch in channels:
@@ -117,14 +103,6 @@ def reorganize_and_expand_entities(
 
 
 def main():
-    """
-    Usage (using sys.argv):
-      python convert_entities.py <input_dir> [<output_dir> [<start_year> [<end_year>]]]
-
-    Example:
-      python convert_entities.py /scratch/alpine/jasn7628/spay_tv_corpora_processed
-      python convert_entities.py /scratch/alpine/jasn7628/spay_tv_corpora_processed /scratch/alpine/jasn7628/spacy_tv_final 2012 2024
-    """
     if len(sys.argv) < 2:
         print("ERROR: You must specify <input_dir>.\n")
         print(main.__doc__)
