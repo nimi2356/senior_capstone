@@ -1,5 +1,4 @@
 Year,Network,ORG,Count
-2021,CNN,cnn,56413
 2021,CNN,senate,30631
 2021,CNN,the white house,25179
 2021,CNN,congress,24756
@@ -9,3 +8,4 @@ Year,Network,ORG,Count
 2021,CNN,fda,8430
 2021,CNN,capitol hill,8406
 2021,CNN,the republican party,8378
+2021,CNN,white house,6653

@@ -1,5 +1,4 @@
 Year,Network,ORG,Count
-2013,CNN,cnn,37244
 2013,CNN,congress,17801
 2013,CNN,the white house,14761
 2013,CNN,senate,13377
@@ -9,3 +8,4 @@ Year,Network,ORG,Count
 2013,CNN,nsa,4842
 2013,CNN,capitol hill,3797
 2013,CNN,ford,3591
+2013,CNN,irs,3522

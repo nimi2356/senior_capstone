@@ -1,6 +1,5 @@
 Year,Network,ORG,Count
 2014,CNBC,fed,16795
-2014,CNBC,cnbc,9381
 2014,CNBC,s&p,8405
 2014,CNBC,ibm,4222
 2014,CNBC,google,4062
@@ -9,3 +8,4 @@ Year,Network,ORG,Count
 2014,CNBC,ford,3443
 2014,CNBC,gm,2934
 2014,CNBC,yahoo,2805
+2014,CNBC,congress,2732

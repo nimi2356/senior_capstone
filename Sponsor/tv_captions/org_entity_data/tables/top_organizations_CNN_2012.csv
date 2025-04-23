@@ -1,5 +1,4 @@
 Year,Network,ORG,Count
-2012,CNN,cnn,34838
 2012,CNN,congress,11476
 2012,CNN,the white house,9926
 2012,CNN,medicare,9189
@@ -9,3 +8,4 @@ Year,Network,ORG,Count
 2012,CNN,gop,4052
 2012,CNN,cadillac,3635
 2012,CNN,at&t,3554
+2012,CNN,the supreme court,3035

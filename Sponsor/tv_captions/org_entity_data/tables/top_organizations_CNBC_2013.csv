@@ -1,6 +1,5 @@
 Year,Network,ORG,Count
 2013,CNBC,fed,24928
-2013,CNBC,cnbc,9353
 2013,CNBC,s&p,7898
 2013,CNBC,fidelity,4909
 2013,CNBC,congress,4835
@@ -9,3 +8,4 @@ Year,Network,ORG,Count
 2013,CNBC,senate,3709
 2013,CNBC,google,3704
 2013,CNBC,ge,3136
+2013,CNBC,the white house,2636

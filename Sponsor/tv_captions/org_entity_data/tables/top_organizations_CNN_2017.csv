@@ -1,6 +1,5 @@
 Year,Network,ORG,Count
 2017,CNN,the white house,58614
-2017,CNN,cnn,48122
 2017,CNN,fbi,31745
 2017,CNN,senate,29472
 2017,CNN,congress,26805
@@ -9,3 +8,4 @@ Year,Network,ORG,Count
 2017,CNN,capitol hill,9236
 2017,CNN,cia,5339
 2017,CNN,gop,5162
+2017,CNN,medicaid,4502

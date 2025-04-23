@@ -1,0 +1,3695 @@
+ORG,Count,Network,Year
+fed,21507,CNBC,2016
+s&p,7917,CNBC,2016
+medicare,4778,CNBC,2016
+at&t,4615,CNBC,2016
+microsoft,3235,CNBC,2016
+congress,3233,CNBC,2016
+google,2862,CNBC,2016
+fbi,2660,CNBC,2016
+yahoo,2276,CNBC,2016
+apple,2118,CNBC,2016
+ibm,2081,CNBC,2016
+wells fargo,1999,CNBC,2016
+the white house,1948,CNBC,2016
+senate,1877,CNBC,2016
+morgan stanley,1745,CNBC,2016
+the new york stock exchange,1693,CNBC,2016
+deutsche bank,1668,CNBC,2016
+fidelity,1592,CNBC,2016
+samsung,1502,CNBC,2016
+intel,1449,CNBC,2016
+ge,1429,CNBC,2016
+bank of america,1429,CNBC,2016
+ford,1341,CNBC,2016
+boeing,1324,CNBC,2016
+mcdonald's,1265,CNBC,2016
+cbs,1247,CNBC,2016
+treasury,1243,CNBC,2016
+nbc,1128,CNBC,2016
+gop,1123,CNBC,2016
+cme,1103,CNBC,2016
+the european union,1095,CNBC,2016
+nike,1018,CNBC,2016
+exxon,958,CNBC,2016
+amazon,952,CNBC,2016
+viacom,895,CNBC,2016
+fda,870,CNBC,2016
+gm,850,CNBC,2016
+the republican party,817,CNBC,2016
+chevron,804,CNBC,2016
+caterpillar,779,CNBC,2016
+jpmorgan,707,CNBC,2016
+aarp medicare supplement,684,CNBC,2016
+wilfred,676,CNBC,2016
+pg&e,653,CNBC,2016
+warner,621,CNBC,2016
+capitol hill,616,CNBC,2016
+euro,543,CNBC,2016
+disney,522,CNBC,2016
+state,511,CNBC,2016
+fed,24212,CNBC,2015
+s&p,7827,CNBC,2015
+ibm,3971,CNBC,2015
+google,3671,CNBC,2015
+microsoft,3234,CNBC,2015
+medicare,3026,CNBC,2015
+at&t,2792,CNBC,2015
+yahoo,2536,CNBC,2015
+congress,2384,CNBC,2015
+apple,2254,CNBC,2015
+mcdonald's,2193,CNBC,2015
+the new york stock exchange,1972,CNBC,2015
+ge,1930,CNBC,2015
+intel,1680,CNBC,2015
+cme,1680,CNBC,2015
+ford,1370,CNBC,2015
+gm,1268,CNBC,2015
+the white house,1251,CNBC,2015
+morgan stanley,1184,CNBC,2015
+euro,1179,CNBC,2015
+bank of america,1053,CNBC,2015
+exxon,996,CNBC,2015
+samsung,976,CNBC,2015
+chevron,949,CNBC,2015
+nike,907,CNBC,2015
+boeing,893,CNBC,2015
+nbc,884,CNBC,2015
+pg&e,875,CNBC,2015
+senate,819,CNBC,2015
+amazon,723,CNBC,2015
+treasury,701,CNBC,2015
+volkswagen,698,CNBC,2015
+caterpillar,694,CNBC,2015
+wells fargo,688,CNBC,2015
+fbi,662,CNBC,2015
+fda,658,CNBC,2015
+gop,619,CNBC,2015
+fidelity,607,CNBC,2015
+cbs,600,CNBC,2015
+sony,586,CNBC,2015
+xerox,574,CNBC,2015
+disney,532,CNBC,2015
+kelly evans,520,CNBC,2015
+jpmorgan,516,CNBC,2015
+fcc,501,CNBC,2015
+warner,499,CNBC,2015
+aarp medicare supplement,481,CNBC,2015
+hewlett-packard,453,CNBC,2015
+the european central bank,423,CNBC,2015
+fed,13172,CNBC,2024
+s&p,4155,CNBC,2024
+microsoft,3628,CNBC,2024
+boeing,2067,CNBC,2024
+morgan stanley,2044,CNBC,2024
+google,1996,CNBC,2024
+at&t,1650,CNBC,2024
+nvidia,1436,CNBC,2024
+intel,1114,CNBC,2024
+apple,1032,CNBC,2024
+congress,982,CNBC,2024
+senate,798,CNBC,2024
+mcdonald's,729,CNBC,2024
+the new york stock exchange,691,CNBC,2024
+treasury,690,CNBC,2024
+the white house,582,CNBC,2024
+bank of america,575,CNBC,2024
+ford,514,CNBC,2024
+tesla,472,CNBC,2024
+amazon,452,CNBC,2024
+hamas,434,CNBC,2024
+gm,415,CNBC,2024
+chevron,410,CNBC,2024
+ibm,409,CNBC,2024
+jpmorgan,408,CNBC,2024
+exxon,391,CNBC,2024
+lilly,375,CNBC,2024
+alphabet,372,CNBC,2024
+disney,371,CNBC,2024
+semis,370,CNBC,2024
+micron,356,CNBC,2024
+fda,356,CNBC,2024
+nike,336,CNBC,2024
+samsung,318,CNBC,2024
+wells fargo,314,CNBC,2024
+ge,297,CNBC,2024
+nbc,289,CNBC,2024
+airbus,276,CNBC,2024
+medicare,257,CNBC,2024
+warner,254,CNBC,2024
+capitol hill,247,CNBC,2024
+un,220,CNBC,2024
+faa,214,CNBC,2024
+caterpillar,205,CNBC,2024
+whoo,205,CNBC,2024
+toyota,189,CNBC,2024
+apollo,188,CNBC,2024
+nato,187,CNBC,2024
+sony,184,CNBC,2024
+fed,17360,CNBC,2021
+s&p,7923,CNBC,2021
+microsoft,3978,CNBC,2021
+senate,3853,CNBC,2021
+congress,3816,CNBC,2021
+fda,3278,CNBC,2021
+the white house,3141,CNBC,2021
+ibm,3084,CNBC,2021
+at&t,2734,CNBC,2021
+ford,2662,CNBC,2021
+cdc,2329,CNBC,2021
+taliban,2091,CNBC,2021
+nbc,1912,CNBC,2021
+intel,1843,CNBC,2021
+gm,1821,CNBC,2021
+morgan stanley,1783,CNBC,2021
+google,1718,CNBC,2021
+fidelity,1688,CNBC,2021
+treasury,1636,CNBC,2021
+boeing,1377,CNBC,2021
+apple,1271,CNBC,2021
+chevron,1218,CNBC,2021
+fbi,1122,CNBC,2021
+bank of america,1001,CNBC,2021
+capitol hill,958,CNBC,2021
+the new york stock exchange,901,CNBC,2021
+ge,835,CNBC,2021
+sec,828,CNBC,2021
+amazon,795,CNBC,2021
+exxon,790,CNBC,2021
+wells fargo,783,CNBC,2021
+johnson & johnson,775,CNBC,2021
+tesla,753,CNBC,2021
+mcdonald's,744,CNBC,2021
+emerson,721,CNBC,2021
+nbc news,720,CNBC,2021
+samsung,699,CNBC,2021
+delta,681,CNBC,2021
+nike,640,CNBC,2021
+semis,601,CNBC,2021
+irs,555,CNBC,2021
+white house,552,CNBC,2021
+xfinity,525,CNBC,2021
+jpmorgan,523,CNBC,2021
+pnc bank,522,CNBC,2021
+nasa,518,CNBC,2021
+♪ ♪ ♪,507,CNBC,2021
+gop,505,CNBC,2021
+medicare,496,CNBC,2021
+fed,35029,CNBC,2022
+s&p,9914,CNBC,2022
+microsoft,5408,CNBC,2022
+congress,3602,CNBC,2022
+the white house,2638,CNBC,2022
+at&t,2556,CNBC,2022
+senate,2200,CNBC,2022
+ibm,2169,CNBC,2022
+medicare,2066,CNBC,2022
+ford,2042,CNBC,2022
+morgan stanley,2005,CNBC,2022
+intel,1892,CNBC,2022
+google,1697,CNBC,2022
+fidelity,1693,CNBC,2022
+nato,1633,CNBC,2022
+apple,1453,CNBC,2022
+treasury,1275,CNBC,2022
+bank of america,1274,CNBC,2022
+chevron,1263,CNBC,2022
+nbc,1236,CNBC,2022
+boeing,1149,CNBC,2022
+gm,1124,CNBC,2022
+fbi,1055,CNBC,2022
+exxon,921,CNBC,2022
+semis,908,CNBC,2022
+mcdonald's,890,CNBC,2022
+humana,880,CNBC,2022
+the new york stock exchange,846,CNBC,2022
+fda,822,CNBC,2022
+nbc news,809,CNBC,2022
+wells fargo,806,CNBC,2022
+tesla,804,CNBC,2022
+amazon,787,CNBC,2022
+ge,752,CNBC,2022
+micron,706,CNBC,2022
+the supreme court,698,CNBC,2022
+nike,693,CNBC,2022
+the justice department,627,CNBC,2022
+sec,617,CNBC,2022
+white house,606,CNBC,2022
+humana medicare,599,CNBC,2022
+alphabet,583,CNBC,2022
+jpmorgan,570,CNBC,2022
+nasa,552,CNBC,2022
+at&t 5,534,CNBC,2022
+julia,531,CNBC,2022
+cdc,521,CNBC,2022
+caterpillar,513,CNBC,2022
+disney,508,CNBC,2022
+fed,23421,CNBC,2019
+s&p,7917,CNBC,2019
+boeing,4847,CNBC,2019
+microsoft,2947,CNBC,2019
+the white house,2917,CNBC,2019
+at&t,2686,CNBC,2019
+congress,2544,CNBC,2019
+google,2463,CNBC,2019
+ibm,1912,CNBC,2019
+fidelity,1691,CNBC,2019
+medicare,1585,CNBC,2019
+treasury,1544,CNBC,2019
+morgan stanley,1529,CNBC,2019
+apple,1508,CNBC,2019
+senate,1502,CNBC,2019
+intel,1482,CNBC,2019
+the new york stock exchange,1425,CNBC,2019
+mcdonald's,1199,CNBC,2019
+ge,1077,CNBC,2019
+ford,1067,CNBC,2019
+bank of america,1064,CNBC,2019
+gm,1040,CNBC,2019
+cme,1014,CNBC,2019
+chevron,963,CNBC,2019
+samsung,950,CNBC,2019
+fda,948,CNBC,2019
+caterpillar,945,CNBC,2019
+semis,926,CNBC,2019
+capitol hill,858,CNBC,2019
+nike,834,CNBC,2019
+wells fargo,787,CNBC,2019
+amazon,780,CNBC,2019
+cbs,764,CNBC,2019
+jpmorgan,702,CNBC,2019
+disney,669,CNBC,2019
+toyota,658,CNBC,2019
+micron,652,CNBC,2019
+nbc,619,CNBC,2019
+nissan,597,CNBC,2019
+faa,564,CNBC,2019
+cfa,543,CNBC,2019
+white house,531,CNBC,2019
+xfinity,487,CNBC,2019
+the european union,479,CNBC,2019
+deutsche bank,478,CNBC,2019
+johnson & johnson,445,CNBC,2019
+airbus,436,CNBC,2019
+tesla,415,CNBC,2019
+exxon,400,CNBC,2019
+fed,18103,CNBC,2018
+s&p,8300,CNBC,2018
+the white house,4852,CNBC,2018
+at&t,3546,CNBC,2018
+congress,3066,CNBC,2018
+google,2737,CNBC,2018
+ibm,2628,CNBC,2018
+fidelity,2625,CNBC,2018
+microsoft,2507,CNBC,2018
+ge,2361,CNBC,2018
+senate,2082,CNBC,2018
+cbs,2015,CNBC,2018
+intel,1868,CNBC,2018
+boeing,1802,CNBC,2018
+treasury,1665,CNBC,2018
+medicare,1580,CNBC,2018
+apple,1480,CNBC,2018
+the new york stock exchange,1416,CNBC,2018
+ford,1364,CNBC,2018
+gm,1332,CNBC,2018
+morgan stanley,1293,CNBC,2018
+amazon,1220,CNBC,2018
+cme,1138,CNBC,2018
+caterpillar,1123,CNBC,2018
+fox,1012,CNBC,2018
+mcdonald's,990,CNBC,2018
+pg&e,944,CNBC,2018
+nike,835,CNBC,2018
+wells fargo,830,CNBC,2018
+capitol hill,801,CNBC,2018
+the european union,797,CNBC,2018
+white house,794,CNBC,2018
+bank of america,745,CNBC,2018
+nbc,706,CNBC,2018
+sec,705,CNBC,2018
+micron,681,CNBC,2018
+nato,677,CNBC,2018
+fbi,661,CNBC,2018
+jpmorgan,656,CNBC,2018
+fda,603,CNBC,2018
+inn express,593,CNBC,2018
+tesla,570,CNBC,2018
+deutsche bank,553,CNBC,2018
+warner,516,CNBC,2018
+disney,501,CNBC,2018
+chevron,482,CNBC,2018
+samsung,470,CNBC,2018
+crest,456,CNBC,2018
+exxon,445,CNBC,2018
+fed,34955,CNBC,2023
+s&p,9503,CNBC,2023
+microsoft,8989,CNBC,2023
+morgan stanley,3486,CNBC,2023
+google,3474,CNBC,2023
+ford,2882,CNBC,2023
+congress,2850,CNBC,2023
+at&t,2481,CNBC,2023
+treasury,2398,CNBC,2023
+ibm,2342,CNBC,2023
+medicare,2111,CNBC,2023
+intel,1919,CNBC,2023
+gm,1860,CNBC,2023
+the white house,1580,CNBC,2023
+the new york stock exchange,1570,CNBC,2023
+bank of america,1569,CNBC,2023
+senate,1455,CNBC,2023
+apple,1433,CNBC,2023
+hamas,1393,CNBC,2023
+nvidia,1278,CNBC,2023
+chevron,1202,CNBC,2023
+jpmorgan,1109,CNBC,2023
+humana,1100,CNBC,2023
+boeing,1056,CNBC,2023
+mcdonald's,905,CNBC,2023
+wells fargo,889,CNBC,2023
+silicon valley bank,864,CNBC,2023
+tesla,822,CNBC,2023
+nike,810,CNBC,2023
+exxon,803,CNBC,2023
+amazon,802,CNBC,2023
+alphabet,747,CNBC,2023
+disney,705,CNBC,2023
+semis,658,CNBC,2023
+at&t 5,657,CNBC,2023
+micron,646,CNBC,2023
+nbc,604,CNBC,2023
+samsung,582,CNBC,2023
+fda,579,CNBC,2023
+caterpillar,572,CNBC,2023
+ge,535,CNBC,2023
+house,516,CNBC,2023
+irs,505,CNBC,2023
+capitol hill,490,CNBC,2023
+aflac,479,CNBC,2023
+pepsi,474,CNBC,2023
+warner,474,CNBC,2023
+♪ ♪♪ ♪,455,CNBC,2023
+kelly evans,444,CNBC,2023
+fed,16795,CNBC,2014
+s&p,8405,CNBC,2014
+ibm,4222,CNBC,2014
+google,4062,CNBC,2014
+microsoft,3739,CNBC,2014
+fidelity,3473,CNBC,2014
+ford,3443,CNBC,2014
+gm,2934,CNBC,2014
+yahoo,2805,CNBC,2014
+congress,2732,CNBC,2014
+at&t,2447,CNBC,2014
+apple,1926,CNBC,2014
+the new york stock exchange,1751,CNBC,2014
+ge,1730,CNBC,2014
+mcdonald's,1634,CNBC,2014
+senate,1623,CNBC,2014
+cadillac,1582,CNBC,2014
+sony,1509,CNBC,2014
+cme,1501,CNBC,2014
+intel,1490,CNBC,2014
+medicare,1457,CNBC,2014
+bank of america,1314,CNBC,2014
+samsung,1275,CNBC,2014
+the white house,1223,CNBC,2014
+boeing,1113,CNBC,2014
+morgan stanley,1055,CNBC,2014
+nbc,1007,CNBC,2014
+treasury,993,CNBC,2014
+warner,965,CNBC,2014
+jpmorgan,927,CNBC,2014
+euro,787,CNBC,2014
+fidelity investments,767,CNBC,2014
+amazon,764,CNBC,2014
+wells fargo,703,CNBC,2014
+cbs,688,CNBC,2014
+pepsi,685,CNBC,2014
+fda,672,CNBC,2014
+caterpillar,641,CNBC,2014
+nike,589,CNBC,2014
+exxon,587,CNBC,2014
+toyota,584,CNBC,2014
+hewlett-packard,576,CNBC,2014
+fbi,522,CNBC,2014
+nato,521,CNBC,2014
+chevron,521,CNBC,2014
+sears,519,CNBC,2014
+t. rowe price,509,CNBC,2014
+hamas,490,CNBC,2014
+capitol hill,480,CNBC,2014
+fed,12917,CNBC,2012
+s&p,5749,CNBC,2012
+congress,4565,CNBC,2012
+microsoft,3345,CNBC,2012
+google,3254,CNBC,2012
+medicare,2711,CNBC,2012
+ford,2635,CNBC,2012
+fidelity,2484,CNBC,2012
+the white house,2476,CNBC,2012
+senate,2388,CNBC,2012
+at&t,2297,CNBC,2012
+apple,2186,CNBC,2012
+morgan stanley,2079,CNBC,2012
+bank of america,1980,CNBC,2012
+yahoo,1930,CNBC,2012
+jpmorgan,1615,CNBC,2012
+the new york stock exchange,1613,CNBC,2012
+intel,1501,CNBC,2012
+euro,1484,CNBC,2012
+ibm,1468,CNBC,2012
+treasury,1415,CNBC,2012
+mcdonald's,1404,CNBC,2012
+samsung,1344,CNBC,2012
+gm,1310,CNBC,2012
+xerox,1128,CNBC,2012
+wells fargo,1010,CNBC,2012
+ge,978,CNBC,2012
+caterpillar,941,CNBC,2012
+gop,866,CNBC,2012
+hewlett-packard,855,CNBC,2012
+chevron,823,CNBC,2012
+fidelity investments,786,CNBC,2012
+nbc,762,CNBC,2012
+nokia,733,CNBC,2012
+nyse,706,CNBC,2012
+capitol hill,661,CNBC,2012
+cme,607,CNBC,2012
+moody's,589,CNBC,2012
+fda,581,CNBC,2012
+sony,573,CNBC,2012
+medicaid,568,CNBC,2012
+boeing,562,CNBC,2012
+sec,543,CNBC,2012
+merrill lynch,529,CNBC,2012
+the supreme court,529,CNBC,2012
+pepsi,509,CNBC,2012
+house,508,CNBC,2012
+epa,499,CNBC,2012
+sears,487,CNBC,2012
+fed,13585,CNBC,2017
+s&p,7183,CNBC,2017
+the white house,6982,CNBC,2017
+senate,6519,CNBC,2017
+congress,5338,CNBC,2017
+at&t,4155,CNBC,2017
+google,2771,CNBC,2017
+medicare,2609,CNBC,2017
+microsoft,2262,CNBC,2017
+ibm,2229,CNBC,2017
+ge,2035,CNBC,2017
+intel,1865,CNBC,2017
+treasury,1857,CNBC,2017
+fbi,1733,CNBC,2017
+ford,1723,CNBC,2017
+wells fargo,1625,CNBC,2017
+capitol hill,1582,CNBC,2017
+apple,1512,CNBC,2017
+morgan stanley,1505,CNBC,2017
+the new york stock exchange,1497,CNBC,2017
+boeing,1469,CNBC,2017
+fidelity,1443,CNBC,2017
+gop,1395,CNBC,2017
+gm,1346,CNBC,2017
+amazon,1281,CNBC,2017
+white house,1244,CNBC,2017
+medicaid,1216,CNBC,2017
+mcdonald's,1120,CNBC,2017
+cme,1072,CNBC,2017
+bank of america,1034,CNBC,2017
+nbc,909,CNBC,2017
+house,881,CNBC,2017
+fox,841,CNBC,2017
+samsung,837,CNBC,2017
+nike,827,CNBC,2017
+caterpillar,811,CNBC,2017
+nato,783,CNBC,2017
+cbs,773,CNBC,2017
+jpmorgan,691,CNBC,2017
+fda,637,CNBC,2017
+euro,629,CNBC,2017
+t. rowe price,589,CNBC,2017
+disney,571,CNBC,2017
+warner,569,CNBC,2017
+exxon,542,CNBC,2017
+the european union,509,CNBC,2017
+the republican party,497,CNBC,2017
+nbc news,491,CNBC,2017
+fed,14384,CNBC,2020
+s&p,8481,CNBC,2020
+microsoft,5128,CNBC,2020
+congress,4638,CNBC,2020
+senate,4100,CNBC,2020
+the white house,3993,CNBC,2020
+boeing,3093,CNBC,2020
+fda,2646,CNBC,2020
+at&t,2539,CNBC,2020
+treasury,2414,CNBC,2020
+medicare,2001,CNBC,2020
+google,1964,CNBC,2020
+fidelity,1915,CNBC,2020
+morgan stanley,1816,CNBC,2020
+intel,1624,CNBC,2020
+ibm,1550,CNBC,2020
+ford,1447,CNBC,2020
+apple,1447,CNBC,2020
+gm,1384,CNBC,2020
+wells fargo,1247,CNBC,2020
+cdc,1068,CNBC,2020
+chevron,1010,CNBC,2020
+humana,1006,CNBC,2020
+nbc,999,CNBC,2020
+bank of america,981,CNBC,2020
+mcdonald's,927,CNBC,2020
+amazon,768,CNBC,2020
+jpmorgan,720,CNBC,2020
+tesla,713,CNBC,2020
+the new york stock exchange,695,CNBC,2020
+exxon,688,CNBC,2020
+samsung,675,CNBC,2020
+white house,667,CNBC,2020
+nike,646,CNBC,2020
+capitol hill,630,CNBC,2020
+ge,629,CNBC,2020
+nbc news,581,CNBC,2020
+sec,580,CNBC,2020
+caterpillar,557,CNBC,2020
+disney,528,CNBC,2020
+delta,507,CNBC,2020
+nissan,466,CNBC,2020
+american airlines,463,CNBC,2020
+wilfred,446,CNBC,2020
+house,419,CNBC,2020
+julia,411,CNBC,2020
+semis,396,CNBC,2020
+the federal reserve,393,CNBC,2020
+johnson & johnson,393,CNBC,2020
+fed,24928,CNBC,2013
+s&p,7898,CNBC,2013
+fidelity,4909,CNBC,2013
+congress,4835,CNBC,2013
+microsoft,4500,CNBC,2013
+ford,4108,CNBC,2013
+senate,3709,CNBC,2013
+google,3704,CNBC,2013
+ge,3136,CNBC,2013
+the white house,2636,CNBC,2013
+medicare,2299,CNBC,2013
+apple,2167,CNBC,2013
+boeing,2155,CNBC,2013
+yahoo,2120,CNBC,2013
+at&t,1992,CNBC,2013
+the new york stock exchange,1979,CNBC,2013
+treasury,1961,CNBC,2013
+samsung,1946,CNBC,2013
+irs,1822,CNBC,2013
+jpmorgan,1590,CNBC,2013
+ibm,1539,CNBC,2013
+mcdonald's,1394,CNBC,2013
+bank of america,1360,CNBC,2013
+intel,1358,CNBC,2013
+cadillac,1279,CNBC,2013
+morgan stanley,1221,CNBC,2013
+gm,1200,CNBC,2013
+sony,1195,CNBC,2013
+wells fargo,1060,CNBC,2013
+xerox,1052,CNBC,2013
+cme,968,CNBC,2013
+caterpillar,931,CNBC,2013
+fidelity investments,925,CNBC,2013
+nokia,889,CNBC,2013
+nbc,882,CNBC,2013
+capitol hill,849,CNBC,2013
+cbs,847,CNBC,2013
+euro,846,CNBC,2013
+lincoln,830,CNBC,2013
+fbi,829,CNBC,2013
+gop,730,CNBC,2013
+hewlett-packard,718,CNBC,2013
+sec,714,CNBC,2013
+t. rowe price,666,CNBC,2013
+aflac,657,CNBC,2013
+nsa,654,CNBC,2013
+siemens,617,CNBC,2013
+house,572,CNBC,2013
+citibank,557,CNBC,2013
+congress,26109,MSNBC,2023
+hamas,25703,MSNBC,2023
+the white house,19453,MSNBC,2023
+senate,17072,MSNBC,2023
+fbi,13218,MSNBC,2023
+nbc news,12522,MSNBC,2023
+the supreme court,10886,MSNBC,2023
+the republican party,10848,MSNBC,2023
+nbc,9148,MSNBC,2023
+gop,8395,MSNBC,2023
+supreme court,6654,MSNBC,2023
+white house,6238,MSNBC,2023
+the justice department,6014,MSNBC,2023
+capitol hill,5241,MSNBC,2023
+medicare,4558,MSNBC,2023
+house,4243,MSNBC,2023
+nato,4077,MSNBC,2023
+fda,4070,MSNBC,2023
+fox,3181,MSNBC,2023
+the new york times,3016,MSNBC,2023
+hezbollah,2744,MSNBC,2023
+state,2730,MSNBC,2023
+the department of justice,2529,MSNBC,2023
+pentagon,2309,MSNBC,2023
+the house of representatives,2103,MSNBC,2023
+fed,2103,MSNBC,2023
+the new york times',1991,MSNBC,2023
+google,1918,MSNBC,2023
+cabenuva,1770,MSNBC,2023
+dexcom,1706,MSNBC,2023
+the democratic party,1660,MSNBC,2023
+kremlin,1577,MSNBC,2023
+♪ safelite repair,1504,MSNBC,2023
+irs,1496,MSNBC,2023
+neoplasia syndrome type,1450,MSNBC,2023
+cia,1416,MSNBC,2023
+dovato,1294,MSNBC,2023
+nicolle,1289,MSNBC,2023
+chase,1233,MSNBC,2023
+morgan stanley,1192,MSNBC,2023
+nikki haley,1125,MSNBC,2023
+merrill,1101,MSNBC,2023
+lincoln,1021,MSNBC,2023
+aclu,963,MSNBC,2023
+samsung,934,MSNBC,2023
+harvard,917,MSNBC,2023
+the white house,38390,MSNBC,2017
+senate,23750,MSNBC,2017
+congress,22326,MSNBC,2017
+fbi,18404,MSNBC,2017
+white house,9517,MSNBC,2017
+medicare,7588,MSNBC,2017
+capitol hill,6772,MSNBC,2017
+nbc,6549,MSNBC,2017
+nbc news,5572,MSNBC,2017
+medicaid,4632,MSNBC,2017
+the republican party,4545,MSNBC,2017
+cia,3764,MSNBC,2017
+gop,3546,MSNBC,2017
+the justice department,3138,MSNBC,2017
+nato,2742,MSNBC,2017
+the new york times',2516,MSNBC,2017
+state,2364,MSNBC,2017
+house,2362,MSNBC,2017
+the supreme court,2317,MSNBC,2017
+the democratic party,2112,MSNBC,2017
+intel,2091,MSNBC,2017
+supreme court,2008,MSNBC,2017
+this white house,2002,MSNBC,2017
+kremlin,1907,MSNBC,2017
+pentagon,1904,MSNBC,2017
+gillette,1463,MSNBC,2017
+washington post',1423,MSNBC,2017
+fema,1356,MSNBC,2017
+the department of justice,1141,MSNBC,2017
+the senate intelligence committee,1134,MSNBC,2017
+the house intelligence committee,1121,MSNBC,2017
+the new york times,1112,MSNBC,2017
+the state department,1063,MSNBC,2017
+at&t,991,MSNBC,2017
+ford,981,MSNBC,2017
+aarp medicare supplement,969,MSNBC,2017
+epa,865,MSNBC,2017
+nsa,863,MSNBC,2017
+fidelity,813,MSNBC,2017
+the united nations,765,MSNBC,2017
+american express,760,MSNBC,2017
+microsoft,751,MSNBC,2017
+treasury,745,MSNBC,2017
+washington,693,MSNBC,2017
+al qaeda,689,MSNBC,2017
+the house of representatives,686,MSNBC,2017
+al,675,MSNBC,2017
+congress,34653,MSNBC,2019
+the white house,26466,MSNBC,2019
+senate,20604,MSNBC,2019
+fbi,9873,MSNBC,2019
+white house,7998,MSNBC,2019
+medicare,7208,MSNBC,2019
+nbc news,5888,MSNBC,2019
+nbc,5180,MSNBC,2019
+capitol hill,4855,MSNBC,2019
+the justice department,4244,MSNBC,2019
+the democratic party,4049,MSNBC,2019
+the republican party,3509,MSNBC,2019
+the supreme court,3233,MSNBC,2019
+the new york times',2657,MSNBC,2019
+house,2607,MSNBC,2019
+the judiciary committee,2304,MSNBC,2019
+cia,2169,MSNBC,2019
+the house judiciary committee,1952,MSNBC,2019
+fda,1752,MSNBC,2019
+lincoln,1743,MSNBC,2019
+nato,1738,MSNBC,2019
+the house of representatives,1657,MSNBC,2019
+gop,1632,MSNBC,2019
+state,1621,MSNBC,2019
+pentagon,1530,MSNBC,2019
+fidelity,1530,MSNBC,2019
+washington post',1501,MSNBC,2019
+intel,1404,MSNBC,2019
+the department of justice,1357,MSNBC,2019
+supreme court,1257,MSNBC,2019
+the state department,1243,MSNBC,2019
+the new york times,1188,MSNBC,2019
+taliban,1160,MSNBC,2019
+irs,1103,MSNBC,2019
+the house intelligence committee,1101,MSNBC,2019
+fed,1088,MSNBC,2019
+ford,1065,MSNBC,2019
+this white house,896,MSNBC,2019
+humana,865,MSNBC,2019
+justin,778,MSNBC,2019
+velshi & ruhle,775,MSNBC,2019
+xfinity,765,MSNBC,2019
+justice department,737,MSNBC,2019
+treasury,720,MSNBC,2019
+washington,692,MSNBC,2019
+the european union,683,MSNBC,2019
+nicolle,671,MSNBC,2019
+congress,12177,MSNBC,2024
+the supreme court,11328,MSNBC,2024
+senate,10956,MSNBC,2024
+the white house,9203,MSNBC,2024
+hamas,8072,MSNBC,2024
+the republican party,6004,MSNBC,2024
+supreme court,5319,MSNBC,2024
+nbc news,4935,MSNBC,2024
+fbi,3746,MSNBC,2024
+nbc,3720,MSNBC,2024
+gop,3053,MSNBC,2024
+white house,2760,MSNBC,2024
+nato,2519,MSNBC,2024
+nikki haley,2373,MSNBC,2024
+capitol hill,2167,MSNBC,2024
+house,1633,MSNBC,2024
+fda,1632,MSNBC,2024
+the justice department,1566,MSNBC,2024
+google,1555,MSNBC,2024
+the new york times,1453,MSNBC,2024
+ivf,1417,MSNBC,2024
+♪ liberty,1361,MSNBC,2024
+medicare,1262,MSNBC,2024
+hezbollah,1261,MSNBC,2024
+morgan stanley,1227,MSNBC,2024
+nikki,1178,MSNBC,2024
+the democratic party,1176,MSNBC,2024
+the new york times',1124,MSNBC,2024
+♪ safelite repair,924,MSNBC,2024
+e. jean carroll,909,MSNBC,2024
+state,870,MSNBC,2024
+the department of justice,837,MSNBC,2024
+blanche,730,MSNBC,2024
+hoo,720,MSNBC,2024
+the house of representatives,718,MSNBC,2024
+cia,692,MSNBC,2024
+un,681,MSNBC,2024
+pentagon,678,MSNBC,2024
+boeing,673,MSNBC,2024
+fed,632,MSNBC,2024
+tyk2,593,MSNBC,2024
+at&t,583,MSNBC,2024
+cabenuva,573,MSNBC,2024
+white house',555,MSNBC,2024
+nicolle,514,MSNBC,2024
+lincoln,512,MSNBC,2024
+senate,9686,MSNBC,2016
+the republican party,9038,MSNBC,2016
+fbi,8383,MSNBC,2016
+nbc,8161,MSNBC,2016
+the white house,8095,MSNBC,2016
+congress,7221,MSNBC,2016
+gop,5128,MSNBC,2016
+medicare,4371,MSNBC,2016
+nbc news,4304,MSNBC,2016
+the democratic party,3955,MSNBC,2016
+state,2913,MSNBC,2016
+the supreme court,2499,MSNBC,2016
+at&t,2314,MSNBC,2016
+capitol hill,2133,MSNBC,2016
+supreme court,1990,MSNBC,2016
+microsoft,1884,MSNBC,2016
+ge,1657,MSNBC,2016
+white house,1647,MSNBC,2016
+cia,1531,MSNBC,2016
+the new york times',1322,MSNBC,2016
+nato,1297,MSNBC,2016
+amex,1172,MSNBC,2016
+nissan,1147,MSNBC,2016
+pg&e,1070,MSNBC,2016
+house,1023,MSNBC,2016
+the state department,993,MSNBC,2016
+washington post',892,MSNBC,2016
+al qaeda,833,MSNBC,2016
+ford,786,MSNBC,2016
+the justice department,772,MSNBC,2016
+the new york times,729,MSNBC,2016
+TOPICS,709,MSNBC,2016
+pentagon,692,MSNBC,2016
+epa,656,MSNBC,2016
+the european union,646,MSNBC,2016
+boeing,578,MSNBC,2016
+sears,578,MSNBC,2016
+volkswagen,555,MSNBC,2016
+the electoral college,525,MSNBC,2016
+the republican national committee,524,MSNBC,2016
+bernie sanders,518,MSNBC,2016
+aarp medicare supplement,499,MSNBC,2016
+lincoln,487,MSNBC,2016
+fda,483,MSNBC,2016
+the us postal service,481,MSNBC,2016
+claritin,476,MSNBC,2016
+senate,29564,MSNBC,2022
+congress,28685,MSNBC,2022
+the white house,21594,MSNBC,2022
+fbi,14470,MSNBC,2022
+nato,13962,MSNBC,2022
+the justice department,11713,MSNBC,2022
+the supreme court,11081,MSNBC,2022
+the republican party,10859,MSNBC,2022
+nbc news,10661,MSNBC,2022
+white house,9007,MSNBC,2022
+supreme court,7993,MSNBC,2022
+nbc,7629,MSNBC,2022
+gop,6816,MSNBC,2022
+medicare,4672,MSNBC,2022
+capitol hill,4059,MSNBC,2022
+the department of justice,3951,MSNBC,2022
+state,3513,MSNBC,2022
+fda,3224,MSNBC,2022
+kremlin,2934,MSNBC,2022
+the new york times,2918,MSNBC,2022
+fed,2649,MSNBC,2022
+the democratic party,2540,MSNBC,2022
+fidelity,2433,MSNBC,2022
+pentagon,2419,MSNBC,2022
+house,2143,MSNBC,2022
+merrill,2003,MSNBC,2022
+the new york times',1968,MSNBC,2022
+cabenuva,1864,MSNBC,2022
+irs,1753,MSNBC,2022
+neoplasia syndrome type,1722,MSNBC,2022
+cia,1630,MSNBC,2022
+cdc,1465,MSNBC,2022
+at&t,1325,MSNBC,2022
+lincoln,1292,MSNBC,2022
+justice department,1206,MSNBC,2022
+♪ safelite repair,1188,MSNBC,2022
+the house of representatives,1136,MSNBC,2022
+taliban,1048,MSNBC,2022
+the united nations,1036,MSNBC,2022
+the european union,934,MSNBC,2022
+roe v. wade,925,MSNBC,2022
+♪ ♪ ♪,900,MSNBC,2022
+fema,842,MSNBC,2022
+nicolle,806,MSNBC,2022
+republican party,786,MSNBC,2022
+xfinity,756,MSNBC,2022
+congress,14284,MSNBC,2014
+senate,13061,MSNBC,2014
+the white house,10347,MSNBC,2014
+nbc,4650,MSNBC,2014
+the republican party,3786,MSNBC,2014
+gop,3553,MSNBC,2014
+medicare,3211,MSNBC,2014
+hamas,2738,MSNBC,2014
+nbc news,2652,MSNBC,2014
+cia,2202,MSNBC,2014
+fbi,2174,MSNBC,2014
+the supreme court,1985,MSNBC,2014
+al qaeda,1976,MSNBC,2014
+white house,1920,MSNBC,2014
+ford,1871,MSNBC,2014
+state,1662,MSNBC,2014
+capitol hill,1649,MSNBC,2014
+taliban,1620,MSNBC,2014
+medicaid,1480,MSNBC,2014
+at&t,1455,MSNBC,2014
+ge,1420,MSNBC,2014
+pentagon,1349,MSNBC,2014
+sony,1344,MSNBC,2014
+irs,1262,MSNBC,2014
+the new york times',1261,MSNBC,2014
+house,1260,MSNBC,2014
+campbell,1195,MSNBC,2014
+the democratic party,1156,MSNBC,2014
+supreme court,1096,MSNBC,2014
+nsa,1014,MSNBC,2014
+cdc,979,MSNBC,2014
+celebrex,979,MSNBC,2014
+the justice department,930,MSNBC,2014
+ge capital,925,MSNBC,2014
+nato,897,MSNBC,2014
+nissan,894,MSNBC,2014
+american express,771,MSNBC,2014
+cadillac,750,MSNBC,2014
+nfl,732,MSNBC,2014
+gm,722,MSNBC,2014
+advanced safety systems & technology,676,MSNBC,2014
+the new york times,667,MSNBC,2014
+christie's,653,MSNBC,2014
+microsoft,617,MSNBC,2014
+the house of representatives,545,MSNBC,2014
+xerox,538,MSNBC,2014
+epa,493,MSNBC,2014
+the state department,485,MSNBC,2014
+congress,10774,MSNBC,2015
+the white house,8630,MSNBC,2015
+nbc,7360,MSNBC,2015
+senate,6974,MSNBC,2015
+fbi,5059,MSNBC,2015
+the republican party,4689,MSNBC,2015
+gop,4317,MSNBC,2015
+nbc news,4099,MSNBC,2015
+al qaeda,2735,MSNBC,2015
+nissan,2396,MSNBC,2015
+at&t,2378,MSNBC,2015
+ge,2333,MSNBC,2015
+capitol hill,2318,MSNBC,2015
+ford,2280,MSNBC,2015
+medicare,2138,MSNBC,2015
+state,2127,MSNBC,2015
+the supreme court,2125,MSNBC,2015
+white house,1669,MSNBC,2015
+pg&e,1563,MSNBC,2015
+the democratic party,1293,MSNBC,2015
+pentagon,1282,MSNBC,2015
+the state department,1124,MSNBC,2015
+supreme court,1101,MSNBC,2015
+house,1019,MSNBC,2015
+the new york times',963,MSNBC,2015
+amtrak,941,MSNBC,2015
+the justice department,906,MSNBC,2015
+volkswagen,886,MSNBC,2015
+sears,853,MSNBC,2015
+taliban,824,MSNBC,2015
+cia,791,MSNBC,2015
+fda,746,MSNBC,2015
+northrop,711,MSNBC,2015
+epa,683,MSNBC,2015
+lincoln,676,MSNBC,2015
+fed,608,MSNBC,2015
+washington post',587,MSNBC,2015
+t. rowe price,577,MSNBC,2015
+ge software,574,MSNBC,2015
+microsoft,560,MSNBC,2015
+boeing,555,MSNBC,2015
+nsa,532,MSNBC,2015
+fifa,531,MSNBC,2015
+the new york times,531,MSNBC,2015
+cvs health,491,MSNBC,2015
+campbell,469,MSNBC,2015
+the white house,38028,MSNBC,2020
+senate,37379,MSNBC,2020
+congress,23266,MSNBC,2020
+nbc news,9899,MSNBC,2020
+white house,9402,MSNBC,2020
+nbc,8021,MSNBC,2020
+the supreme court,7644,MSNBC,2020
+cdc,7222,MSNBC,2020
+fda,6889,MSNBC,2020
+fbi,6249,MSNBC,2020
+medicare,5962,MSNBC,2020
+the republican party,5143,MSNBC,2020
+supreme court,4876,MSNBC,2020
+capitol hill,4592,MSNBC,2020
+the new york times',4309,MSNBC,2020
+the justice department,4164,MSNBC,2020
+the democratic party,4155,MSNBC,2020
+lincoln,3060,MSNBC,2020
+state,2704,MSNBC,2020
+fidelity,2576,MSNBC,2020
+house,2317,MSNBC,2020
+gop,2090,MSNBC,2020
+pentagon,2069,MSNBC,2020
+nicolle,1879,MSNBC,2020
+the new york times,1640,MSNBC,2020
+cia,1543,MSNBC,2020
+treasury,1399,MSNBC,2020
+fema,1319,MSNBC,2020
+washington post',1314,MSNBC,2020
+fed,1299,MSNBC,2020
+the department of justice,1243,MSNBC,2020
+the world health organization,1240,MSNBC,2020
+taliban,1188,MSNBC,2020
+the house of representatives,1178,MSNBC,2020
+the electoral college,1126,MSNBC,2020
+medicaid,1075,MSNBC,2020
+this white house,1064,MSNBC,2020
+at&t,1022,MSNBC,2020
+♪ safelite repair,1020,MSNBC,2020
+intel,1012,MSNBC,2020
+crest,957,MSNBC,2020
+TOPICS,895,MSNBC,2020
+justice department,829,MSNBC,2020
+ppe,822,MSNBC,2020
+samsung,819,MSNBC,2020
+the state department,802,MSNBC,2020
+nato,774,MSNBC,2020
+congress,22761,MSNBC,2013
+senate,20116,MSNBC,2013
+the white house,14438,MSNBC,2013
+the republican party,7864,MSNBC,2013
+medicare,6041,MSNBC,2013
+gop,5353,MSNBC,2013
+nbc,4451,MSNBC,2013
+irs,4270,MSNBC,2013
+fbi,3545,MSNBC,2013
+capitol hill,2907,MSNBC,2013
+the supreme court,2807,MSNBC,2013
+nsa,2753,MSNBC,2013
+white house,2731,MSNBC,2013
+ford,2708,MSNBC,2013
+house,2413,MSNBC,2013
+al qaeda,2409,MSNBC,2013
+nbc news,2204,MSNBC,2013
+state,2186,MSNBC,2013
+cia,1966,MSNBC,2013
+medicaid,1933,MSNBC,2013
+nissan,1769,MSNBC,2013
+campbell,1537,MSNBC,2013
+supreme court,1382,MSNBC,2013
+ge,1357,MSNBC,2013
+the new york times',1208,MSNBC,2013
+pentagon,1177,MSNBC,2013
+at&t,1157,MSNBC,2013
+the democratic party,1147,MSNBC,2013
+the justice department,1062,MSNBC,2013
+the house of representatives,1041,MSNBC,2013
+fed,950,MSNBC,2013
+fidelity,877,MSNBC,2013
+lincoln,807,MSNBC,2013
+celebrex,702,MSNBC,2013
+fda,676,MSNBC,2013
+navy,661,MSNBC,2013
+washington post',661,MSNBC,2013
+aarp medicare supplement,626,MSNBC,2013
+the state department,579,MSNBC,2013
+hezbollah,562,MSNBC,2013
+the new york times,549,MSNBC,2013
+taliban,546,MSNBC,2013
+treasury,544,MSNBC,2013
+mcdonald's,449,MSNBC,2013
+siemens,443,MSNBC,2013
+martin,439,MSNBC,2013
+the white house,34960,MSNBC,2018
+fbi,24475,MSNBC,2018
+congress,18356,MSNBC,2018
+senate,17761,MSNBC,2018
+white house,9761,MSNBC,2018
+medicare,7283,MSNBC,2018
+nbc news,6082,MSNBC,2018
+the justice department,5219,MSNBC,2018
+nbc,4760,MSNBC,2018
+the republican party,4485,MSNBC,2018
+capitol hill,4289,MSNBC,2018
+the supreme court,4244,MSNBC,2018
+cia,3852,MSNBC,2018
+supreme court,3660,MSNBC,2018
+the new york times',2901,MSNBC,2018
+nato,2576,MSNBC,2018
+gop,2344,MSNBC,2018
+ford,2068,MSNBC,2018
+this white house,2020,MSNBC,2018
+state,1927,MSNBC,2018
+epa,1774,MSNBC,2018
+the democratic party,1652,MSNBC,2018
+gillette,1629,MSNBC,2018
+kremlin,1487,MSNBC,2018
+pg&e,1482,MSNBC,2018
+the department of justice,1478,MSNBC,2018
+washington post',1406,MSNBC,2018
+house,1344,MSNBC,2018
+pentagon,1278,MSNBC,2018
+the new york times,1271,MSNBC,2018
+intel,1240,MSNBC,2018
+fda,1129,MSNBC,2018
+lincoln,1054,MSNBC,2018
+the judiciary committee,1001,MSNBC,2018
+at&t,973,MSNBC,2018
+the house intelligence committee,971,MSNBC,2018
+fidelity,967,MSNBC,2018
+nicolle,962,MSNBC,2018
+the house of representatives,956,MSNBC,2018
+justice department,873,MSNBC,2018
+the senate judiciary committee,782,MSNBC,2018
+cadillac,772,MSNBC,2018
+fed,748,MSNBC,2018
+otezla,715,MSNBC,2018
+crest,706,MSNBC,2018
+whoo,704,MSNBC,2018
+aarp medicare supplement,691,MSNBC,2018
+congress,10505,MSNBC,2012
+medicare,9878,MSNBC,2012
+the white house,7620,MSNBC,2012
+senate,7596,MSNBC,2012
+the republican party,6204,MSNBC,2012
+nbc,4706,MSNBC,2012
+gop,4235,MSNBC,2012
+the supreme court,2826,MSNBC,2012
+nbc news,1868,MSNBC,2012
+white house,1590,MSNBC,2012
+supreme court,1421,MSNBC,2012
+al qaeda,1399,MSNBC,2012
+medicaid,1392,MSNBC,2012
+at&t,1338,MSNBC,2012
+nissan,1327,MSNBC,2012
+fidelity,1123,MSNBC,2012
+fbi,1078,MSNBC,2012
+the democratic party,1075,MSNBC,2012
+capitol hill,1042,MSNBC,2012
+state,1006,MSNBC,2012
+house,1000,MSNBC,2012
+mormon,976,MSNBC,2012
+taliban,949,MSNBC,2012
+ford,910,MSNBC,2012
+the new york times',885,MSNBC,2012
+fed,870,MSNBC,2012
+gallup,735,MSNBC,2012
+chevron,716,MSNBC,2012
+the justice department,694,MSNBC,2012
+pentagon,658,MSNBC,2012
+devry university,648,MSNBC,2012
+aarp medicare supplement,587,MSNBC,2012
+wells fargo,568,MSNBC,2012
+ge,560,MSNBC,2012
+the new york times,522,MSNBC,2012
+washington post',510,MSNBC,2012
+harvard,498,MSNBC,2012
+cbs,489,MSNBC,2012
+nato,476,MSNBC,2012
+la la la,476,MSNBC,2012
+campbell,473,MSNBC,2012
+gm,447,MSNBC,2012
+the republican convention,442,MSNBC,2012
+the republican national convention,424,MSNBC,2012
+the house of representatives,414,MSNBC,2012
+s&p,411,MSNBC,2012
+senate,47520,MSNBC,2021
+congress,39099,MSNBC,2021
+the white house,28120,MSNBC,2021
+the republican party,13660,MSNBC,2021
+taliban,13137,MSNBC,2021
+fbi,10915,MSNBC,2021
+white house,8950,MSNBC,2021
+nbc news,8927,MSNBC,2021
+capitol hill,7918,MSNBC,2021
+the justice department,7711,MSNBC,2021
+gop,7618,MSNBC,2021
+nbc,6949,MSNBC,2021
+the supreme court,6842,MSNBC,2021
+fda,6281,MSNBC,2021
+cdc,5910,MSNBC,2021
+medicare,4146,MSNBC,2021
+house,3954,MSNBC,2021
+the democratic party,3380,MSNBC,2021
+pentagon,3333,MSNBC,2021
+supreme court,3304,MSNBC,2021
+state,3010,MSNBC,2021
+the new york times',2801,MSNBC,2021
+johnson & johnson,2324,MSNBC,2021
+the department of justice,2100,MSNBC,2021
+lincoln,1984,MSNBC,2021
+the house of representatives,1941,MSNBC,2021
+fidelity,1938,MSNBC,2021
+the new york times,1863,MSNBC,2021
+nato,1847,MSNBC,2021
+nicolle,1634,MSNBC,2021
+justice department,1564,MSNBC,2021
+hamas,1450,MSNBC,2021
+cia,1433,MSNBC,2021
+pnc bank,1338,MSNBC,2021
+fema,1320,MSNBC,2021
+♪ safelite repair,1273,MSNBC,2021
+washington post',1265,MSNBC,2021
+cadillac,1242,MSNBC,2021
+cabenuva,1230,MSNBC,2021
+neoplasia syndrome type,1214,MSNBC,2021
+al qaeda,1177,MSNBC,2021
+capitol,1164,MSNBC,2021
+crest,1030,MSNBC,2021
+at&t,1009,MSNBC,2021
+xfinity,938,MSNBC,2021
+♪ ♪ ♪ ♪ ♪ ♪,931,MSNBC,2021
+this white house,898,MSNBC,2021
+fed,8894,FBC,2021
+senate,8562,FBC,2021
+the white house,8236,FBC,2021
+congress,7015,FBC,2021
+taliban,5337,FBC,2021
+s&p,4438,FBC,2021
+fbi,2945,FBC,2021
+medicare,2531,FBC,2021
+ibm,2400,FBC,2021
+fda,2327,FBC,2021
+microsoft,2252,FBC,2021
+capitol hill,2043,FBC,2021
+cdc,1995,FBC,2021
+white house,1959,FBC,2021
+gop,1826,FBC,2021
+irs,1742,FBC,2021
+google,1540,FBC,2021
+treasury,1497,FBC,2021
+sec,1325,FBC,2021
+ford,1321,FBC,2021
+the republican party,1298,FBC,2021
+fox,1292,FBC,2021
+ccp,1272,FBC,2021
+house,1180,FBC,2021
+humana,1156,FBC,2021
+the chinese communist party,1082,FBC,2021
+the supreme court,1026,FBC,2021
+hr+,1004,FBC,2021
+fidelity,1003,FBC,2021
+the wall street journal,983,FBC,2021
+pentagon,969,FBC,2021
+neil,952,FBC,2021
+xfinity,933,FBC,2021
+the democratic party,904,FBC,2021
+lincoln,903,FBC,2021
+neoplasia syndrome type,876,FBC,2021
+state,835,FBC,2021
+apple,831,FBC,2021
+amazon,794,FBC,2021
+johnson & johnson,752,FBC,2021
+nih,697,FBC,2021
+kohler,688,FBC,2021
+intel,667,FBC,2021
+hennion & walsh,662,FBC,2021
+humana medicare,643,FBC,2021
+the federal reserve,642,FBC,2021
+♪ ♪ ♪,607,FBC,2021
+samsung,582,FBC,2021
+fed,18055,FBC,2022
+the white house,7985,FBC,2022
+congress,6424,FBC,2022
+senate,5988,FBC,2022
+fbi,5170,FBC,2022
+s&p,4270,FBC,2022
+nato,2415,FBC,2022
+microsoft,2289,FBC,2022
+gop,2242,FBC,2022
+white house,2017,FBC,2022
+irs,1849,FBC,2022
+medicare,1528,FBC,2022
+sec,1513,FBC,2022
+the supreme court,1380,FBC,2022
+supreme court,1289,FBC,2022
+fox,1228,FBC,2022
+capitol hill,1152,FBC,2022
+google,1147,FBC,2022
+fidelity,1145,FBC,2022
+humana,1121,FBC,2022
+ccp,1041,FBC,2022
+ford,1039,FBC,2022
+treasury,1009,FBC,2022
+ibm,972,FBC,2022
+house,915,FBC,2022
+at&t,909,FBC,2022
+the federal reserve,908,FBC,2022
+hennion & walsh,902,FBC,2022
+cdc,850,FBC,2022
+the wall street journal,844,FBC,2022
+apple,840,FBC,2022
+xfinity,830,FBC,2022
+fda,755,FBC,2022
+neil,744,FBC,2022
+the republican party,735,FBC,2022
+intel,690,FBC,2022
+cabenuva,677,FBC,2022
+the justice department,670,FBC,2022
+the democratic party,647,FBC,2022
+chevron,595,FBC,2022
+the chinese communist party,567,FBC,2022
+bank of america,565,FBC,2022
+amazon,525,FBC,2022
+t. rowe price,519,FBC,2022
+morgan stanley,506,FBC,2022
+pentagon,497,FBC,2022
+tesla,463,FBC,2022
+mcdonald's,450,FBC,2022
+senate,13253,FBC,2020
+the white house,9664,FBC,2020
+fbi,9403,FBC,2020
+congress,9134,FBC,2020
+medicare,6799,FBC,2020
+s&p,6335,FBC,2020
+fed,5883,FBC,2020
+fda,4269,FBC,2020
+microsoft,3622,FBC,2020
+humana,2893,FBC,2020
+treasury,2757,FBC,2020
+white house,2643,FBC,2020
+the supreme court,2508,FBC,2020
+google,2455,FBC,2020
+fidelity,2382,FBC,2020
+the justice department,2072,FBC,2020
+boeing,2028,FBC,2020
+cdc,1960,FBC,2020
+capitol hill,1953,FBC,2020
+ford,1863,FBC,2020
+the democratic party,1849,FBC,2020
+supreme court,1798,FBC,2020
+fox,1653,FBC,2020
+house,1582,FBC,2020
+apple,1365,FBC,2020
+the chinese communist party,1262,FBC,2020
+gop,1208,FBC,2020
+state,1189,FBC,2020
+amazon,1111,FBC,2020
+ibm,1027,FBC,2020
+cia,1008,FBC,2020
+the republican party,965,FBC,2020
+the world health organization,959,FBC,2020
+lincoln,944,FBC,2020
+intel,924,FBC,2020
+medicaid,901,FBC,2020
+neil,831,FBC,2020
+the wall street journal,754,FBC,2020
+kohler,753,FBC,2020
+the new york stock exchange,710,FBC,2020
+mcdonald's,693,FBC,2020
+tesla,685,FBC,2020
+gm,676,FBC,2020
+the new york times',669,FBC,2020
+the democrat party,662,FBC,2020
+the department of justice,597,FBC,2020
+the federal reserve,572,FBC,2020
+johnson & johnson,565,FBC,2020
+fed,15375,FBC,2023
+hamas,7640,FBC,2023
+the white house,6846,FBC,2023
+congress,6521,FBC,2023
+medicare,4879,FBC,2023
+fbi,4867,FBC,2023
+senate,4256,FBC,2023
+s&p,3892,FBC,2023
+microsoft,3430,FBC,2023
+irs,2577,FBC,2023
+gop,2500,FBC,2023
+white house,2411,FBC,2023
+google,2109,FBC,2023
+house,1810,FBC,2023
+treasury,1520,FBC,2023
+ford,1357,FBC,2023
+capitol hill,1342,FBC,2023
+humana,1327,FBC,2023
+fox,1240,FBC,2023
+ccp,1159,FBC,2023
+hezbollah,1147,FBC,2023
+ibm,1120,FBC,2023
+the supreme court,1016,FBC,2023
+harvard,946,FBC,2023
+hennion & walsh,876,FBC,2023
+t. rowe price,864,FBC,2023
+dexcom,782,FBC,2023
+sec,778,FBC,2023
+intel,746,FBC,2023
+the chinese communist party,718,FBC,2023
+apple,717,FBC,2023
+pentagon,690,FBC,2023
+bank of america,690,FBC,2023
+the justice department,685,FBC,2023
+silicon valley bank,652,FBC,2023
+the republican party,646,FBC,2023
+supreme court,635,FBC,2023
+♪ safelite repair,633,FBC,2023
+fda,626,FBC,2023
+the federal reserve,580,FBC,2023
+the wall street journal,563,FBC,2023
+gm,553,FBC,2023
+the democratic party,517,FBC,2023
+the department of justice,502,FBC,2023
+aarp medicare,495,FBC,2023
+epa,492,FBC,2023
+fidelity,491,FBC,2023
+morgan stanley,485,FBC,2023
+fed,6945,FBC,2024
+the white house,3824,FBC,2024
+senate,3575,FBC,2024
+hamas,3125,FBC,2024
+congress,3049,FBC,2024
+s&p,1929,FBC,2024
+microsoft,1556,FBC,2024
+white house,1523,FBC,2024
+fbi,1088,FBC,2024
+the supreme court,1021,FBC,2024
+google,1008,FBC,2024
+boeing,925,FBC,2024
+un,821,FBC,2024
+gop,817,FBC,2024
+house,761,FBC,2024
+capitol hill,724,FBC,2024
+ibm,652,FBC,2024
+treasury,623,FBC,2024
+fox,619,FBC,2024
+supreme court,576,FBC,2024
+nvidia,575,FBC,2024
+intel,484,FBC,2024
+hezbollah,458,FBC,2024
+apple,447,FBC,2024
+hennion & walsh,441,FBC,2024
+♪ liberty,438,FBC,2024
+harvard,429,FBC,2024
+the democratic party,414,FBC,2024
+ccp,403,FBC,2024
+irs,402,FBC,2024
+medicare,386,FBC,2024
+nikki haley,385,FBC,2024
+the republican party,376,FBC,2024
+sec,363,FBC,2024
+the wall street journal,356,FBC,2024
+ford,330,FBC,2024
+mcdonald's,328,FBC,2024
+t. rowe price,324,FBC,2024
+the justice department,305,FBC,2024
+the chinese communist party,273,FBC,2024
+nato,272,FBC,2024
+the democrat party,270,FBC,2024
+the sky ♪ ♪,264,FBC,2024
+cia,255,FBC,2024
+columbia university,254,FBC,2024
+nbc,253,FBC,2024
+the federal reserve,248,FBC,2024
+epa,241,FBC,2024
+fed,10755,FBC,2013
+congress,7368,FBC,2013
+irs,4942,FBC,2013
+senate,4833,FBC,2013
+the white house,4422,FBC,2013
+s&p,3578,FBC,2013
+the new york stock exchange,3012,FBC,2013
+medicare,2467,FBC,2013
+microsoft,2347,FBC,2013
+google,1799,FBC,2013
+cme,1684,FBC,2013
+fox,1568,FBC,2013
+at&t,1459,FBC,2013
+nsa,1373,FBC,2013
+fidelity,1371,FBC,2013
+sec,1318,FBC,2013
+fbi,1305,FBC,2013
+capitol hill,1304,FBC,2013
+treasury,1271,FBC,2013
+boeing,1255,FBC,2013
+ford,1214,FBC,2013
+samsung,1082,FBC,2013
+white house,1066,FBC,2013
+apple,975,FBC,2013
+mcdonald's,903,FBC,2013
+yahoo,860,FBC,2013
+siemens,824,FBC,2013
+intel,820,FBC,2013
+medicaid,793,FBC,2013
+cbs,766,FBC,2013
+the republican party,756,FBC,2013
+house,737,FBC,2013
+wal-mart,728,FBC,2013
+jpmorgan,717,FBC,2013
+ge,711,FBC,2013
+ibm,710,FBC,2013
+bank of america,705,FBC,2013
+gm,681,FBC,2013
+the justice department,671,FBC,2013
+al qaeda,669,FBC,2013
+t. rowe price,631,FBC,2013
+sony,562,FBC,2013
+epa,516,FBC,2013
+the supreme court,512,FBC,2013
+hewlett-packard,491,FBC,2013
+morgan stanley,479,FBC,2013
+the federal reserve,476,FBC,2013
+wells fargo,476,FBC,2013
+state,463,FBC,2013
+fbi,13650,FBC,2018
+senate,10994,FBC,2018
+congress,10446,FBC,2018
+the white house,10055,FBC,2018
+fed,8093,FBC,2018
+medicare,6598,FBC,2018
+s&p,3873,FBC,2018
+google,3529,FBC,2018
+white house,3351,FBC,2018
+ford,3341,FBC,2018
+microsoft,2518,FBC,2018
+capitol hill,2305,FBC,2018
+supreme court,2251,FBC,2018
+the justice department,2055,FBC,2018
+the supreme court,2028,FBC,2018
+gop,1895,FBC,2018
+fox,1887,FBC,2018
+fidelity,1843,FBC,2018
+gm,1571,FBC,2018
+ibm,1513,FBC,2018
+wells fargo,1493,FBC,2018
+apple,1407,FBC,2018
+amazon,1402,FBC,2018
+state,1387,FBC,2018
+treasury,1383,FBC,2018
+cia,1359,FBC,2018
+at&t,1359,FBC,2018
+kohler,1292,FBC,2018
+the european union,1283,FBC,2018
+nato,1277,FBC,2018
+boeing,1235,FBC,2018
+the democratic party,1224,FBC,2018
+fda,1193,FBC,2018
+house,1172,FBC,2018
+cbs,1155,FBC,2018
+ge,1147,FBC,2018
+the republican party,1140,FBC,2018
+un,1140,FBC,2018
+anoro,1136,FBC,2018
+the department of justice,1123,FBC,2018
+intel,1087,FBC,2018
+the new york stock exchange,968,FBC,2018
+wal-mart,967,FBC,2018
+humana,964,FBC,2018
+sec,952,FBC,2018
+fisher investments,845,FBC,2018
+cme,783,FBC,2018
+aarp medicare supplement,763,FBC,2018
+senate,18462,FBC,2017
+congress,12973,FBC,2017
+the white house,12049,FBC,2017
+fbi,8449,FBC,2017
+medicare,7357,FBC,2017
+white house,3885,FBC,2017
+gop,3278,FBC,2017
+fed,3127,FBC,2017
+capitol hill,2997,FBC,2017
+ford,2914,FBC,2017
+s&p,2537,FBC,2017
+medicaid,2339,FBC,2017
+microsoft,2158,FBC,2017
+house,2139,FBC,2017
+the republican party,1932,FBC,2017
+fidelity,1911,FBC,2017
+the supreme court,1710,FBC,2017
+fox,1634,FBC,2017
+google,1621,FBC,2017
+supreme court,1527,FBC,2017
+the justice department,1492,FBC,2017
+cia,1490,FBC,2017
+treasury,1376,FBC,2017
+anoro,1373,FBC,2017
+nato,1183,FBC,2017
+at&t,1156,FBC,2017
+amazon,1094,FBC,2017
+the democratic party,1073,FBC,2017
+state,992,FBC,2017
+wells fargo,992,FBC,2017
+gm,889,FBC,2017
+irs,881,FBC,2017
+wal-mart,869,FBC,2017
+ge,851,FBC,2017
+intel,849,FBC,2017
+apple,845,FBC,2017
+nsa,827,FBC,2017
+un,822,FBC,2017
+the new york stock exchange,756,FBC,2017
+boeing,748,FBC,2017
+the united nations,747,FBC,2017
+fema,710,FBC,2017
+ibm,699,FBC,2017
+nbc,681,FBC,2017
+aarp medicare supplement,666,FBC,2017
+epa,662,FBC,2017
+the wall street journal',655,FBC,2017
+neil,630,FBC,2017
+congress,12083,FBC,2019
+fed,11846,FBC,2019
+the white house,9072,FBC,2019
+senate,7345,FBC,2019
+fbi,6706,FBC,2019
+medicare,6563,FBC,2019
+s&p,4931,FBC,2019
+boeing,4001,FBC,2019
+google,3685,FBC,2019
+fidelity,3674,FBC,2019
+capitol hill,2966,FBC,2019
+white house,2920,FBC,2019
+the democratic party,2543,FBC,2019
+microsoft,2368,FBC,2019
+ford,2298,FBC,2019
+lincoln,1990,FBC,2019
+fda,1970,FBC,2019
+fox,1938,FBC,2019
+house,1610,FBC,2019
+gm,1567,FBC,2019
+samsung,1566,FBC,2019
+apple,1517,FBC,2019
+ibm,1507,FBC,2019
+the justice department,1495,FBC,2019
+treasury,1476,FBC,2019
+amazon,1313,FBC,2019
+humana,1161,FBC,2019
+kohler,1144,FBC,2019
+the supreme court,1112,FBC,2019
+the european union,1056,FBC,2019
+nato,1054,FBC,2019
+intel,1027,FBC,2019
+the new york stock exchange,1027,FBC,2019
+mcdonald's,1015,FBC,2019
+fisher investments,992,FBC,2019
+state,985,FBC,2019
+the republican party,980,FBC,2019
+cia,974,FBC,2019
+the wall street journal,973,FBC,2019
+pentagon,958,FBC,2019
+neulasta onpro,875,FBC,2019
+xfinity,873,FBC,2019
+ketoacidosis,795,FBC,2019
+the federal reserve,793,FBC,2019
+gop,736,FBC,2019
+supreme court,710,FBC,2019
+at&t,686,FBC,2019
+the department of justice,674,FBC,2019
+medicare,11341,FBC,2016
+fbi,9313,FBC,2016
+congress,6039,FBC,2016
+fed,5795,FBC,2016
+the white house,5412,FBC,2016
+microsoft,4180,FBC,2016
+senate,4161,FBC,2016
+gop,3902,FBC,2016
+the republican party,3423,FBC,2016
+s&p,3342,FBC,2016
+fox,2430,FBC,2016
+state,2193,FBC,2016
+the democratic party,1622,FBC,2016
+google,1564,FBC,2016
+ford,1454,FBC,2016
+the supreme court,1399,FBC,2016
+the european union,1369,FBC,2016
+the state department,1307,FBC,2016
+white house,1286,FBC,2016
+apple,1255,FBC,2016
+aarp medicare supplement,1236,FBC,2016
+supreme court,1203,FBC,2016
+the justice department,1161,FBC,2016
+fidelity,1155,FBC,2016
+wells fargo,1140,FBC,2016
+nato,1123,FBC,2016
+aarp,1078,FBC,2016
+cia,1063,FBC,2016
+irs,1033,FBC,2016
+mcdonald's,970,FBC,2016
+yahoo,954,FBC,2016
+capitol hill,892,FBC,2016
+at&t,870,FBC,2016
+the new york stock exchange,842,FBC,2016
+aarp medicare,809,FBC,2016
+samsung,795,FBC,2016
+cme,795,FBC,2016
+nbc,782,FBC,2016
+house,757,FBC,2016
+boeing,697,FBC,2016
+epa,656,FBC,2016
+treasury,633,FBC,2016
+t. rowe price,619,FBC,2016
+intel,612,FBC,2016
+wal-mart,567,FBC,2016
+amazon,565,FBC,2016
+cbs,539,FBC,2016
+pentagon,530,FBC,2016
+fed,5347,FBC,2014
+congress,5255,FBC,2014
+senate,3500,FBC,2014
+the white house,3419,FBC,2014
+medicare,3228,FBC,2014
+gm,2676,FBC,2014
+irs,2655,FBC,2014
+s&p,2424,FBC,2014
+google,1954,FBC,2014
+microsoft,1738,FBC,2014
+sony,1388,FBC,2014
+fox,1366,FBC,2014
+cme,1320,FBC,2014
+at&t,1085,FBC,2014
+yahoo,1070,FBC,2014
+mcdonald's,1005,FBC,2014
+the new york stock exchange,982,FBC,2014
+ford,961,FBC,2014
+t. rowe price,925,FBC,2014
+white house,845,FBC,2014
+fbi,809,FBC,2014
+nsa,808,FBC,2014
+hamas,793,FBC,2014
+apple,715,FBC,2014
+al qaeda,708,FBC,2014
+intel,689,FBC,2014
+the republican party,661,FBC,2014
+advanced safety systems & technology,635,FBC,2014
+ibm,596,FBC,2014
+epa,572,FBC,2014
+aarp medicare supplement,568,FBC,2014
+the supreme court,565,FBC,2014
+samsung,546,FBC,2014
+cdc,544,FBC,2014
+nato,543,FBC,2014
+csx,540,FBC,2014
+gop,537,FBC,2014
+boeing,537,FBC,2014
+pentagon,535,FBC,2014
+cia,531,FBC,2014
+capitol hill,512,FBC,2014
+toyota,509,FBC,2014
+ge,470,FBC,2014
+sec,461,FBC,2014
+gerriwillis.com,441,FBC,2014
+treasury,430,FBC,2014
+fda,410,FBC,2014
+medicaid,410,FBC,2014
+stossel,399,FBC,2014
+fed,8508,FBC,2015
+congress,6946,FBC,2015
+medicare,6647,FBC,2015
+the white house,4932,FBC,2015
+microsoft,3325,FBC,2015
+fbi,3136,FBC,2015
+senate,2846,FBC,2015
+s&p,2844,FBC,2015
+irs,2628,FBC,2015
+gop,2523,FBC,2015
+fox,2004,FBC,2015
+google,1685,FBC,2015
+mcdonald's,1455,FBC,2015
+the republican party,1330,FBC,2015
+state,1302,FBC,2015
+at&t,1292,FBC,2015
+white house,1280,FBC,2015
+epa,1200,FBC,2015
+cme,1177,FBC,2015
+the new york stock exchange,1150,FBC,2015
+al qaeda,1146,FBC,2015
+ford,1132,FBC,2015
+apple,1004,FBC,2015
+t. rowe price,973,FBC,2015
+pentagon,970,FBC,2015
+the supreme court,951,FBC,2015
+capitol hill,884,FBC,2015
+the state department,860,FBC,2015
+ge,843,FBC,2015
+xerox,769,FBC,2015
+nsa,750,FBC,2015
+aarp medicare supplement,746,FBC,2015
+nato,738,FBC,2015
+boeing,714,FBC,2015
+cia,687,FBC,2015
+the democratic party,635,FBC,2015
+nbc,634,FBC,2015
+taliban,584,FBC,2015
+gm,575,FBC,2015
+intel,565,FBC,2015
+the justice department,559,FBC,2015
+the wall street journal,553,FBC,2015
+yahoo,552,FBC,2015
+treasury,526,FBC,2015
+supreme court,522,FBC,2015
+wal-mart,493,FBC,2015
+fda,491,FBC,2015
+the wall street journal',477,FBC,2015
+ibm,473,FBC,2015
+fed,2403,FBC,2012
+congress,2368,FBC,2012
+medicare,1792,FBC,2012
+the white house,1745,FBC,2012
+senate,1492,FBC,2012
+s&p,1161,FBC,2012
+the new york stock exchange,1065,FBC,2012
+microsoft,636,FBC,2012
+cme,571,FBC,2012
+fox,546,FBC,2012
+wells fargo,493,FBC,2012
+google,492,FBC,2012
+fidelity,456,FBC,2012
+apple,431,FBC,2012
+humana,402,FBC,2012
+treasury,393,FBC,2012
+bank of america,371,FBC,2012
+ford,366,FBC,2012
+epa,365,FBC,2012
+intel,361,FBC,2012
+sec,359,FBC,2012
+mcdonald's,357,FBC,2012
+wal-mart,357,FBC,2012
+fema,340,FBC,2012
+gm,337,FBC,2012
+the republican party,319,FBC,2012
+house,308,FBC,2012
+cia,308,FBC,2012
+white house,301,FBC,2012
+samsung,292,FBC,2012
+fbi,287,FBC,2012
+hewlett-packard,274,FBC,2012
+ibm,265,FBC,2012
+medicaid,257,FBC,2012
+capitol hill,240,FBC,2012
+us bank,227,FBC,2012
+al qaeda,212,FBC,2012
+state,205,FBC,2012
+irs,204,FBC,2012
+nyse,199,FBC,2012
+hamas,197,FBC,2012
+chrysler,178,FBC,2012
+gop,175,FBC,2012
+caterpillar,169,FBC,2012
+humana medicare,165,FBC,2012
+at&t,159,FBC,2012
+the federal reserve,159,FBC,2012
+aarp medicare supplement,157,FBC,2012
+morgan stanley,153,FBC,2012
+fed,30079,Bloomberg,2016
+congress,5238,Bloomberg,2016
+the european union,4768,Bloomberg,2016
+google,4757,Bloomberg,2016
+s&p,4684,Bloomberg,2016
+yahoo,4628,Bloomberg,2016
+deutsche bank,4292,Bloomberg,2016
+senate,4083,Bloomberg,2016
+microsoft,3916,Bloomberg,2016
+fbi,3602,Bloomberg,2016
+the white house,3483,Bloomberg,2016
+apple,2785,Bloomberg,2016
+samsung,2581,Bloomberg,2016
+the republican party,2355,Bloomberg,2016
+treasury,1906,Bloomberg,2016
+the bank of england,1771,Bloomberg,2016
+bloomberg news,1733,Bloomberg,2016
+morgan stanley,1603,Bloomberg,2016
+at&t,1556,Bloomberg,2016
+wells fargo,1443,Bloomberg,2016
+euro,1409,Bloomberg,2016
+fx,1346,Bloomberg,2016
+state,1320,Bloomberg,2016
+the supreme court,1305,Bloomberg,2016
+intel,1239,Bloomberg,2016
+nato,1229,Bloomberg,2016
+hsbc,1166,Bloomberg,2016
+the democratic party,1137,Bloomberg,2016
+bank of america,1109,Bloomberg,2016
+ford,1070,Bloomberg,2016
+cbs,1017,Bloomberg,2016
+volkswagen,968,Bloomberg,2016
+amazon,961,Bloomberg,2016
+sony,942,Bloomberg,2016
+ibm,928,Bloomberg,2016
+sec,917,Bloomberg,2016
+supreme court,912,Bloomberg,2016
+jpmorgan,892,Bloomberg,2016
+nbc,827,Bloomberg,2016
+gop,827,Bloomberg,2016
+the new york times,820,Bloomberg,2016
+bloomberg television,814,Bloomberg,2016
+ge,800,Bloomberg,2016
+capitol hill,774,Bloomberg,2016
+gm,696,Bloomberg,2016
+the federal reserve,671,Bloomberg,2016
+boeing,662,Bloomberg,2016
+opec,644,Bloomberg,2016
+fed,33552,Bloomberg,2017
+the white house,12286,Bloomberg,2017
+congress,12127,Bloomberg,2017
+senate,11337,Bloomberg,2017
+google,5254,Bloomberg,2017
+s&p,4009,Bloomberg,2017
+the european union,3950,Bloomberg,2017
+microsoft,3638,Bloomberg,2017
+treasury,3600,Bloomberg,2017
+fbi,3523,Bloomberg,2017
+samsung,3247,Bloomberg,2017
+capitol hill,3098,Bloomberg,2017
+apple,2667,Bloomberg,2017
+toshiba,2179,Bloomberg,2017
+euro,2146,Bloomberg,2017
+deutsche bank,2115,Bloomberg,2017
+white house,2102,Bloomberg,2017
+nato,2016,Bloomberg,2017
+at&t,1847,Bloomberg,2017
+morgan stanley,1826,Bloomberg,2017
+ford,1786,Bloomberg,2017
+amazon,1762,Bloomberg,2017
+house,1744,Bloomberg,2017
+gop,1674,Bloomberg,2017
+ibm,1596,Bloomberg,2017
+sec,1392,Bloomberg,2017
+intel,1383,Bloomberg,2017
+bloomberg news,1383,Bloomberg,2017
+bank of america,1341,Bloomberg,2017
+ge,1277,Bloomberg,2017
+the bank of england,1266,Bloomberg,2017
+the republican party,1258,Bloomberg,2017
+state,1254,Bloomberg,2017
+medicaid,1241,Bloomberg,2017
+gm,1226,Bloomberg,2017
+fx,1194,Bloomberg,2017
+the supreme court,1179,Bloomberg,2017
+yahoo,1078,Bloomberg,2017
+fcc,1051,Bloomberg,2017
+boeing,1015,Bloomberg,2017
+cia,980,Bloomberg,2017
+jpmorgan,973,Bloomberg,2017
+hsbc,953,Bloomberg,2017
+wells fargo,946,Bloomberg,2017
+the federal reserve,879,Bloomberg,2017
+the justice department,831,Bloomberg,2017
+supreme court,822,Bloomberg,2017
+cbs,820,Bloomberg,2017
+bloomberg technology,812,Bloomberg,2017
+fed,9131,Bloomberg,2014
+google,7083,Bloomberg,2014
+microsoft,5522,Bloomberg,2014
+congress,5309,Bloomberg,2014
+senate,3411,Bloomberg,2014
+the white house,3215,Bloomberg,2014
+samsung,2970,Bloomberg,2014
+yahoo,2965,Bloomberg,2014
+apple,2493,Bloomberg,2014
+sony,2124,Bloomberg,2014
+s&p,1981,Bloomberg,2014
+at&t,1973,Bloomberg,2014
+gm,1864,Bloomberg,2014
+nsa,1711,Bloomberg,2014
+ibm,1673,Bloomberg,2014
+ford,1520,Bloomberg,2014
+nato,1469,Bloomberg,2014
+hamas,1403,Bloomberg,2014
+warner,1337,Bloomberg,2014
+the european union,1209,Bloomberg,2014
+cia,1202,Bloomberg,2014
+amazon,1171,Bloomberg,2014
+mcdonald's,1139,Bloomberg,2014
+fcc,1067,Bloomberg,2014
+ge,1054,Bloomberg,2014
+cbs,998,Bloomberg,2014
+al qaeda,983,Bloomberg,2014
+bloomberg television,933,Bloomberg,2014
+intel,909,Bloomberg,2014
+the supreme court,850,Bloomberg,2014
+bloomberg headquarters,838,Bloomberg,2014
+toyota,829,Bloomberg,2014
+sec,806,Bloomberg,2014
+treasury,798,Bloomberg,2014
+fbi,777,Bloomberg,2014
+bank of america,735,Bloomberg,2014
+jpmorgan,725,Bloomberg,2014
+the bank of england,719,Bloomberg,2014
+nbc,686,Bloomberg,2014
+capitol hill,684,Bloomberg,2014
+morgan stanley,676,Bloomberg,2014
+euro,671,Bloomberg,2014
+white house,666,Bloomberg,2014
+bloomberg news,645,Bloomberg,2014
+boeing,643,Bloomberg,2014
+fox,628,Bloomberg,2014
+the republican party,619,Bloomberg,2014
+nasa,613,Bloomberg,2014
+airbus,603,Bloomberg,2014
+fed,34407,Bloomberg,2023
+microsoft,3409,Bloomberg,2023
+s&p,3038,Bloomberg,2023
+congress,2325,Bloomberg,2023
+treasury,2293,Bloomberg,2023
+morgan stanley,2005,Bloomberg,2023
+hamas,1802,Bloomberg,2023
+bank of america,1476,Bloomberg,2023
+the white house,1389,Bloomberg,2023
+google,1365,Bloomberg,2023
+sec,1282,Bloomberg,2023
+senate,1168,Bloomberg,2023
+merrill,1107,Bloomberg,2023
+ford,992,Bloomberg,2023
+apple,906,Bloomberg,2023
+nato,854,Bloomberg,2023
+chevron,786,Bloomberg,2023
+the bank of england,783,Bloomberg,2023
+intel,761,Bloomberg,2023
+fx,733,Bloomberg,2023
+samsung,731,Bloomberg,2023
+silicon valley bank,714,Bloomberg,2023
+the federal reserve,692,Bloomberg,2023
+gm,658,Bloomberg,2023
+hsbc,625,Bloomberg,2023
+tesla,624,Bloomberg,2023
+deutsche bank,606,Bloomberg,2023
+nvidia,604,Bloomberg,2023
+euro,597,Bloomberg,2023
+bloomberg technology,569,Bloomberg,2023
+wells fargo,556,Bloomberg,2023
+the european union,547,Bloomberg,2023
+apollo,445,Bloomberg,2023
+fbi,433,Bloomberg,2023
+medicare,429,Bloomberg,2023
+amazon,426,Bloomberg,2023
+micron,425,Bloomberg,2023
+boeing,422,Bloomberg,2023
+credit suisse,421,Bloomberg,2023
+morgan,404,Bloomberg,2023
+house,388,Bloomberg,2023
+capitol hill,378,Bloomberg,2023
+airbus,375,Bloomberg,2023
+j.p.,356,Bloomberg,2023
+gpt,351,Bloomberg,2023
+the republican party,342,Bloomberg,2023
+harvard,339,Bloomberg,2023
+at&t,324,Bloomberg,2023
+the wall street journal,321,Bloomberg,2023
+fed,36357,Bloomberg,2022
+s&p,3581,Bloomberg,2022
+nato,2684,Bloomberg,2022
+congress,2491,Bloomberg,2022
+the white house,2168,Bloomberg,2022
+microsoft,1835,Bloomberg,2022
+morgan stanley,1564,Bloomberg,2022
+senate,1551,Bloomberg,2022
+treasury,1474,Bloomberg,2022
+the bank of england,1436,Bloomberg,2022
+the european union,1151,Bloomberg,2022
+bank of america,1023,Bloomberg,2022
+sec,981,Bloomberg,2022
+apple,955,Bloomberg,2022
+fx,943,Bloomberg,2022
+google,940,Bloomberg,2022
+fidelity,842,Bloomberg,2022
+ford,766,Bloomberg,2022
+euro,751,Bloomberg,2022
+samsung,730,Bloomberg,2022
+kremlin,710,Bloomberg,2022
+deutsche bank,657,Bloomberg,2022
+at&t,624,Bloomberg,2022
+the federal reserve,624,Bloomberg,2022
+xfinity,615,Bloomberg,2022
+tesla,577,Bloomberg,2022
+hsbc,538,Bloomberg,2022
+amazon,524,Bloomberg,2022
+euro-dollar,516,Bloomberg,2022
+intel,515,Bloomberg,2022
+ibm,471,Bloomberg,2022
+the supreme court,452,Bloomberg,2022
+wells fargo,410,Bloomberg,2022
+the u.s. dollar,396,Bloomberg,2022
+nord,394,Bloomberg,2022
+boeing,378,Bloomberg,2022
+goldman sachs,361,Bloomberg,2022
+♪ millions,352,Bloomberg,2022
+morgan,347,Bloomberg,2022
+micron,326,Bloomberg,2022
+capitol hill,320,Bloomberg,2022
+gm,299,Bloomberg,2022
+chevron,298,Bloomberg,2022
+credit suisse,295,Bloomberg,2022
+un,288,Bloomberg,2022
+sony,283,Bloomberg,2022
+the european central bank,282,Bloomberg,2022
+toyota,282,Bloomberg,2022
+opec,270,Bloomberg,2022
+fed,13281,Bloomberg,2024
+s&p,1464,Bloomberg,2024
+microsoft,1334,Bloomberg,2024
+boeing,1001,Bloomberg,2024
+congress,869,Bloomberg,2024
+hamas,822,Bloomberg,2024
+morgan stanley,802,Bloomberg,2024
+google,759,Bloomberg,2024
+nvidia,681,Bloomberg,2024
+senate,660,Bloomberg,2024
+sec,641,Bloomberg,2024
+the white house,629,Bloomberg,2024
+samsung,616,Bloomberg,2024
+intel,592,Bloomberg,2024
+treasury,586,Bloomberg,2024
+apple,535,Bloomberg,2024
+un,469,Bloomberg,2024
+bloomberg technology,395,Bloomberg,2024
+tesla,374,Bloomberg,2024
+bank of america,357,Bloomberg,2024
+nato,347,Bloomberg,2024
+fx,276,Bloomberg,2024
+airbus,272,Bloomberg,2024
+toyota,235,Bloomberg,2024
+j.p.,232,Bloomberg,2024
+euro,207,Bloomberg,2024
+ford,203,Bloomberg,2024
+apollo,200,Bloomberg,2024
+wells fargo,199,Bloomberg,2024
+the federal reserve,197,Bloomberg,2024
+the european union,193,Bloomberg,2024
+hsbc,185,Bloomberg,2024
+amazon,185,Bloomberg,2024
+hezbollah,183,Bloomberg,2024
+gm,182,Bloomberg,2024
+micron,174,Bloomberg,2024
+pnc bank,174,Bloomberg,2024
+at&t,174,Bloomberg,2024
+the unsung catalyst,169,Bloomberg,2024
+the bank of england,165,Bloomberg,2024
+sony,163,Bloomberg,2024
+alphabet,155,Bloomberg,2024
+disney,147,Bloomberg,2024
+dpp,134,Bloomberg,2024
+mcdonald's,130,Bloomberg,2024
+capitol hill,129,Bloomberg,2024
+gop,129,Bloomberg,2024
+the japanese yen,128,Bloomberg,2024
+harvard,124,Bloomberg,2024
+fed,37919,Bloomberg,2019
+congress,5922,Bloomberg,2019
+google,5362,Bloomberg,2019
+the white house,4837,Bloomberg,2019
+boeing,4002,Bloomberg,2019
+s&p,3581,Bloomberg,2019
+microsoft,3365,Bloomberg,2019
+deutsche bank,3348,Bloomberg,2019
+senate,3343,Bloomberg,2019
+the european union,3123,Bloomberg,2019
+apple,2649,Bloomberg,2019
+treasury,2624,Bloomberg,2019
+samsung,2324,Bloomberg,2019
+sec,2153,Bloomberg,2019
+morgan stanley,1905,Bloomberg,2019
+nissan,1689,Bloomberg,2019
+amazon,1519,Bloomberg,2019
+capitol hill,1364,Bloomberg,2019
+airbus,1225,Bloomberg,2019
+intel,1116,Bloomberg,2019
+tesla,1110,Bloomberg,2019
+nato,1104,Bloomberg,2019
+ford,1087,Bloomberg,2019
+bloomberg news,1087,Bloomberg,2019
+bank of america,1073,Bloomberg,2019
+bloomberg technology,1036,Bloomberg,2019
+euro,992,Bloomberg,2019
+hsbc,964,Bloomberg,2019
+ibm,955,Bloomberg,2019
+fx,951,Bloomberg,2019
+xfinity,948,Bloomberg,2019
+at&t,923,Bloomberg,2019
+renault,875,Bloomberg,2019
+chevron,837,Bloomberg,2019
+commerzbank,822,Bloomberg,2019
+the federal reserve,811,Bloomberg,2019
+ge,778,Bloomberg,2019
+the supreme court,772,Bloomberg,2019
+gm,768,Bloomberg,2019
+the bank of england,747,Bloomberg,2019
+white house,737,Bloomberg,2019
+pg&e,719,Bloomberg,2019
+fcc,704,Bloomberg,2019
+wells fargo,685,Bloomberg,2019
+fbi,683,Bloomberg,2019
+the european commission,673,Bloomberg,2019
+disney,655,Bloomberg,2019
+mcdonald's,641,Bloomberg,2019
+the house of commons,602,Bloomberg,2019
+fed,30953,Bloomberg,2018
+congress,7520,Bloomberg,2018
+the white house,7438,Bloomberg,2018
+google,5553,Bloomberg,2018
+senate,5151,Bloomberg,2018
+s&p,4435,Bloomberg,2018
+treasury,3979,Bloomberg,2018
+the european union,3873,Bloomberg,2018
+microsoft,3871,Bloomberg,2018
+deutsche bank,3028,Bloomberg,2018
+apple,2375,Bloomberg,2018
+amazon,2070,Bloomberg,2018
+morgan stanley,2068,Bloomberg,2018
+intel,1825,Bloomberg,2018
+fbi,1765,Bloomberg,2018
+sec,1688,Bloomberg,2018
+samsung,1632,Bloomberg,2018
+capitol hill,1568,Bloomberg,2018
+euro,1563,Bloomberg,2018
+nissan,1427,Bloomberg,2018
+ford,1417,Bloomberg,2018
+tesla,1407,Bloomberg,2018
+ge,1365,Bloomberg,2018
+cbs,1355,Bloomberg,2018
+nato,1320,Bloomberg,2018
+white house,1312,Bloomberg,2018
+at&t,1289,Bloomberg,2018
+ibm,1285,Bloomberg,2018
+jpmorgan,1239,Bloomberg,2018
+boeing,1229,Bloomberg,2018
+fx,1190,Bloomberg,2018
+gm,1117,Bloomberg,2018
+bloomberg news,1087,Bloomberg,2018
+the supreme court,1053,Bloomberg,2018
+supreme court,994,Bloomberg,2018
+airbus,974,Bloomberg,2018
+bloomberg technology,926,Bloomberg,2018
+fox,917,Bloomberg,2018
+bank of america,909,Bloomberg,2018
+the bank of england,901,Bloomberg,2018
+the federal reserve,900,Bloomberg,2018
+wells fargo,867,Bloomberg,2018
+state,865,Bloomberg,2018
+harvard,794,Bloomberg,2018
+the justice department,695,Bloomberg,2018
+hsbc,690,Bloomberg,2018
+the u.s. dollar,685,Bloomberg,2018
+the european commission,657,Bloomberg,2018
+opec,622,Bloomberg,2018
+fed,21011,Bloomberg,2020
+senate,5998,Bloomberg,2020
+congress,5231,Bloomberg,2020
+the white house,4870,Bloomberg,2020
+s&p,3701,Bloomberg,2020
+treasury,2911,Bloomberg,2020
+microsoft,2843,Bloomberg,2020
+the european union,1976,Bloomberg,2020
+google,1922,Bloomberg,2020
+morgan stanley,1773,Bloomberg,2020
+boeing,1527,Bloomberg,2020
+hsbc,1207,Bloomberg,2020
+fda,1177,Bloomberg,2020
+apple,1162,Bloomberg,2020
+the supreme court,1037,Bloomberg,2020
+samsung,1024,Bloomberg,2020
+euro,1016,Bloomberg,2020
+the world health organization,955,Bloomberg,2020
+the bank of england,948,Bloomberg,2020
+fx,940,Bloomberg,2020
+bank of america,911,Bloomberg,2020
+tesla,899,Bloomberg,2020
+deutsche bank,896,Bloomberg,2020
+nissan,858,Bloomberg,2020
+capitol hill,844,Bloomberg,2020
+sec,764,Bloomberg,2020
+airbus,748,Bloomberg,2020
+amazon,741,Bloomberg,2020
+house,735,Bloomberg,2020
+white house,718,Bloomberg,2020
+intel,713,Bloomberg,2020
+cdc,670,Bloomberg,2020
+the federal reserve,662,Bloomberg,2020
+the european commission,631,Bloomberg,2020
+supreme court,613,Bloomberg,2020
+wells fargo,605,Bloomberg,2020
+state,558,Bloomberg,2020
+bloomberg television,557,Bloomberg,2020
+the democratic party,495,Bloomberg,2020
+the republican party,466,Bloomberg,2020
+ford,452,Bloomberg,2020
+bloomberg news,452,Bloomberg,2020
+euro-dollar,441,Bloomberg,2020
+the european central bank,441,Bloomberg,2020
+gm,416,Bloomberg,2020
+ibm,410,Bloomberg,2020
+bloomberg tv,409,Bloomberg,2020
+johnson & johnson,392,Bloomberg,2020
+disney,374,Bloomberg,2020
+fed,25355,Bloomberg,2021
+senate,4077,Bloomberg,2021
+congress,3404,Bloomberg,2021
+s&p,3307,Bloomberg,2021
+the white house,2429,Bloomberg,2021
+treasury,2226,Bloomberg,2021
+microsoft,2131,Bloomberg,2021
+sec,2029,Bloomberg,2021
+morgan stanley,1780,Bloomberg,2021
+taliban,1549,Bloomberg,2021
+google,1470,Bloomberg,2021
+the european union,1204,Bloomberg,2021
+samsung,1163,Bloomberg,2021
+intel,1161,Bloomberg,2021
+bank of america,1137,Bloomberg,2021
+apple,1113,Bloomberg,2021
+fda,977,Bloomberg,2021
+amazon,826,Bloomberg,2021
+the bank of england,783,Bloomberg,2021
+hsbc,754,Bloomberg,2021
+cdc,737,Bloomberg,2021
+deutsche bank,696,Bloomberg,2021
+capitol hill,692,Bloomberg,2021
+tesla,691,Bloomberg,2021
+fx,683,Bloomberg,2021
+the federal reserve,661,Bloomberg,2021
+euro-dollar,658,Bloomberg,2021
+nato,641,Bloomberg,2021
+boeing,626,Bloomberg,2021
+xfinity,622,Bloomberg,2021
+ford,600,Bloomberg,2021
+johnson & johnson,594,Bloomberg,2021
+wells fargo,577,Bloomberg,2021
+mcdonald's,537,Bloomberg,2021
+euro,506,Bloomberg,2021
+airbus,464,Bloomberg,2021
+white house,451,Bloomberg,2021
+gm,427,Bloomberg,2021
+kohler,425,Bloomberg,2021
+toyota,416,Bloomberg,2021
+the republican party,387,Bloomberg,2021
+morgan,386,Bloomberg,2021
+delta,383,Bloomberg,2021
+the world bank,381,Bloomberg,2021
+state,380,Bloomberg,2021
+house,377,Bloomberg,2021
+bloomberg news,368,Bloomberg,2021
+bloomberg television,333,Bloomberg,2021
+at&t,333,Bloomberg,2021
+fed,1330,Bloomberg,2013
+congress,500,Bloomberg,2013
+senate,459,Bloomberg,2013
+google,439,Bloomberg,2013
+microsoft,412,Bloomberg,2013
+nsa,328,Bloomberg,2013
+the white house,320,Bloomberg,2013
+gm,240,Bloomberg,2013
+s&p,216,Bloomberg,2013
+ford,207,Bloomberg,2013
+apple,191,Bloomberg,2013
+china mobile,147,Bloomberg,2013
+ebay,143,Bloomberg,2013
+amazon,133,Bloomberg,2013
+yahoo,120,Bloomberg,2013
+mcdonald's,113,Bloomberg,2013
+intel,107,Bloomberg,2013
+samsung,104,Bloomberg,2013
+cadillac,83,Bloomberg,2013
+fda,77,Bloomberg,2013
+white house,76,Bloomberg,2013
+sec,75,Bloomberg,2013
+airbus,75,Bloomberg,2013
+ibm,72,Bloomberg,2013
+sears,69,Bloomberg,2013
+state,68,Bloomberg,2013
+medicare,67,Bloomberg,2013
+bloomberg television,66,Bloomberg,2013
+the european union,65,Bloomberg,2013
+boeing,62,Bloomberg,2013
+nike,61,Bloomberg,2013
+bloomberg headquarters,60,Bloomberg,2013
+sony,59,Bloomberg,2013
+warner,58,Bloomberg,2013
+capitol hill,58,Bloomberg,2013
+treasury,58,Bloomberg,2013
+house,56,Bloomberg,2013
+justin,56,Bloomberg,2013
+warner cable,55,Bloomberg,2013
+fcc,53,Bloomberg,2013
+at&t,50,Bloomberg,2013
+cbs,47,Bloomberg,2013
+bloomberg news,47,Bloomberg,2013
+peugeot,46,Bloomberg,2013
+miller,46,Bloomberg,2013
+bloomberg tv,46,Bloomberg,2013
+the federal reserve,45,Bloomberg,2013
+general motors,44,Bloomberg,2013
+ge,43,Bloomberg,2013
+fed,22977,Bloomberg,2015
+google,7494,Bloomberg,2015
+congress,5806,Bloomberg,2015
+the white house,3427,Bloomberg,2015
+s&p,3417,Bloomberg,2015
+yahoo,3090,Bloomberg,2015
+microsoft,3075,Bloomberg,2015
+senate,2535,Bloomberg,2015
+apple,2361,Bloomberg,2015
+euro,2044,Bloomberg,2015
+samsung,2040,Bloomberg,2015
+ibm,1913,Bloomberg,2015
+deutsche bank,1509,Bloomberg,2015
+sony,1451,Bloomberg,2015
+volkswagen,1429,Bloomberg,2015
+mcdonald's,1361,Bloomberg,2015
+fifa,1319,Bloomberg,2015
+the european union,1319,Bloomberg,2015
+morgan stanley,1251,Bloomberg,2015
+ford,1247,Bloomberg,2015
+fcc,1102,Bloomberg,2015
+the republican party,1045,Bloomberg,2015
+at&t,1001,Bloomberg,2015
+intel,982,Bloomberg,2015
+bloomberg news,934,Bloomberg,2015
+bank of america,931,Bloomberg,2015
+hsbc,887,Bloomberg,2015
+gm,876,Bloomberg,2015
+nsa,870,Bloomberg,2015
+treasury,867,Bloomberg,2015
+cbs,866,Bloomberg,2015
+amazon,860,Bloomberg,2015
+state,856,Bloomberg,2015
+ge,854,Bloomberg,2015
+al qaeda,845,Bloomberg,2015
+the european central bank,835,Bloomberg,2015
+fbi,834,Bloomberg,2015
+the bank of england,797,Bloomberg,2015
+capitol hill,792,Bloomberg,2015
+jpmorgan,694,Bloomberg,2015
+nasa,693,Bloomberg,2015
+toyota,687,Bloomberg,2015
+sec,687,Bloomberg,2015
+the supreme court,685,Bloomberg,2015
+nato,680,Bloomberg,2015
+chevron,640,Bloomberg,2015
+stanford,640,Bloomberg,2015
+fx,633,Bloomberg,2015
+fda,632,Bloomberg,2015
+the white house,13716,CNN,2014
+hamas,12569,CNN,2014
+congress,11406,CNN,2014
+medicare,8373,CNN,2014
+senate,7993,CNN,2014
+fbi,6835,CNN,2014
+al qaeda,6254,CNN,2014
+taliban,4374,CNN,2014
+cia,4246,CNN,2014
+sony,3914,CNN,2014
+pentagon,3761,CNN,2014
+state,3218,CNN,2014
+nato,3055,CNN,2014
+at&t,3024,CNN,2014
+cdc,2747,CNN,2014
+white house,2564,CNN,2014
+ford,2177,CNN,2014
+capitol hill,1805,CNN,2014
+gm,1676,CNN,2014
+aarp medicare supplement,1565,CNN,2014
+boeing,1556,CNN,2014
+nsa,1470,CNN,2014
+the united nations,1467,CNN,2014
+gop,1461,CNN,2014
+cadillac,1338,CNN,2014
+the republican party,1259,CNN,2014
+the state department,1145,CNN,2014
+microsoft,1110,CNN,2014
+justin,1103,CNN,2014
+the justice department,1035,CNN,2014
+the supreme court,1023,CNN,2014
+house,1015,CNN,2014
+nba,985,CNN,2014
+chevrolet,975,CNN,2014
+nfl,972,CNN,2014
+nbc,958,CNN,2014
+navy,863,CNN,2014
+irs,819,CNN,2014
+faa,776,CNN,2014
+xarelto,726,CNN,2014
+nasa,720,CNN,2014
+samsung,702,CNN,2014
+advanced safety systems & technology,687,CNN,2014
+the new york times',676,CNN,2014
+wilson,668,CNN,2014
+al,648,CNN,2014
+the u.s. navy,646,CNN,2014
+pistorius,646,CNN,2014
+cbs,630,CNN,2014
+the white house,50709,CNN,2018
+fbi,35668,CNN,2018
+congress,20808,CNN,2018
+senate,20676,CNN,2018
+white house,11901,CNN,2018
+medicare,7703,CNN,2018
+the justice department,5766,CNN,2018
+at&t,5396,CNN,2018
+capitol hill,5346,CNN,2018
+cia,4557,CNN,2018
+supreme court,4546,CNN,2018
+the supreme court,4537,CNN,2018
+ford,3982,CNN,2018
+the republican party,3218,CNN,2018
+state,3178,CNN,2018
+gop,2915,CNN,2018
+nato,2815,CNN,2018
+the new york times',2454,CNN,2018
+the department of justice,2347,CNN,2018
+this white house,2280,CNN,2018
+otezla,2164,CNN,2018
+epa,2127,CNN,2018
+kremlin,2019,CNN,2018
+lincoln,1991,CNN,2018
+the house intelligence committee,1960,CNN,2018
+un,1912,CNN,2018
+samsung,1872,CNN,2018
+pg&e,1871,CNN,2018
+humana,1747,CNN,2018
+house,1734,CNN,2018
+pentagon,1684,CNN,2018
+the democratic party,1473,CNN,2018
+washington post',1390,CNN,2018
+fed,1340,CNN,2018
+the new york times,1277,CNN,2018
+the senate judiciary committee,1251,CNN,2018
+fda,1235,CNN,2018
+intel,1215,CNN,2018
+the house of representatives,1105,CNN,2018
+abc,1096,CNN,2018
+the judiciary committee,1026,CNN,2018
+fema,990,CNN,2018
+cbs,967,CNN,2018
+neulasta onpro,959,CNN,2018
+justice department,941,CNN,2018
+nbc,923,CNN,2018
+crest,915,CNN,2018
+inn express,892,CNN,2018
+the white house,21445,CNN,2022
+senate,20361,CNN,2022
+congress,18005,CNN,2022
+nato,14999,CNN,2022
+fbi,11944,CNN,2022
+the justice department,9267,CNN,2022
+white house,7634,CNN,2022
+the supreme court,6552,CNN,2022
+medicare,5831,CNN,2022
+kremlin,5186,CNN,2022
+the republican party,5027,CNN,2022
+supreme court,4268,CNN,2022
+gop,4196,CNN,2022
+fed,4091,CNN,2022
+capitol hill,3679,CNN,2022
+fidelity,3451,CNN,2022
+fda,3115,CNN,2022
+pentagon,2556,CNN,2022
+state,2514,CNN,2022
+cdc,2404,CNN,2022
+the department of justice,2173,CNN,2022
+♪ safelite repair,2144,CNN,2022
+cabenuva,2000,CNN,2022
+nasa,1954,CNN,2022
+house,1910,CNN,2022
+merrill,1859,CNN,2022
+taliban,1735,CNN,2022
+neoplasia syndrome type,1432,CNN,2022
+the democratic party,1378,CNN,2022
+cia,1261,CNN,2022
+at&t,1258,CNN,2022
+the united nations,1165,CNN,2022
+the european union,1126,CNN,2022
+the new york times',1119,CNN,2022
+♪ ♪ ♪,1111,CNN,2022
+morgan stanley,1048,CNN,2022
+justice department,892,CNN,2022
+the state department,869,CNN,2022
+humana medicare,853,CNN,2022
+the house select committee,841,CNN,2022
+humana,834,CNN,2022
+bank of america,824,CNN,2022
+hoo,823,CNN,2022
+the house of representatives,811,CNN,2022
+samsung,799,CNN,2022
+irs,794,CNN,2022
+neutrogena®,793,CNN,2022
+xfinity,781,CNN,2022
+the white house,58614,CNN,2017
+fbi,31745,CNN,2017
+senate,29472,CNN,2017
+congress,26805,CNN,2017
+white house,13379,CNN,2017
+medicare,9462,CNN,2017
+capitol hill,9236,CNN,2017
+cia,5339,CNN,2017
+gop,5162,CNN,2017
+medicaid,4502,CNN,2017
+the justice department,4436,CNN,2017
+the republican party,4169,CNN,2017
+house,3555,CNN,2017
+state,3449,CNN,2017
+nato,3431,CNN,2017
+kremlin,3193,CNN,2017
+the supreme court,2927,CNN,2017
+pentagon,2825,CNN,2017
+supreme court,2550,CNN,2017
+this white house,2530,CNN,2017
+the house intelligence committee,2229,CNN,2017
+the new york times',2184,CNN,2017
+fema,2157,CNN,2017
+intel,2143,CNN,2017
+the senate intelligence committee,2123,CNN,2017
+the department of justice,1937,CNN,2017
+ford,1779,CNN,2017
+the democratic party,1744,CNN,2017
+at&t,1637,CNN,2017
+the new york times,1443,CNN,2017
+the state department,1427,CNN,2017
+nsa,1306,CNN,2017
+washington post',1266,CNN,2017
+the united nations,1232,CNN,2017
+aarp medicare supplement,1211,CNN,2017
+al qaeda,1161,CNN,2017
+un,1133,CNN,2017
+nbc,1127,CNN,2017
+epa,1117,CNN,2017
+otezla,990,CNN,2017
+navy,950,CNN,2017
+fox,921,CNN,2017
+the senate judiciary committee,915,CNN,2017
+athena,899,CNN,2017
+microsoft,870,CNN,2017
+lincoln,870,CNN,2017
+the judiciary committee,869,CNN,2017
+taliban,857,CNN,2017
+congress,11476,CNN,2012
+the white house,9926,CNN,2012
+medicare,9189,CNN,2012
+senate,5298,CNN,2012
+fbi,4486,CNN,2012
+al qaeda,4447,CNN,2012
+gop,4052,CNN,2012
+cadillac,3635,CNN,2012
+at&t,3554,CNN,2012
+the supreme court,3035,CNN,2012
+the republican party,2712,CNN,2012
+taliban,2649,CNN,2012
+white house,2040,CNN,2012
+pentagon,1883,CNN,2012
+ford,1844,CNN,2012
+fed,1753,CNN,2012
+supreme court,1725,CNN,2012
+nato,1708,CNN,2012
+state,1605,CNN,2012
+nasa,1550,CNN,2012
+capitol hill,1506,CNN,2012
+fda,1418,CNN,2012
+cia,1211,CNN,2012
+mormon,1166,CNN,2012
+nbc,1057,CNN,2012
+medicaid,1046,CNN,2012
+wells fargo,1025,CNN,2012
+google,1024,CNN,2012
+house,1009,CNN,2012
+the justice department,1008,CNN,2012
+the state department,916,CNN,2012
+aarp medicare supplement,875,CNN,2012
+the united nations,867,CNN,2012
+the new york stock exchange,851,CNN,2012
+irs,850,CNN,2012
+ally bank,834,CNN,2012
+chevron,821,CNN,2012
+xerox,810,CNN,2012
+abc,778,CNN,2012
+navy,767,CNN,2012
+siemens,756,CNN,2012
+intel,755,CNN,2012
+bank of america,754,CNN,2012
+the republican national convention,715,CNN,2012
+cbs,684,CNN,2012
+justin,657,CNN,2012
+xts,656,CNN,2012
+celebrex,651,CNN,2012
+the new york times',617,CNN,2012
+fbi,15635,CNN,2016
+the white house,13769,CNN,2016
+medicare,10936,CNN,2016
+senate,10021,CNN,2016
+congress,9721,CNN,2016
+the republican party,8917,CNN,2016
+gop,8344,CNN,2016
+state,5014,CNN,2016
+the democratic party,3923,CNN,2016
+at&t,3460,CNN,2016
+cia,2790,CNN,2016
+the supreme court,2669,CNN,2016
+nato,2505,CNN,2016
+white house,2425,CNN,2016
+supreme court,2422,CNN,2016
+al qaeda,2130,CNN,2016
+capitol hill,2039,CNN,2016
+pg&e,1893,CNN,2016
+aarp medicare supplement,1669,CNN,2016
+the state department,1665,CNN,2016
+house,1634,CNN,2016
+ford,1505,CNN,2016
+microsoft,1475,CNN,2016
+pentagon,1410,CNN,2016
+the european union,1372,CNN,2016
+the new york times',1308,CNN,2016
+nbc,1304,CNN,2016
+the justice department,1277,CNN,2016
+taliban,1271,CNN,2016
+lincoln,1203,CNN,2016
+TOPICS,1190,CNN,2016
+el chapo,930,CNN,2016
+fox,909,CNN,2016
+kremlin,887,CNN,2016
+trump,870,CNN,2016
+aarp,859,CNN,2016
+the new york times,851,CNN,2016
+samsung,838,CNN,2016
+epa,812,CNN,2016
+the united nations,780,CNN,2016
+fed,761,CNN,2016
+t. rowe price,759,CNN,2016
+irs,744,CNN,2016
+otezla,737,CNN,2016
+the republican national committee,720,CNN,2016
+abc,670,CNN,2016
+washington post',666,CNN,2016
+bernie sanders,637,CNN,2016
+hamas,35885,CNN,2023
+the white house,21051,CNN,2023
+congress,17883,CNN,2023
+senate,11636,CNN,2023
+fbi,9183,CNN,2023
+the supreme court,7233,CNN,2023
+the justice department,6111,CNN,2023
+gop,5995,CNN,2023
+capitol hill,5984,CNN,2023
+the republican party,5166,CNN,2023
+white house,4990,CNN,2023
+nato,4631,CNN,2023
+medicare,4425,CNN,2023
+house,4062,CNN,2023
+kremlin,3883,CNN,2023
+pentagon,3580,CNN,2023
+hezbollah,3437,CNN,2023
+supreme court,3434,CNN,2023
+fda,2997,CNN,2023
+fed,2941,CNN,2023
+state,2560,CNN,2023
+fox,1855,CNN,2023
+google,1802,CNN,2023
+wagner,1453,CNN,2023
+♪ safelite repair,1453,CNN,2023
+hoo,1417,CNN,2023
+at&t,1310,CNN,2023
+dexcom,1290,CNN,2023
+the department of justice,1271,CNN,2023
+the house of representatives,1270,CNN,2023
+nikki haley,1268,CNN,2023
+cia,1251,CNN,2023
+chase,1091,CNN,2023
+harvard,1091,CNN,2023
+irs,1070,CNN,2023
+the united nations,1063,CNN,2023
+cabenuva,1023,CNN,2023
+the democratic party,964,CNN,2023
+morgan stanley,951,CNN,2023
+the state department,938,CNN,2023
+treasury,909,CNN,2023
+ford,897,CNN,2023
+the new york times,895,CNN,2023
+navy,891,CNN,2023
+neoplasia syndrome type,875,CNN,2023
+fema,846,CNN,2023
+the red cross,843,CNN,2023
+pnc bank,826,CNN,2023
+congress,39695,CNN,2019
+the white house,39419,CNN,2019
+senate,21473,CNN,2019
+fbi,13739,CNN,2019
+white house,11161,CNN,2019
+medicare,9879,CNN,2019
+capitol hill,7545,CNN,2019
+the justice department,4927,CNN,2019
+house,3884,CNN,2019
+the democratic party,3584,CNN,2019
+the supreme court,3435,CNN,2019
+lincoln,2959,CNN,2019
+the house judiciary committee,2906,CNN,2019
+the republican party,2809,CNN,2019
+state,2682,CNN,2019
+samsung,2480,CNN,2019
+gop,2469,CNN,2019
+pentagon,2390,CNN,2019
+the new york times',2363,CNN,2019
+fda,2344,CNN,2019
+the judiciary committee,2335,CNN,2019
+boeing,2323,CNN,2019
+taliban,2124,CNN,2019
+fed,1961,CNN,2019
+the department of justice,1813,CNN,2019
+the state department,1785,CNN,2019
+the house intelligence committee,1776,CNN,2019
+the house of representatives,1772,CNN,2019
+fidelity,1767,CNN,2019
+cia,1742,CNN,2019
+nato,1707,CNN,2019
+xfinity,1600,CNN,2019
+irs,1563,CNN,2019
+ford,1549,CNN,2019
+intel,1470,CNN,2019
+supreme court,1373,CNN,2019
+the new york times,1359,CNN,2019
+humana,1307,CNN,2019
+♪ liberty,1215,CNN,2019
+the european union,1200,CNN,2019
+at&t,1176,CNN,2019
+washington post',1127,CNN,2019
+otezla,1105,CNN,2019
+navy,1024,CNN,2019
+fox,1015,CNN,2019
+this white house,993,CNN,2019
+sergio,976,CNN,2019
+kremlin,917,CNN,2019
+congress,17801,CNN,2013
+the white house,14761,CNN,2013
+senate,13377,CNN,2013
+fbi,10270,CNN,2013
+medicare,6857,CNN,2013
+al qaeda,5002,CNN,2013
+nsa,4842,CNN,2013
+capitol hill,3797,CNN,2013
+ford,3591,CNN,2013
+irs,3522,CNN,2013
+cia,3216,CNN,2013
+white house,2998,CNN,2013
+state,2735,CNN,2013
+the republican party,2498,CNN,2013
+house,2258,CNN,2013
+pentagon,2081,CNN,2013
+the supreme court,1997,CNN,2013
+gop,1829,CNN,2013
+fed,1798,CNN,2013
+navy,1755,CNN,2013
+at&t,1747,CNN,2013
+the justice department,1365,CNN,2013
+google,1270,CNN,2013
+cadillac,1267,CNN,2013
+taliban,1226,CNN,2013
+fda,1185,CNN,2013
+the state department,1134,CNN,2013
+supreme court,1098,CNN,2013
+aarp medicare supplement,1025,CNN,2013
+chevrolet,997,CNN,2013
+the house of representatives,935,CNN,2013
+cbs,898,CNN,2013
+the united nations,894,CNN,2013
+lincoln,882,CNN,2013
+nasa,841,CNN,2013
+nbc,790,CNN,2013
+yahoo,782,CNN,2013
+justin,739,CNN,2013
+the catholic church,725,CNN,2013
+hezbollah,717,CNN,2013
+siemens,714,CNN,2013
+♪ ♪,714,CNN,2013
+treasury,684,CNN,2013
+boeing,675,CNN,2013
+medicaid,667,CNN,2013
+celebrex,580,CNN,2013
+the new york times',570,CNN,2013
+tamerlan,566,CNN,2013
+fidelity,542,CNN,2013
+hamas,11738,CNN,2024
+the white house,11022,CNN,2024
+congress,9635,CNN,2024
+senate,8839,CNN,2024
+the supreme court,6068,CNN,2024
+fbi,3446,CNN,2024
+supreme court,3358,CNN,2024
+capitol hill,3047,CNN,2024
+the republican party,3014,CNN,2024
+gop,2878,CNN,2024
+nikki haley,2562,CNN,2024
+medicare,2489,CNN,2024
+white house,2441,CNN,2024
+nato,2184,CNN,2024
+un,1835,CNN,2024
+boeing,1711,CNN,2024
+google,1612,CNN,2024
+house,1584,CNN,2024
+cia,1534,CNN,2024
+hezbollah,1455,CNN,2024
+the justice department,1454,CNN,2024
+nikki,1337,CNN,2024
+kremlin,1180,CNN,2024
+nasa,1114,CNN,2024
+the new york times,1076,CNN,2024
+fda,1036,CNN,2024
+state,1021,CNN,2024
+pentagon,1016,CNN,2024
+the democratic party,979,CNN,2024
+at&t,893,CNN,2024
+blanche,810,CNN,2024
+fed,787,CNN,2024
+ivf,760,CNN,2024
+columbia university,745,CNN,2024
+morgan stanley,657,CNN,2024
+google nest,649,CNN,2024
+the wall street journal,522,CNN,2024
+cbs,514,CNN,2024
+nortech,493,CNN,2024
+the house of representatives,467,CNN,2024
+medicaid,451,CNN,2024
+nikki haley's,434,CNN,2024
+the united nations,430,CNN,2024
+the department of justice,427,CNN,2024
+columbia,419,CNN,2024
+samsung,401,CNN,2024
+harvard,389,CNN,2024
+the unsung catalyst,377,CNN,2024
+the white house,39187,CNN,2020
+senate,26227,CNN,2020
+congress,15950,CNN,2020
+cdc,10465,CNN,2020
+fda,8919,CNN,2020
+white house,7990,CNN,2020
+medicare,7427,CNN,2020
+the supreme court,5761,CNN,2020
+fbi,4277,CNN,2020
+capitol hill,3906,CNN,2020
+supreme court,3666,CNN,2020
+the republican party,2929,CNN,2020
+at&t,2894,CNN,2020
+state,2889,CNN,2020
+the justice department,2611,CNN,2020
+the democratic party,2454,CNN,2020
+gop,2271,CNN,2020
+pentagon,2152,CNN,2020
+house,2039,CNN,2020
+humana,1965,CNN,2020
+the new york times',1764,CNN,2020
+fidelity,1725,CNN,2020
+the world health organization,1699,CNN,2020
+lincoln,1614,CNN,2020
+crest,1505,CNN,2020
+treasury,1201,CNN,2020
+taliban,1199,CNN,2020
+medicaid,1196,CNN,2020
+the electoral college,1176,CNN,2020
+fema,1111,CNN,2020
+fed,1058,CNN,2020
+the house of representatives,956,CNN,2020
+cia,908,CNN,2020
+samsung,888,CNN,2020
+the state department,864,CNN,2020
+navy,842,CNN,2020
+the department of justice,806,CNN,2020
+the new york times,803,CNN,2020
+TOPICS,793,CNN,2020
+nih,789,CNN,2020
+the european union,768,CNN,2020
+otezla,764,CNN,2020
+ford,718,CNN,2020
+rosa,718,CNN,2020
+ppe,712,CNN,2020
+♪ safelite repair,709,CNN,2020
+harvard,693,CNN,2020
+this white house,684,CNN,2020
+the white house,13031,CNN,2015
+fbi,12244,CNN,2015
+congress,11024,CNN,2015
+medicare,9284,CNN,2015
+al qaeda,8042,CNN,2015
+senate,5454,CNN,2015
+gop,4907,CNN,2015
+at&t,4465,CNN,2015
+the republican party,3346,CNN,2015
+state,3226,CNN,2015
+pentagon,3130,CNN,2015
+taliban,2637,CNN,2015
+pg&e,2444,CNN,2015
+cia,2189,CNN,2015
+nbc,2062,CNN,2015
+white house,1968,CNN,2015
+microsoft,1938,CNN,2015
+capitol hill,1714,CNN,2015
+amtrak,1662,CNN,2015
+ford,1558,CNN,2015
+the justice department,1536,CNN,2015
+aarp medicare supplement,1527,CNN,2015
+nato,1428,CNN,2015
+the state department,1359,CNN,2015
+the supreme court,1345,CNN,2015
+fifa,1242,CNN,2015
+boeing,1111,CNN,2015
+fda,1110,CNN,2015
+house,1064,CNN,2015
+kremlin,1016,CNN,2015
+samsung,996,CNN,2015
+al,978,CNN,2015
+nsa,922,CNN,2015
+hezbollah,920,CNN,2015
+flo,876,CNN,2015
+the united nations,862,CNN,2015
+the democratic party,845,CNN,2015
+fed,841,CNN,2015
+supreme court,838,CNN,2015
+t. rowe price,811,CNN,2015
+cbs,720,CNN,2015
+abc,706,CNN,2015
+the new york times',695,CNN,2015
+lincoln,680,CNN,2015
+non-24,670,CNN,2015
+athena,666,CNN,2015
+mh370,651,CNN,2015
+fox,650,CNN,2015
+senate,30631,CNN,2021
+the white house,25179,CNN,2021
+congress,24756,CNN,2021
+taliban,16117,CNN,2021
+fbi,10201,CNN,2021
+cdc,9170,CNN,2021
+fda,8430,CNN,2021
+capitol hill,8406,CNN,2021
+the republican party,8378,CNN,2021
+white house,6653,CNN,2021
+gop,6471,CNN,2021
+medicare,5664,CNN,2021
+the justice department,4773,CNN,2021
+house,4051,CNN,2021
+the supreme court,3578,CNN,2021
+johnson & johnson,3251,CNN,2021
+lincoln,3070,CNN,2021
+pentagon,2820,CNN,2021
+state,2334,CNN,2021
+fidelity,2287,CNN,2021
+nato,2040,CNN,2021
+the democratic party,1915,CNN,2021
+humana,1628,CNN,2021
+supreme court,1580,CNN,2021
+hamas,1542,CNN,2021
+at&t,1512,CNN,2021
+samsung,1478,CNN,2021
+the house of representatives,1381,CNN,2021
+pnc bank,1334,CNN,2021
+♪ safelite repair,1321,CNN,2021
+fema,1317,CNN,2021
+the department of justice,1260,CNN,2021
+al qaeda,1220,CNN,2021
+the new york times',1194,CNN,2021
+xfinity,1183,CNN,2021
+cia,1105,CNN,2021
+fox,1102,CNN,2021
+the state department,1032,CNN,2021
+capitol,1023,CNN,2021
+kremlin,938,CNN,2021
+fed,924,CNN,2021
+nasa,910,CNN,2021
+morgan stanley,872,CNN,2021
+delta,855,CNN,2021
+nbc,854,CNN,2021
+crest,840,CNN,2021
+vmware,806,CNN,2021
+neoplasia syndrome type,800,CNN,2021
+the white house,23838,FoxNews,2021
+senate,20607,FoxNews,2021
+taliban,20411,FoxNews,2021
+congress,18668,FoxNews,2021
+fbi,8390,FoxNews,2021
+cdc,6359,FoxNews,2021
+white house,5596,FoxNews,2021
+capitol hill,5246,FoxNews,2021
+fox,4211,FoxNews,2021
+fda,4190,FoxNews,2021
+the democratic party,3997,FoxNews,2021
+the supreme court,3556,FoxNews,2021
+medicare,3546,FoxNews,2021
+pentagon,3390,FoxNews,2021
+the republican party,3353,FoxNews,2021
+gop,2706,FoxNews,2021
+lincoln,2662,FoxNews,2021
+house,2651,FoxNews,2021
+♪ safelite repair,2566,FoxNews,2021
+fox & friends',2115,FoxNews,2021
+hamas,2090,FoxNews,2021
+state,2036,FoxNews,2021
+supreme court,1818,FoxNews,2021
+al qaeda,1785,FoxNews,2021
+the state department,1769,FoxNews,2021
+the new york times',1581,FoxNews,2021
+the justice department,1542,FoxNews,2021
+fox & friends,1504,FoxNews,2021
+nih,1475,FoxNews,2021
+nato,1450,FoxNews,2021
+cia,1386,FoxNews,2021
+neoplasia syndrome type,1305,FoxNews,2021
+humana,1289,FoxNews,2021
+irs,1191,FoxNews,2021
+harris,1174,FoxNews,2021
+fed,1170,FoxNews,2021
+the chinese communist party,1160,FoxNews,2021
+google,1148,FoxNews,2021
+the new york times,1124,FoxNews,2021
+the democrat party,1123,FoxNews,2021
+the department of justice,1115,FoxNews,2021
+xfinity,1023,FoxNews,2021
+navy,1022,FoxNews,2021
+at&t,1001,FoxNews,2021
+cbs,945,FoxNews,2021
+nbc,937,FoxNews,2021
+intel,926,FoxNews,2021
+the white house,20817,FoxNews,2014
+congress,20157,FoxNews,2014
+senate,15456,FoxNews,2014
+irs,11039,FoxNews,2014
+al qaeda,6345,FoxNews,2014
+hamas,6284,FoxNews,2014
+cia,4794,FoxNews,2014
+fbi,4681,FoxNews,2014
+taliban,4661,FoxNews,2014
+pentagon,3872,FoxNews,2014
+fox,3804,FoxNews,2014
+white house,3582,FoxNews,2014
+medicare,3016,FoxNews,2014
+state,3000,FoxNews,2014
+gop,2852,FoxNews,2014
+capitol hill,2811,FoxNews,2014
+nsa,2420,FoxNews,2014
+sony,2320,FoxNews,2014
+the supreme court,2228,FoxNews,2014
+the republican party,2049,FoxNews,2014
+fox & friends',1979,FoxNews,2014
+nato,1927,FoxNews,2014
+cdc,1886,FoxNews,2014
+the state department,1727,FoxNews,2014
+house,1717,FoxNews,2014
+the justice department,1576,FoxNews,2014
+fox & friends,1506,FoxNews,2014
+at&t,1435,FoxNews,2014
+nbc,1386,FoxNews,2014
+al-qaeda,1372,FoxNews,2014
+the democratic party,1332,FoxNews,2014
+celebrex,1317,FoxNews,2014
+fox news channel,1299,FoxNews,2014
+supreme court,1172,FoxNews,2014
+navy,1134,FoxNews,2014
+medicaid,1080,FoxNews,2014
+campbell,1074,FoxNews,2014
+epa,1025,FoxNews,2014
+fda,1020,FoxNews,2014
+ford,986,FoxNews,2014
+miller,978,FoxNews,2014
+cbs,934,FoxNews,2014
+justin,916,FoxNews,2014
+gm,884,FoxNews,2014
+nasa,861,FoxNews,2014
+fed,853,FoxNews,2014
+the united nations,835,FoxNews,2014
+congress,23875,FoxNews,2013
+the white house,21870,FoxNews,2013
+irs,16682,FoxNews,2013
+senate,16451,FoxNews,2013
+fbi,7444,FoxNews,2013
+medicare,7212,FoxNews,2013
+nsa,6537,FoxNews,2013
+capitol hill,4814,FoxNews,2013
+al qaeda,4623,FoxNews,2013
+white house,3967,FoxNews,2013
+fox,3933,FoxNews,2013
+cia,3365,FoxNews,2013
+state,3361,FoxNews,2013
+the republican party,2852,FoxNews,2013
+al-qaeda,2700,FoxNews,2013
+fox & friends',2468,FoxNews,2013
+pentagon,2452,FoxNews,2013
+house,2374,FoxNews,2013
+medicaid,2272,FoxNews,2013
+the supreme court,2192,FoxNews,2013
+campbell,2177,FoxNews,2013
+the justice department,2127,FoxNews,2013
+the state department,2118,FoxNews,2013
+ford,2009,FoxNews,2013
+taliban,1784,FoxNews,2013
+navy,1733,FoxNews,2013
+gop,1726,FoxNews,2013
+nissan,1463,FoxNews,2013
+at&t,1364,FoxNews,2013
+nbc,1333,FoxNews,2013
+fed,1331,FoxNews,2013
+fda,1299,FoxNews,2013
+fox & friends,1288,FoxNews,2013
+lincoln,1249,FoxNews,2013
+motorola,1198,FoxNews,2013
+fox news channel,1180,FoxNews,2013
+nasa,1111,FoxNews,2013
+hezbollah,1109,FoxNews,2013
+cbs,1098,FoxNews,2013
+supreme court,1067,FoxNews,2013
+google,1011,FoxNews,2013
+the united nations,977,FoxNews,2013
+the democratic party,945,FoxNews,2013
+treasury,944,FoxNews,2013
+aarp medicare supplement,923,FoxNews,2013
+celebrex,898,FoxNews,2013
+miller,879,FoxNews,2013
+fbi,20692,FoxNews,2016
+the white house,13464,FoxNews,2016
+congress,9959,FoxNews,2016
+senate,9597,FoxNews,2016
+gop,6997,FoxNews,2016
+medicare,6203,FoxNews,2016
+the republican party,6060,FoxNews,2016
+state,4911,FoxNews,2016
+fox,3661,FoxNews,2016
+the democratic party,3646,FoxNews,2016
+the state department,3198,FoxNews,2016
+the supreme court,2970,FoxNews,2016
+supreme court,2725,FoxNews,2016
+cia,2364,FoxNews,2016
+white house,2324,FoxNews,2016
+capitol hill,2038,FoxNews,2016
+the justice department,1966,FoxNews,2016
+at&t,1795,FoxNews,2016
+al qaeda,1766,FoxNews,2016
+nato,1740,FoxNews,2016
+pentagon,1691,FoxNews,2016
+fox news channel,1615,FoxNews,2016
+house,1540,FoxNews,2016
+the new york times',1538,FoxNews,2016
+fox & friends',1507,FoxNews,2016
+irs,1268,FoxNews,2016
+nbc,1256,FoxNews,2016
+fda,1255,FoxNews,2016
+taliban,1098,FoxNews,2016
+fox & friends,1077,FoxNews,2016
+TOPICS,1067,FoxNews,2016
+navy,1005,FoxNews,2016
+microsoft,948,FoxNews,2016
+aarp medicare supplement,941,FoxNews,2016
+the new york times,938,FoxNews,2016
+abc,935,FoxNews,2016
+ford,924,FoxNews,2016
+cbs,851,FoxNews,2016
+the european union,840,FoxNews,2016
+fox &,828,FoxNews,2016
+the department of justice,801,FoxNews,2016
+google,772,FoxNews,2016
+fed,747,FoxNews,2016
+washington post',665,FoxNews,2016
+the electoral college,637,FoxNews,2016
+epa,594,FoxNews,2016
+otezla,592,FoxNews,2016
+senate,33211,FoxNews,2020
+the white house,25071,FoxNews,2020
+congress,17699,FoxNews,2020
+fbi,11491,FoxNews,2020
+the supreme court,8420,FoxNews,2020
+fda,6100,FoxNews,2020
+white house,5798,FoxNews,2020
+supreme court,5709,FoxNews,2020
+the democratic party,5590,FoxNews,2020
+capitol hill,5262,FoxNews,2020
+cdc,4889,FoxNews,2020
+medicare,4521,FoxNews,2020
+fox,3752,FoxNews,2020
+house,2943,FoxNews,2020
+state,2484,FoxNews,2020
+the new york times',2384,FoxNews,2020
+the justice department,2300,FoxNews,2020
+lincoln,2050,FoxNews,2020
+gop,2027,FoxNews,2020
+humana,1992,FoxNews,2020
+taliban,1971,FoxNews,2020
+the republican party,1964,FoxNews,2020
+the world health organization,1758,FoxNews,2020
+the new york times,1702,FoxNews,2020
+pentagon,1661,FoxNews,2020
+the chinese communist party,1630,FoxNews,2020
+harris,1577,FoxNews,2020
+fox & friends',1563,FoxNews,2020
+treasury,1512,FoxNews,2020
+the department of justice,1497,FoxNews,2020
+fox & friends,1433,FoxNews,2020
+fema,1417,FoxNews,2020
+cia,1397,FoxNews,2020
+navy,1310,FoxNews,2020
+intel,1309,FoxNews,2020
+♪ safelite repair,1257,FoxNews,2020
+fox news channel,1256,FoxNews,2020
+at&t,1190,FoxNews,2020
+fed,1187,FoxNews,2020
+the democrat party,1177,FoxNews,2020
+the house of representatives,1172,FoxNews,2020
+google,1162,FoxNews,2020
+nbc,1115,FoxNews,2020
+otezla,1051,FoxNews,2020
+TOPICS,1046,FoxNews,2020
+un,1038,FoxNews,2020
+antifa,979,FoxNews,2020
+the white house,17682,FoxNews,2012
+congress,17048,FoxNews,2012
+medicare,12989,FoxNews,2012
+senate,8669,FoxNews,2012
+the supreme court,5879,FoxNews,2012
+fox,3535,FoxNews,2012
+white house,3300,FoxNews,2012
+taliban,2945,FoxNews,2012
+supreme court,2685,FoxNews,2012
+fbi,2538,FoxNews,2012
+fox & friends',2421,FoxNews,2012
+the republican party,2376,FoxNews,2012
+gop,2361,FoxNews,2012
+capitol hill,2304,FoxNews,2012
+the justice department,2277,FoxNews,2012
+al-qaeda,2226,FoxNews,2012
+al qaeda,2188,FoxNews,2012
+medicaid,1905,FoxNews,2012
+ford,1837,FoxNews,2012
+pentagon,1769,FoxNews,2012
+at&t,1690,FoxNews,2012
+state,1660,FoxNews,2012
+nasa,1519,FoxNews,2012
+motorola,1428,FoxNews,2012
+house,1414,FoxNews,2012
+fox news channel,1407,FoxNews,2012
+the united nations,1381,FoxNews,2012
+nbc,1306,FoxNews,2012
+verizon,1234,FoxNews,2012
+fed,1221,FoxNews,2012
+the democratic party,1185,FoxNews,2012
+epa,1176,FoxNews,2012
+nato,1153,FoxNews,2012
+nissan,1152,FoxNews,2012
+cia,1149,FoxNews,2012
+the state department,1129,FoxNews,2012
+navy,1108,FoxNews,2012
+abc,1093,FoxNews,2012
+aarp medicare supplement,1079,FoxNews,2012
+cbs,1047,FoxNews,2012
+gallup,983,FoxNews,2012
+lincoln,955,FoxNews,2012
+the department of justice,933,FoxNews,2012
+celebrex,880,FoxNews,2012
+fox & friends,813,FoxNews,2012
+hezbollah,811,FoxNews,2012
+al-qaida,799,FoxNews,2012
+fidelity,782,FoxNews,2012
+the white house,14290,FoxNews,2015
+congress,13649,FoxNews,2015
+fbi,7915,FoxNews,2015
+senate,6733,FoxNews,2015
+gop,5283,FoxNews,2015
+al qaeda,4877,FoxNews,2015
+medicare,4176,FoxNews,2015
+state,3622,FoxNews,2015
+fox,3415,FoxNews,2015
+pentagon,3013,FoxNews,2015
+taliban,2931,FoxNews,2015
+irs,2692,FoxNews,2015
+the republican party,2522,FoxNews,2015
+white house,2482,FoxNews,2015
+the state department,2421,FoxNews,2015
+capitol hill,2405,FoxNews,2015
+nbc,1785,FoxNews,2015
+cia,1748,FoxNews,2015
+at&t,1724,FoxNews,2015
+the supreme court,1649,FoxNews,2015
+fox & friends',1362,FoxNews,2015
+fda,1263,FoxNews,2015
+pg&e,1261,FoxNews,2015
+the democratic party,1246,FoxNews,2015
+the justice department,1145,FoxNews,2015
+fox news channel,1141,FoxNews,2015
+nsa,1113,FoxNews,2015
+al-qaeda,1089,FoxNews,2015
+fox & friends,1040,FoxNews,2015
+house,1028,FoxNews,2015
+supreme court,947,FoxNews,2015
+ford,942,FoxNews,2015
+navy,891,FoxNews,2015
+amtrak,839,FoxNews,2015
+epa,836,FoxNews,2015
+nissan,836,FoxNews,2015
+nato,833,FoxNews,2015
+the new york times',803,FoxNews,2015
+fed,750,FoxNews,2015
+cbs,739,FoxNews,2015
+lincoln,707,FoxNews,2015
+the united nations,698,FoxNews,2015
+microsoft,679,FoxNews,2015
+abc,656,FoxNews,2015
+non-24,654,FoxNews,2015
+hamas,568,FoxNews,2015
+the white house,32230,FoxNews,2017
+senate,28593,FoxNews,2017
+congress,24760,FoxNews,2017
+fbi,20884,FoxNews,2017
+white house,7449,FoxNews,2017
+capitol hill,7149,FoxNews,2017
+medicare,6870,FoxNews,2017
+the supreme court,3829,FoxNews,2017
+cia,3515,FoxNews,2017
+the democratic party,3513,FoxNews,2017
+house,3242,FoxNews,2017
+medicaid,3119,FoxNews,2017
+supreme court,3063,FoxNews,2017
+the justice department,3004,FoxNews,2017
+gop,2879,FoxNews,2017
+nato,2733,FoxNews,2017
+the republican party,2682,FoxNews,2017
+state,2567,FoxNews,2017
+fox,2553,FoxNews,2017
+pentagon,2495,FoxNews,2017
+un,2180,FoxNews,2017
+the new york times',2006,FoxNews,2017
+intel,1886,FoxNews,2017
+the department of justice,1874,FoxNews,2017
+nbc,1625,FoxNews,2017
+fox news channel,1622,FoxNews,2017
+navy,1536,FoxNews,2017
+fema,1520,FoxNews,2017
+nsa,1496,FoxNews,2017
+taliban,1488,FoxNews,2017
+the united nations,1465,FoxNews,2017
+fox & friends',1461,FoxNews,2017
+the state department,1418,FoxNews,2017
+ford,1236,FoxNews,2017
+al qaeda,1223,FoxNews,2017
+kremlin,1134,FoxNews,2017
+the new york times,1128,FoxNews,2017
+the house intelligence committee,1102,FoxNews,2017
+irs,1060,FoxNews,2017
+treasury,955,FoxNews,2017
+anoro,918,FoxNews,2017
+this white house,916,FoxNews,2017
+cbs,876,FoxNews,2017
+fox & friends,872,FoxNews,2017
+fda,864,FoxNews,2017
+the senate intelligence committee,863,FoxNews,2017
+nfl,849,FoxNews,2017
+fbi,37924,FoxNews,2018
+the white house,28652,FoxNews,2018
+senate,26930,FoxNews,2018
+congress,25003,FoxNews,2018
+white house,7039,FoxNews,2018
+capitol hill,6114,FoxNews,2018
+medicare,5983,FoxNews,2018
+un,5925,FoxNews,2018
+the supreme court,5902,FoxNews,2018
+supreme court,5900,FoxNews,2018
+the justice department,4855,FoxNews,2018
+cia,4446,FoxNews,2018
+the democratic party,4235,FoxNews,2018
+ford,4077,FoxNews,2018
+state,3878,FoxNews,2018
+nato,2886,FoxNews,2018
+the department of justice,2874,FoxNews,2018
+house,2736,FoxNews,2018
+fox,2702,FoxNews,2018
+gop,2652,FoxNews,2018
+the republican party,2138,FoxNews,2018
+pentagon,2093,FoxNews,2018
+lincoln,2050,FoxNews,2018
+google,1968,FoxNews,2018
+the new york times',1878,FoxNews,2018
+humana,1737,FoxNews,2018
+otezla,1716,FoxNews,2018
+intel,1589,FoxNews,2018
+fed,1464,FoxNews,2018
+fox news channel,1374,FoxNews,2018
+the new york times,1351,FoxNews,2018
+nbc,1343,FoxNews,2018
+fox & friends',1293,FoxNews,2018
+the state department,1282,FoxNews,2018
+justice department,1234,FoxNews,2018
+fda,1234,FoxNews,2018
+the senate judiciary committee,1219,FoxNews,2018
+the house intelligence committee,1172,FoxNews,2018
+♪ liberty,1155,FoxNews,2018
+the judiciary committee,1123,FoxNews,2018
+abc,1085,FoxNews,2018
+navy,1054,FoxNews,2018
+taliban,1007,FoxNews,2018
+neoplasia syndrome type,955,FoxNews,2018
+the house of representatives,942,FoxNews,2018
+hamas,940,FoxNews,2018
+kremlin,936,FoxNews,2018
+congress,29983,FoxNews,2019
+the white house,20844,FoxNews,2019
+senate,18107,FoxNews,2019
+fbi,16528,FoxNews,2019
+medicare,8858,FoxNews,2019
+the democratic party,6513,FoxNews,2019
+capitol hill,6232,FoxNews,2019
+white house,5637,FoxNews,2019
+house,3480,FoxNews,2019
+fox,3408,FoxNews,2019
+the supreme court,3190,FoxNews,2019
+the justice department,3115,FoxNews,2019
+un,2740,FoxNews,2019
+taliban,2696,FoxNews,2019
+pentagon,2604,FoxNews,2019
+lincoln,2519,FoxNews,2019
+the new york times',2468,FoxNews,2019
+cia,2447,FoxNews,2019
+state,2174,FoxNews,2019
+the department of justice,1927,FoxNews,2019
+humana,1842,FoxNews,2019
+supreme court,1798,FoxNews,2019
+intel,1754,FoxNews,2019
+navy,1700,FoxNews,2019
+nato,1682,FoxNews,2019
+the judiciary committee,1670,FoxNews,2019
+the republican party,1645,FoxNews,2019
+the new york times,1613,FoxNews,2019
+the house judiciary committee,1610,FoxNews,2019
+fda,1588,FoxNews,2019
+ford,1586,FoxNews,2019
+fed,1564,FoxNews,2019
+the state department,1384,FoxNews,2019
+boeing,1370,FoxNews,2019
+fox & friends',1308,FoxNews,2019
+the house of representatives,1304,FoxNews,2019
+google,1292,FoxNews,2019
+nbc,1277,FoxNews,2019
+gop,1209,FoxNews,2019
+harris,1195,FoxNews,2019
+xfinity,1160,FoxNews,2019
+fox news channel,1032,FoxNews,2019
+the democrat party,985,FoxNews,2019
+otezla,908,FoxNews,2019
+abc,905,FoxNews,2019
+al qaeda,893,FoxNews,2019
+fox & friends,893,FoxNews,2019
+the white house,26248,FoxNews,2022
+fbi,19350,FoxNews,2022
+senate,19082,FoxNews,2022
+congress,18648,FoxNews,2022
+nato,10476,FoxNews,2022
+supreme court,6185,FoxNews,2022
+the supreme court,6136,FoxNews,2022
+white house,5934,FoxNews,2022
+fox,5892,FoxNews,2022
+the democratic party,4573,FoxNews,2022
+fed,3545,FoxNews,2022
+gop,3466,FoxNews,2022
+medicare,3404,FoxNews,2022
+capitol hill,3110,FoxNews,2022
+pentagon,3001,FoxNews,2022
+the republican party,2911,FoxNews,2022
+cdc,2769,FoxNews,2022
+♪ safelite repair,2702,FoxNews,2022
+the justice department,2698,FoxNews,2022
+fda,2555,FoxNews,2022
+irs,2317,FoxNews,2022
+house,2282,FoxNews,2022
+taliban,2050,FoxNews,2022
+fox & friends',1965,FoxNews,2022
+the department of justice,1603,FoxNews,2022
+cia,1499,FoxNews,2022
+kremlin,1476,FoxNews,2022
+the new york times',1353,FoxNews,2022
+state,1276,FoxNews,2022
+nbc,1275,FoxNews,2022
+the democrat party,1248,FoxNews,2022
+neoplasia syndrome type,1237,FoxNews,2022
+the new york times,1207,FoxNews,2022
+fox & friends,1180,FoxNews,2022
+intel,1121,FoxNews,2022
+cabenuva,1087,FoxNews,2022
+the chinese communist party,995,FoxNews,2022
+harris,967,FoxNews,2022
+merrill,961,FoxNews,2022
+lincoln,918,FoxNews,2022
+cbs,808,FoxNews,2022
+sec,796,FoxNews,2022
+humana,787,FoxNews,2022
+chevrolet,772,FoxNews,2022
+the state department,755,FoxNews,2022
+this white house,754,FoxNews,2022
+abc,750,FoxNews,2022
+the white house,11022,FoxNews,2024
+hamas,9261,FoxNews,2024
+congress,8085,FoxNews,2024
+senate,6666,FoxNews,2024
+the supreme court,3431,FoxNews,2024
+fbi,3273,FoxNews,2024
+fox,2671,FoxNews,2024
+google,2639,FoxNews,2024
+white house,2303,FoxNews,2024
+capitol hill,2026,FoxNews,2024
+supreme court,1962,FoxNews,2024
+gop,1638,FoxNews,2024
+nikki haley,1580,FoxNews,2024
+the democratic party,1558,FoxNews,2024
+hezbollah,1457,FoxNews,2024
+fox & friends',1438,FoxNews,2024
+house,1414,FoxNews,2024
+the republican party,1382,FoxNews,2024
+harvard,1214,FoxNews,2024
+pentagon,1146,FoxNews,2024
+boeing,1142,FoxNews,2024
+columbia university,1007,FoxNews,2024
+cia,955,FoxNews,2024
+hoo,888,FoxNews,2024
+fda,882,FoxNews,2024
+columbia,864,FoxNews,2024
+nato,850,FoxNews,2024
+the justice department,837,FoxNews,2024
+nikki,822,FoxNews,2024
+nbc,784,FoxNews,2024
+un,765,FoxNews,2024
+the democrat party,759,FoxNews,2024
+♪ liberty,694,FoxNews,2024
+the new york times,655,FoxNews,2024
+fed,654,FoxNews,2024
+navy,652,FoxNews,2024
+medicare,597,FoxNews,2024
+state,574,FoxNews,2024
+npr,570,FoxNews,2024
+fox & friends,569,FoxNews,2024
+the department of justice,560,FoxNews,2024
+♪ safelite repair,549,FoxNews,2024
+irs,548,FoxNews,2024
+nyu,544,FoxNews,2024
+harris,475,FoxNews,2024
+neoplasia syndrome type,453,FoxNews,2024
+abc,438,FoxNews,2024
+hamas,29321,FoxNews,2023
+the white house,25256,FoxNews,2023
+congress,19361,FoxNews,2023
+fbi,18089,FoxNews,2023
+senate,10526,FoxNews,2023
+fox,6400,FoxNews,2023
+gop,5278,FoxNews,2023
+hezbollah,5046,FoxNews,2023
+white house,4885,FoxNews,2023
+irs,4738,FoxNews,2023
+capitol hill,4601,FoxNews,2023
+medicare,4446,FoxNews,2023
+pentagon,4034,FoxNews,2023
+house,3954,FoxNews,2023
+the supreme court,3924,FoxNews,2023
+the democratic party,2863,FoxNews,2023
+the justice department,2822,FoxNews,2023
+harvard,2726,FoxNews,2023
+the republican party,2619,FoxNews,2023
+google,2392,FoxNews,2023
+nato,2321,FoxNews,2023
+supreme court,2312,FoxNews,2023
+the department of justice,2185,FoxNews,2023
+cia,2079,FoxNews,2023
+fda,2062,FoxNews,2023
+fed,2057,FoxNews,2023
+fox & friends',1856,FoxNews,2023
+intel,1695,FoxNews,2023
+state,1558,FoxNews,2023
+humana,1497,FoxNews,2023
+navy,1362,FoxNews,2023
+ccp,1340,FoxNews,2023
+dexcom,1321,FoxNews,2023
+un,1308,FoxNews,2023
+♪ safelite repair,1271,FoxNews,2023
+weiss,1263,FoxNews,2023
+taliban,1224,FoxNews,2023
+the chinese communist party,1214,FoxNews,2023
+neoplasia syndrome type,1163,FoxNews,2023
+nikki haley,1148,FoxNews,2023
+ford,1094,FoxNews,2023
+the democrat party,1047,FoxNews,2023
+epa,1036,FoxNews,2023
+the new york times,985,FoxNews,2023
+hoo,924,FoxNews,2023
+harris,916,FoxNews,2023
+the house of representatives,911,FoxNews,2023

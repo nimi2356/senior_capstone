@@ -1,6 +1,5 @@
 Year,Network,ORG,Count
 2022,CNBC,fed,35029
-2022,CNBC,cnbc,11420
 2022,CNBC,s&p,9914
 2022,CNBC,microsoft,5408
 2022,CNBC,congress,3602
@@ -9,3 +8,4 @@ Year,Network,ORG,Count
 2022,CNBC,senate,2200
 2022,CNBC,ibm,2169
 2022,CNBC,medicare,2066
+2022,CNBC,ford,2042

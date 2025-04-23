@@ -169,7 +169,7 @@ def plot_top_entities_by_network_by_year(df, output_dir):
 
 def main():
     """Main function to run all visualizations locally."""
-    csv_filename = "all_networks_top50.csv"  # Change if CSV has a different name
+    csv_filename = "all_networks_top_orgs_no_networks.csv"  # Change if CSV has a different name
     output_dir = create_output_dir("visualizations")
     tables_dir = create_tables_dir()
     network_viz_dir = create_output_dir("network_visualizations")

@@ -1,6 +1,5 @@
 Year,Network,ORG,Count
 2021,CNBC,fed,17360
-2021,CNBC,cnbc,13502
 2021,CNBC,s&p,7923
 2021,CNBC,microsoft,3978
 2021,CNBC,senate,3853
@@ -9,3 +8,4 @@ Year,Network,ORG,Count
 2021,CNBC,the white house,3141
 2021,CNBC,ibm,3084
 2021,CNBC,at&t,2734
+2021,CNBC,ford,2662

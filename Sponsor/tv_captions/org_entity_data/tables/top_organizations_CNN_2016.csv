@@ -1,5 +1,4 @@
 Year,Network,ORG,Count
-2016,CNN,cnn,52301
 2016,CNN,fbi,15635
 2016,CNN,the white house,13769
 2016,CNN,medicare,10936
@@ -9,3 +8,4 @@ Year,Network,ORG,Count
 2016,CNN,gop,8344
 2016,CNN,state,5014
 2016,CNN,the democratic party,3923
+2016,CNN,at&t,3460

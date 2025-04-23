@@ -1,5 +1,4 @@
 Year,Network,ORG,Count
-2015,CNN,cnn,53400
 2015,CNN,the white house,13031
 2015,CNN,fbi,12244
 2015,CNN,congress,11024
@@ -9,3 +8,4 @@ Year,Network,ORG,Count
 2015,CNN,gop,4907
 2015,CNN,at&t,4465
 2015,CNN,the republican party,3346
+2015,CNN,state,3226

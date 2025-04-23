@@ -1,5 +1,4 @@
 Year,Network,ORG,Count
-2019,CNN,cnn,47487
 2019,CNN,congress,39695
 2019,CNN,the white house,39419
 2019,CNN,senate,21473
@@ -9,3 +8,4 @@ Year,Network,ORG,Count
 2019,CNN,capitol hill,7545
 2019,CNN,the justice department,4927
 2019,CNN,house,3884
+2019,CNN,the democratic party,3584

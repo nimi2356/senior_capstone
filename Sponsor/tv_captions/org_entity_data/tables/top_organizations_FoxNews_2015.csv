@@ -1,7 +1,6 @@
 Year,Network,ORG,Count
 2015,FoxNews,the white house,14290
 2015,FoxNews,congress,13649
-2015,FoxNews,fox news,9058
 2015,FoxNews,fbi,7915
 2015,FoxNews,senate,6733
 2015,FoxNews,gop,5283
@@ -9,3 +8,4 @@ Year,Network,ORG,Count
 2015,FoxNews,medicare,4176
 2015,FoxNews,state,3622
 2015,FoxNews,fox,3415
+2015,FoxNews,pentagon,3013

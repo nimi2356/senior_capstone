@@ -1,5 +1,4 @@
 Year,Network,ORG,Count
-2022,CNN,cnn,64485
 2022,CNN,the white house,21445
 2022,CNN,senate,20361
 2022,CNN,congress,18005
@@ -9,3 +8,4 @@ Year,Network,ORG,Count
 2022,CNN,white house,7634
 2022,CNN,the supreme court,6552
 2022,CNN,medicare,5831
+2022,CNN,kremlin,5186

@@ -1,6 +1,5 @@
 Year,Network,ORG,Count
 2015,CNBC,fed,24212
-2015,CNBC,cnbc,9880
 2015,CNBC,s&p,7827
 2015,CNBC,ibm,3971
 2015,CNBC,google,3671
@@ -9,3 +8,4 @@ Year,Network,ORG,Count
 2015,CNBC,at&t,2792
 2015,CNBC,yahoo,2536
 2015,CNBC,congress,2384
+2015,CNBC,apple,2254

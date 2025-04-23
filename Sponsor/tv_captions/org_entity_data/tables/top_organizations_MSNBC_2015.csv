@@ -1,6 +1,5 @@
 Year,Network,ORG,Count
 2015,MSNBC,congress,10774
-2015,MSNBC,msnbc,10502
 2015,MSNBC,the white house,8630
 2015,MSNBC,nbc,7360
 2015,MSNBC,senate,6974
@@ -9,3 +8,4 @@ Year,Network,ORG,Count
 2015,MSNBC,gop,4317
 2015,MSNBC,nbc news,4099
 2015,MSNBC,al qaeda,2735
+2015,MSNBC,nissan,2396

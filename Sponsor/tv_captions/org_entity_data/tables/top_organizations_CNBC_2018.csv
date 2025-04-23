@@ -1,6 +1,5 @@
 Year,Network,ORG,Count
 2018,CNBC,fed,18103
-2018,CNBC,cnbc,8597
 2018,CNBC,s&p,8300
 2018,CNBC,the white house,4852
 2018,CNBC,at&t,3546
@@ -9,3 +8,4 @@ Year,Network,ORG,Count
 2018,CNBC,ibm,2628
 2018,CNBC,fidelity,2625
 2018,CNBC,microsoft,2507
+2018,CNBC,ge,2361

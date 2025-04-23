@@ -1,7 +1,6 @@
 Year,Network,ORG,Count
 2016,FoxNews,fbi,20692
 2016,FoxNews,the white house,13464
-2016,FoxNews,fox news,12122
 2016,FoxNews,congress,9959
 2016,FoxNews,senate,9597
 2016,FoxNews,gop,6997
@@ -9,3 +8,4 @@ Year,Network,ORG,Count
 2016,FoxNews,the republican party,6060
 2016,FoxNews,state,4911
 2016,FoxNews,fox,3661
+2016,FoxNews,the democratic party,3646

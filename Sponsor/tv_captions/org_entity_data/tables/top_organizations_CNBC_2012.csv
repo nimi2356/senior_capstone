@@ -1,6 +1,5 @@
 Year,Network,ORG,Count
 2012,CNBC,fed,12917
-2012,CNBC,cnbc,8197
 2012,CNBC,s&p,5749
 2012,CNBC,congress,4565
 2012,CNBC,microsoft,3345
@@ -9,3 +8,4 @@ Year,Network,ORG,Count
 2012,CNBC,ford,2635
 2012,CNBC,fidelity,2484
 2012,CNBC,the white house,2476
+2012,CNBC,senate,2388

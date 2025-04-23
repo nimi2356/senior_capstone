@@ -1,5 +1,4 @@
 Year,Network,ORG,Count
-2020,CNN,cnn,55792
 2020,CNN,the white house,39187
 2020,CNN,senate,26227
 2020,CNN,congress,15950
@@ -9,3 +8,4 @@ Year,Network,ORG,Count
 2020,CNN,medicare,7427
 2020,CNN,the supreme court,5761
 2020,CNN,fbi,4277
+2020,CNN,capitol hill,3906
